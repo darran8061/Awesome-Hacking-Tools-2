@@ -248,79 +248,79 @@ ________________________________________________________________________________
 * __eapmd5pass	1.4__	An implementation of an offline dictionary attack against the EAP-MD5 protocol	http://www.willhackforsushi.com/?page_id=67
 * __easy-creds	3.9	A__ bash script that leverages ettercap and other tools to obtain credentials.	https://github.com/brav0hax/easy-creds
 * __easyfuzzer	3.6__	A flexible fuzzer, not only for web, has a CSV output for efficient output analysis (platform independant).	http://www.mh-sec.de/downloads.html.en
-eazy	0.1	This is a small python tool that scans websites to look for PHP shells, backups, admin panels, and more.	http://packetstormsecurity.com/files/117572/EAZY-Web-Scanner.html
-edb	0.9.20	A QT4-based binary mode debugger with the goal of having usability on par with OllyDbg.	http://www.codef00.com/projects.php#Debugger
-eindeutig	20050628_1	Examine the contents of Outlook Express DBX email repository files (forensic purposes)	http://www.jonesdykstra.com/
-elettra	1.0	Encryption utility by Julia Identity	http://www.winstonsmith.info/julia/elettra/
-elettra-gui	1.0	Gui for the elettra crypto application.	http://www.winstonsmith.info/julia/elettra/
-elite-proxy-finder	42.b92f75a	Finds public elite anonymity proxies and concurrently tests them.	https://github.com/DanMcInerney/elite-proxy-finder
-enabler	1	attempts to find the enable password on a cisco system via brute force.	http://packetstormsecurity.org/cisco/enabler.c
-encodeshellcode	0.1b	This is an encoding tool for 32-bit x86 shellcode that assists a researcher when dealing with character filter or byte restrictions in a buffer overflow vulnerability or some kind of IDS/IPS/AV blocking your code.	http://packetstormsecurity.com/files/119904/Encode-Shellcode.1b.html
-ent	1.0	Pseudorandom number sequence test.	http://www.fourmilab.ch/random
-enum-shares	7.97cba5a	Tool that enumerates shared folders across the network and under a custom user account.	https://github.com/dejanlevaja/enum_shares
-enum4linux	0.8.9	A tool for enumerating information from Windows and Samba systems.	http://labs.portcullis.co.uk/application/enum4linux/
-enumiax	1.0	IAX enumerator	http://sourceforge.net/projects/enumiax/
-enyelkm	1.2	Rootkit for Linux x86 kernels v2.6.	http://www.enye-sec.org/programas.html
-epicwebhoneypot	2.0a	Tool which aims to lure attackers using various types of web vulnerability scanners by tricking them into believing that they have found a vulnerability on a host.	http://sourceforge.net/projects/epicwebhoneypot/
-erase-registrations	1.0	IAX flooder	http://www.hackingexposedvoip.com/
-etherape	0.9.13	A graphical network monitor for various OSI layers and protocols	http://etherape.sourceforge.net/
-ettercap	0.8.1	A network sniffer/interceptor/logger for ethernet LANs - console	http://ettercap.github.com/ettercap/
-evilgrade	2.0.0	Modular framework that takes advantage of poor upgrade implementations by injecting fake updates	http://www.infobyte.com.ar/developments.html
-evilmaid	1.01	TrueCrypt loader backdoor to sniff volume password	http://theinvisiblethings.blogspot.com
-exiv2	0.24	Exif and Iptc metadata manipulation library and tools	http://exiv2.org
-exploit-db	1.6	The Exploit Database (EDB) – an ultimate archive of exploits and vulnerable software - A collection of hacks	http://www.exploit-db.com
-extracthosts	14.ec8b89c	Extracts hosts (IP/Hostnames) from files.	https://github.com/bwall/ExtractHosts
-extundelete	0.2.4	Utility for recovering deleted files from ext2, ext3 or ext4 partitions by parsing the journal	http://extundelete.sourceforge.net
-eyepwn	1.0	Exploit for Eye-Fi Helper directory traversal vulnerability	http://www.pentest.co.uk
-eyewitness	278.e72c21e	Designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.	https://github.com/ChrisTruncer/EyeWitness
-facebot	23.57f6025	A facebook profile and reconnaissance system.	https://github.com/pun1sh3r/facebot
-facebrute	7.ece355b	This script tries to guess passwords for a given facebook account using a list of passwords (dictionary).	https://github.com/emerinohdz/FaceBrute
-fakeap	0.3.2	Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames.	http://www.blackalchemy.to/project/fakeap/
-fakedns	17.87d4216	A regular-expression based python MITM DNS server with correct DNS request passthrough and "Not Found" responses.	https://github.com/Crypt0s/FakeDns
-fakemail	1.0	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
-fakenetbios	7.b83701e	A family of tools designed to simulate Windows hosts (NetBIOS) on a LAN.	https://github.com/mubix/FakeNetBIOS
-fang	1.2	A multi service threaded MD5 cracker.	https://github.com/evilsocket/fang
-fbht	r12.a284878	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
-fcrackzip	1.0	Zip file password cracker	http://oldhome.schmorp.de/marc/fcrackzip.html
-fern-wifi-cracker	219	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
-fernmelder	6.c6d4ebe	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
-fgscanner	11.893372c	An advanced, opensource URL scanner.	http://www.fantaghost.com/fgscanner
-fhttp	1.3	This is a framework for HTTP related attacks. It is written in Perl with a GTK interface, has a proxy for debugging and manipulation, proxy chaining, evasion rules, and more.	http://packetstormsecurity.com/files/104315/FHTTP-Attack-Tool.3.html
-fierce	0.9.9	A DNS scanner	http://ha.ckers.org/fierce/
-fiked	0.0.5	Fake IDE daemon	http://www.roe.ch/FakeIKEd
-filibuster	161.37b7f9c	A Egress filter mapping application with additional functionality.	https://github.com/subinacls/Filibuster
-fimap	1.00	A little tool for local and remote file inclusion auditing and exploitation	http://code.google.com/p/fimap/
-findmyhash	1.1.2	Crack different types of hashes using free online services	http://code.google.com/p/findmyhash/
-firewalk	5.0	An active reconnaissance network security tool	http://packetfactory.openwall.net/projects/firewalk/
-firmware-mod-kit	099	Modify firmware images without recompiling!	http://code.google.com/p/firmware-mod-kit
-firstexecution	6.a275793	A Collection of different ways to execute code outside of the expected entry points.	https://github.com/nccgroup/firstexecution
-fl0p	0.1	A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet sequences, can peek into cryptographic tunnels, can tell human beings and robots apart, and performs a couple of other infosec-related tricks.	http://lcamtuf.coredump.cx/
-flare	0.6	Flare processes an SWF and extracts all scripts from it.	http://www.nowrap.de/flare.html
-flasm	1.62	Disassembler tool for SWF bytecode	http://www.nowrap.de/flasm.html
-flawfinder	1.31	Searches through source code for potential security flaws.	http://www.dwheeler.com/flawfinder
-flowinspect	94.01c8921	A network traffic inspection tool.	https://github.com/7h3rAm/flowinspect
-flunym0us	2.0	A Vulnerability Scanner for Wordpress and Moodle.	http://code.google.com/p/flunym0us/
-foremost	1.5.7	A console program to recover files based on their headers, footers, and internal data structures	http://foremost.sourceforge.net/
-fpdns	0.9.3	Program that remotely determines DNS server versions	http://code.google.com/p/fpdns/
-fping	3.10	A utility to ping multiple hosts at once	http://www.fping.org/
-fport	2.0	Identify unknown open ports and their associated applications.	http://www.foundstone.com/us/resources/proddesc/fport.htm
-fraud-bridge	10.775c563	ICMP and DNS tunneling via IPv4 and IPv6.	https://github.com/stealth/fraud-bridge
-freeipmi	1.4.5	Sensor monitoring, system event monitoring, power control, and serial-over-LAN (SOL).	http://www.gnu.org/software/freeipmi/
-freeradius	3.0.4	The premier open source RADIUS server	http://www.freeradius.org/
-frisbeelite	1.2	A GUI-based USB device fuzzer.	https://github.com/nccgroup/FrisbeeLite
-fs-nyarl	1.0	A network takeover & forensic analysis tool - useful to advanced PenTest tasks & for fun and profit.	http://www.fulgursecurity.com/en/content/fs-nyarl
-fsnoop	3.3	A tool to monitor file operations on GNU/Linux systems by using the Inotify mechanism. Its primary purpose is to help detecting file race condition vulnerabilities and since version 3, to exploit them with loadable DSO modules (also called "payload modules" or "paymods").	http://vladz.devzero.fr/fsnoop.php
-fstealer	0.1	Automates file system mirroring through remote file disclosur vulnerabilities on Linux machines.	http://packetstormsecurity.com/files/106450/FStealer-Filesystem-Mirroring-Tool.html
-ftester	1.0	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
-ftp-fuzz	1337	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
-ftp-scanner	0.2.5	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
-ftp-spider	1.0	FTP investigation tool - Scans ftp server for the following: reveal entire directory tree structures, detect anonymous access, detect directories with write permissions, find user specified data within repository.	http://packetstormsecurity.com/files/35120/ftp-spider.pl.html
-ftpmap	0.4	scans remote FTP servers to identify what software and what versions they are running.	http://wcoserver.googlecode.com/files/
-fusil	1.4	Fusil the fuzzer is a Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files	http://bitbucket.org/haypo/fusil/wiki/Home
-fuzzap	14.f13932c	A python script for obfuscating wireless networks.	https://github.com/lostincynicism/FuzzAP
-fuzzball2	0.7	A little fuzzer for TCP and IP options. It sends a bunch of more or less bogus packets to the host of your choice.	http://nologin.org/
-fuzzdb	1.09	Attack and Discovery Pattern Database for Application Fuzz Testing	https://code.google.com/p/fuzzdb/
-fuzzdiff	1.0	A simple tool designed to help out with crash analysis during fuzz testing. It selectively 'un-fuzzes' portions of a fuzzed file that is known to cause a crash, re-launches the targeted application, and sees if it still crashes.	http://vsecurity.com/resources/tool
+* __eazy 0.1__	This is a small python tool that scans websites to look for PHP shells, backups, admin panels, and more.	http://packetstormsecurity.com/files/117572/EAZY-Web-Scanner.html
+* __edb	0.9.20__	A QT4-based binary mode debugger with the goal of having usability on par with OllyDbg.	http://www.codef00.com/projects.php#Debugger
+* __eindeutig	20050628_1__	Examine the contents of Outlook Express DBX email repository files (forensic purposes)	http://www.jonesdykstra.com/
+* __elettra	1.0__	Encryption utility by Julia Identity	http://www.winstonsmith.info/julia/elettra/
+* __elettra-gui	1.0__	Gui for the elettra crypto application.	http://www.winstonsmith.info/julia/elettra/
+* __elite-proxy-finder	42.b92f75a__	Finds public elite anonymity proxies and concurrently tests them.	https://github.com/DanMcInerney/elite-proxy-finder
+* __enabler	1__	attempts to find the enable password on a cisco system via brute force.	http://packetstormsecurity.org/cisco/enabler.c
+* __encodeshellcode	0.1b__	This is an encoding tool for 32-bit x86 shellcode that assists a researcher when dealing with character filter or byte restrictions in a buffer overflow vulnerability or some kind of IDS/IPS/AV blocking your code.	http://packetstormsecurity.com/files/119904/Encode-Shellcode.1b.html
+* __ent	1.0__	Pseudorandom number sequence test.	http://www.fourmilab.ch/random
+* __enum-shares	7.97cba5a__	Tool that enumerates shared folders across the network and under a custom user account.	https://github.com/dejanlevaja/enum_shares
+* __enum4linux	0.8.9__	A tool for enumerating information from Windows and Samba systems.	http://labs.portcullis.co.uk/application/enum4linux/
+* __enumiax	1.0__	IAX enumerator	http://sourceforge.net/projects/enumiax/
+* __enyelkm	1.2__	Rootkit for Linux x86 kernels v2.6.	http://www.enye-sec.org/programas.html
+* __epicwebhoneypot	2.0a__	Tool which aims to lure attackers using various types of web vulnerability scanners by tricking them into believing that they have found a vulnerability on a host.	http://sourceforge.net/projects/epicwebhoneypot/
+* __erase-registrations	1.0__	IAX flooder	http://www.hackingexposedvoip.com/
+* __etherape	0.9.13__	A graphical network monitor for various OSI layers and protocols	http://etherape.sourceforge.net/
+* __ettercap	0.8.1__	A network sniffer/interceptor/logger for ethernet LANs - console	http://ettercap.github.com/ettercap/
+* __evilgrade	2.0.0__	Modular framework that takes advantage of poor upgrade implementations by injecting fake updates	http://www.infobyte.com.ar/developments.html
+* __evilmaid	1.01__	TrueCrypt loader backdoor to sniff volume password	http://theinvisiblethings.blogspot.com
+* __exiv2	0.24__	Exif and Iptc metadata manipulation library and tools	http://exiv2.org
+* __exploit-db	1.6__	The Exploit Database (EDB) – an ultimate archive of exploits and vulnerable software - A collection of hacks	http://www.exploit-db.com
+* __extracthosts	14.ec8b89c__	Extracts hosts (IP/Hostnames) from files.	https://github.com/bwall/ExtractHosts
+* __extundelete	0.2.4__	Utility for recovering deleted files from ext2, ext3 or ext4 partitions by parsing the journal	http://extundelete.sourceforge.net
+* __eyepwn	1.0__	Exploit for Eye-Fi Helper directory traversal vulnerability	http://www.pentest.co.uk
+* __eyewitness	278.e72c21e__	Designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.	https://github.com/ChrisTruncer/EyeWitness
+* __facebot	23.57f6025__	A facebook profile and reconnaissance system.	https://github.com/pun1sh3r/facebot
+* __facebrute	7.ece355b__	This script tries to guess passwords for a given facebook account using a list of passwords (dictionary).	https://github.com/emerinohdz/FaceBrute
+* __fakeap	0.3.2__	Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames.	http://www.blackalchemy.to/project/fakeap/
+* __fakedns	17.87d4216__	A regular-expression based python MITM DNS server with correct DNS request passthrough and "Not Found" responses.	https://github.com/Crypt0s/FakeDns
+* __fakemail	1.0__	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
+* __fakenetbios	7.b83701e__	A family of tools designed to simulate Windows hosts (NetBIOS) on a LAN.	https://github.com/mubix/FakeNetBIOS
+* __fang	1.2__	A multi service threaded MD5 cracker.	https://github.com/evilsocket/fang
+* __fbht	r12.a284878__	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
+* __fcrackzip	1.0__	Zip file password cracker	http://oldhome.schmorp.de/marc/fcrackzip.html
+* __fern-wifi-cracker	219__	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
+* __fernmelder	6.c6d4ebe__	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
+* __fgscanner	11.893372c__	An advanced, opensource URL scanner.	http://www.fantaghost.com/fgscanner
+* __fhttp	1.3__	This is a framework for HTTP related attacks. It is written in Perl with a GTK interface, has a proxy for debugging and manipulation, proxy chaining, evasion rules, and more.	http://packetstormsecurity.com/files/104315/FHTTP-Attack-Tool.3.html
+* __fierce	0.9.9__	A DNS scanner	http://ha.ckers.org/fierce/
+* __fiked	0.0.5__	Fake IDE daemon	http://www.roe.ch/FakeIKEd
+* __filibuster	161.37b7f9c__	A Egress filter mapping application with additional functionality.	https://github.com/subinacls/Filibuster
+* __fimap	1.00__	A little tool for local and remote file inclusion auditing and exploitation	http://code.google.com/p/fimap/
+* __findmyhash	1.1.2__	Crack different types of hashes using free online services	http://code.google.com/p/findmyhash/
+* __firewalk	5.0__	An active reconnaissance network security tool	http://packetfactory.openwall.net/projects/firewalk/
+* __firmware-mod-kit	099__	Modify firmware images without recompiling!	http://code.google.com/p/firmware-mod-kit
+* __firstexecution	6.a275793__	A Collection of different ways to execute code outside of the expected entry points.	https://github.com/nccgroup/firstexecution
+* __fl0p	0.1__	A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet sequences, can peek into cryptographic tunnels, can tell human beings and robots apart, and performs a couple of other infosec-related tricks.	http://lcamtuf.coredump.cx/
+* __flare	0.6__	Flare processes an SWF and extracts all scripts from it.	http://www.nowrap.de/flare.html
+* __flasm	1.62__	Disassembler tool for SWF bytecode	http://www.nowrap.de/flasm.html
+* __flawfinder	1.31__	Searches through source code for potential security flaws.	http://www.dwheeler.com/flawfinder
+* __flowinspect	94.01c8921__	A network traffic inspection tool.	https://github.com/7h3rAm/flowinspect
+* __flunym0us	2.0__	A Vulnerability Scanner for Wordpress and Moodle.	http://code.google.com/p/flunym0us/
+* __foremost	1.5.7__	A console program to recover files based on their headers, footers, and internal data structures	http://foremost.sourceforge.net/
+* __fpdns	0.9.3__	Program that remotely determines DNS server versions	http://code.google.com/p/fpdns/
+* __fping	3.10__	A utility to ping multiple hosts at once	http://www.fping.org/
+* __fport	2.0__	Identify unknown open ports and their associated applications.	http://www.foundstone.com/us/resources/proddesc/fport.htm
+* __fraud-bridge	10.775c563__	ICMP and DNS tunneling via IPv4 and IPv6.	https://github.com/stealth/fraud-bridge
+* __freeipmi	1.4.5__	Sensor monitoring, system event monitoring, power control, and serial-over-LAN (SOL).	http://www.gnu.org/software/freeipmi/
+* __freeradius	3.0.4__	The premier open source RADIUS server	http://www.freeradius.org/
+* __frisbeelite	1.2__	A GUI-based USB device fuzzer.	https://github.com/nccgroup/FrisbeeLite
+* __fs-nyarl	1.0__	A network takeover & forensic analysis tool - useful to advanced PenTest tasks & for fun and profit.	http://www.fulgursecurity.com/en/content/fs-nyarl
+* __fsnoop	3.3__	A tool to monitor file operations on GNU/Linux systems by using the Inotify mechanism. Its primary purpose is to help detecting file race condition vulnerabilities and since version 3, to exploit them with loadable DSO modules (also called "payload modules" or "paymods").	http://vladz.devzero.fr/fsnoop.php
+* __fstealer	0.1__	Automates file system mirroring through remote file disclosur vulnerabilities on Linux machines.	http://packetstormsecurity.com/files/106450/FStealer-Filesystem-Mirroring-Tool.html
+* __ftester	1.0__	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
+* __ftp-fuzz	1337__	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
+* __ftp-scanner	0.2.5__	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
+* __ftp-spider	1.0__	FTP investigation tool - Scans ftp server for the following: reveal entire directory tree structures, detect anonymous access, detect directories with write permissions, find user specified data within repository.	http://packetstormsecurity.com/files/35120/ftp-spider.pl.html
+* __ftpmap	0.4__	scans remote FTP servers to identify what software and what versions they are running.	http://wcoserver.googlecode.com/files/
+* __fusil	1.4__	Fusil the fuzzer is a Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files	http://bitbucket.org/haypo/fusil/wiki/Home
+* __fuzzap	14.f13932c__	A python script for obfuscating wireless networks.	https://github.com/lostincynicism/FuzzAP
+* __fuzzball2	0.7__	A little fuzzer for TCP and IP options. It sends a bunch of more or less bogus packets to the host of your choice.	http://nologin.org/
+* __fuzzdb	1.09__	Attack and Discovery Pattern Database for Application Fuzz Testing	https://code.google.com/p/fuzzdb/
+* __fuzzdiff	1.0__	A simple tool designed to help out with crash analysis during fuzz testing. It selectively 'un-fuzzes' portions of a fuzzed file that is known to cause a crash, re-launches the targeted application, and sees if it still crashes.	http://vsecurity.com/resources/tool
 fuzztalk	1.0.0.0	An XML driven fuzz testing framework that emphasizes easy extensibility and reusability.	https://code.google.com/p/fuzztalk
 g72x++	1	Decoder for the g72x++ codec.	http://www.ps-auxw.de/
 galleta	20040505_1	Examine the contents of the IE's cookie files for forensic purposes	http://www.jonesdykstra.com/
