@@ -321,50 +321,50 @@ ________________________________________________________________________________
 * __fuzzball2	0.7__	A little fuzzer for TCP and IP options. It sends a bunch of more or less bogus packets to the host of your choice.	http://nologin.org/
 * __fuzzdb	1.09__	Attack and Discovery Pattern Database for Application Fuzz Testing	https://code.google.com/p/fuzzdb/
 * __fuzzdiff	1.0__	A simple tool designed to help out with crash analysis during fuzz testing. It selectively 'un-fuzzes' portions of a fuzzed file that is known to cause a crash, re-launches the targeted application, and sees if it still crashes.	http://vsecurity.com/resources/tool
-fuzztalk	1.0.0.0	An XML driven fuzz testing framework that emphasizes easy extensibility and reusability.	https://code.google.com/p/fuzztalk
-g72x++	1	Decoder for the g72x++ codec.	http://www.ps-auxw.de/
-galleta	20040505_1	Examine the contents of the IE's cookie files for forensic purposes	http://www.jonesdykstra.com/
-gdb	7.8.1	The GNU Debugger	http://www.gnu.org/software/gdb/
-genlist	0.1	Generates lists of IP addresses.
-geoedge	0.2	This little tools is designed to get geolocalization information of a host, it get the information from two sources (maxmind and geoiptool).
-geoip	1.6.2	Non-DNS IP-to-country resolver C library & utils	http://www.maxmind.com/app/c
-geoipgen	0.4	GeoIPgen is a country to IP addresses generator.	http://code.google.com/p/geoipgen/
-getsids	0.0.1	Getsids tries to enumerate Oracle Sids by sending the services command to the Oracle TNS listener. Like doing ‘lsnrctl service’.	http://www.cqure.net/wp/getsids/
-gggooglescan	0.4	A Google scraper which performs automated searches and returns results of search queries in the form of URLs or hostnames.	http://www.morningstarsecurity.com/research/gggooglescan
-ghettotooth	1.0	Ghettodriving for bluetooth	http://www.oldskoolphreak.com/tfiles/ghettotooth.txt
-ghost-phisher	1.62	GUI suite for phishing and penetration attacks	http://code.google.com/p/ghost-phisher
-ghost-py	0.1b3	Webkit based webclient (relies on PyQT).	http://jeanphix.github.com/Ghost.py/
-giskismet	20110805	A program to visually represent the Kismet data in a flexible manner.	http://www.giskismet.org
-gnuradio	3.7.5.1	General purpose DSP and SDR toolkit. With drivers for usrp and fcd.	http://gnuradio.org
-gnutls2	2.12.23	A library which provides a secure layer over a reliable transport layer (Version 2)	http://gnutls.org/
-goldeneye	16.7a38fe9	A HTTP DoS test tool. Attack Vector exploited: HTTP Keep Alive + NoCache.	https://github.com/jseidl/GoldenEye
-golismero	2.0	Opensource web security testing framework.	https://github.com/golismero/golismero
-goodork	2.2	A python script designed to allow you to leverage the power of google dorking straight from the comfort of your command line.	http://goo-dork.blogspot.com/
-goofile	1.5	Command line filetype search	https://code.google.com/p/goofile/
-goog-mail	1.0	Enumerate domain emails from google.	http://www.darkc0de.com/others/goog-mail.py
-googlesub	1.2	A python script to find domains by using google dorks.	https://github.com/zombiesam/googlesub
-gooscan	1.0.9	A tool that automates queries against Google search appliances, but with a twist.	http://johnny.ihackstuff.com/downloads/task,doc_details&Itemid=/gid,28/
-gqrx	2.3.1	Interactive SDR receiver waterfall for many devices.	http://gqrx.dk/
-grabber	0.1	A web application scanner. Basically it detects some kind of vulnerabilities in your website.	http://rgaucher.info/beta/grabber/
-grepforrfi	0.1	Simple script for parsing web logs for RFIs and Webshells v1.2	http://www.irongeek.com/downloads/grepforrfi.txt
-grokevt	0.5.0	A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files.	http://code.google.com/p/grokevt/
-gtalk-decode	0.1	Google Talk decoder tool that demonstrates recovering passwords from accounts.	http://packetstormsecurity.com/files/119154/Google-Talk-Decoder.html
-gtp-scan	0.7	A small python script that scans for GTP (GPRS tunneling protocol) speaking hosts.	http://www.c0decafe.de/
-guymager	0.7.4	A forensic imager for media acquisition.	http://guymager.sourceforge.net/
-gwcheck	0.1	A simple program that checks if a host in an ethernet network is a gateway to Internet.	http://packetstormsecurity.com/files/62047/gwcheck.c.html
-gwtenum	7.f27a5aa	Enumeration of GWT-RCP method calls.	http://www.gdssecurity.com/l/t/d.php?k=GwtEnum
-hackersh	0.2.0	A shell for with Pythonect-like syntax, including wrappers for commonly used security tools	http://www.hackersh.org/
-halberd	0.2.4	Halberd discovers HTTP load balancers. It is useful for web application security auditing and for load balancer configuration testing.	http://halberd.superadditive.com/
-halcyon	0.1	A repository crawler that runs checksums for static files found within a given git repository.	http://www.blackhatlibrary.net/Halcyon
-hamster	2.0.0	Tool for HTTP session sidejacking.	http://hamster.erratasec.com/
-handle	0.0	An small application designed to analyze your system searching for global objects related to running proccess and display information for every found object, like tokens, semaphores, ports, files,..	http://www.tarasco.org/security/handle/index.html
-hasere	1.0	Discover the vhosts using google and bing.	https://github.com/galkan/hasere
-hash-identifier	1.1	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
-hashcat	0.47	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
-hashcat-utils	1.0	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
-hasher	32.e9d1394	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
-hashid	2.6.0	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
-hashpump	34.0b3c286	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
+* __fuzztalk	1.0.0.0__	An XML driven fuzz testing framework that emphasizes easy extensibility and reusability.	https://code.google.com/p/fuzztalk
+* __g72x++	1__	Decoder for the g72x++ codec.	http://www.ps-auxw.de/
+* __galleta	20040505_1__	Examine the contents of the IE's cookie files for forensic purposes	http://www.jonesdykstra.com/
+* __gdb	7.8.1__	The GNU Debugger	http://www.gnu.org/software/gdb/
+* __genlist	0.1__	Generates lists of IP addresses.
+* __geoedge	0.2__	This little tools is designed to get geolocalization information of a host, it get the information from two sources (maxmind and geoiptool).
+* __geoip	1.6.2__	Non-DNS IP-to-country resolver C library & utils	http://www.maxmind.com/app/c
+* __geoipgen	0.4__	GeoIPgen is a country to IP addresses generator.	http://code.google.com/p/geoipgen/
+* __getsids	0.0.1__	Getsids tries to enumerate Oracle Sids by sending the services command to the Oracle TNS listener. Like doing ‘lsnrctl service’.	http://www.cqure.net/wp/getsids/
+* __gggooglescan	0.4__	A Google scraper which performs automated searches and returns results of search queries in the form of URLs or hostnames.	http://www.morningstarsecurity.com/research/gggooglescan
+* __ghettotooth	1.0__	Ghettodriving for bluetooth	http://www.oldskoolphreak.com/tfiles/ghettotooth.txt
+* __ghost-phisher	1.62__	GUI suite for phishing and penetration attacks	http://code.google.com/p/ghost-phisher
+* __ghost-py	0.1b3__	Webkit based webclient (relies on PyQT).	http://jeanphix.github.com/Ghost.py/
+* __giskismet	20110805__	A program to visually represent the Kismet data in a flexible manner.	http://www.giskismet.org
+* __gnuradio	3.7.5.1__	General purpose DSP and SDR toolkit. With drivers for usrp and fcd.	http://gnuradio.org
+* __gnutls2	2.12.23__	A library which provides a secure layer over a reliable transport layer (Version 2)	http://gnutls.org/
+* __goldeneye	16.7a38fe9__	A HTTP DoS test tool. Attack Vector exploited: HTTP Keep Alive + NoCache.	https://github.com/jseidl/GoldenEye
+* __golismero	2.0__	Opensource web security testing framework.	https://github.com/golismero/golismero
+* __goodork	2.2__	A python script designed to allow you to leverage the power of google dorking straight from the comfort of your command line.	http://goo-dork.blogspot.com/
+* __goofile	1.5__	Command line filetype search	https://code.google.com/p/goofile/
+* __goog-mail	1.0__	Enumerate domain emails from google.	http://www.darkc0de.com/others/goog-mail.py
+* __googlesub	1.2__	A python script to find domains by using google dorks.	https://github.com/zombiesam/googlesub
+* __gooscan	1.0.9__	A tool that automates queries against Google search appliances, but with a twist.	http://johnny.ihackstuff.com/downloads/task,doc_details&Itemid=/gid,28/
+* __gqrx	2.3.1__	Interactive SDR receiver waterfall for many devices.	http://gqrx.dk/
+* __grabber	0.1__	A web application scanner. Basically it detects some kind of vulnerabilities in your website.	http://rgaucher.info/beta/grabber/
+* __grepforrfi	0.1__	Simple script for parsing web logs for RFIs and Webshells v1.2	http://www.irongeek.com/downloads/grepforrfi.txt
+* __grokevt	0.5.0__	A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files.	http://code.google.com/p/grokevt/
+* __gtalk-decode	0.1__	Google Talk decoder tool that demonstrates recovering passwords from accounts.	http://packetstormsecurity.com/files/119154/Google-Talk-Decoder.html
+* __gtp-scan	0.7__	A small python script that scans for GTP (GPRS tunneling protocol) speaking hosts.	http://www.c0decafe.de/
+* __guymager	0.7.4__	A forensic imager for media acquisition.	http://guymager.sourceforge.net/
+* __gwcheck	0.1__	A simple program that checks if a host in an ethernet network is a gateway to Internet.	http://packetstormsecurity.com/files/62047/gwcheck.c.html
+* __gwtenum	7.f27a5aa__	Enumeration of GWT-RCP method calls.	http://www.gdssecurity.com/l/t/d.php?k=GwtEnum
+* __hackersh	0.2.0__	A shell for with Pythonect-like syntax, including wrappers for commonly used security tools	http://www.hackersh.org/
+* __halberd	0.2.4__	Halberd discovers HTTP load balancers. It is useful for web application security auditing and for load balancer configuration testing.	http://halberd.superadditive.com/
+* __halcyon	0.1__	A repository crawler that runs checksums for static files found within a given git repository.	http://www.blackhatlibrary.net/Halcyon
+* __hamster	2.0.0__	Tool for HTTP session sidejacking.	http://hamster.erratasec.com/
+* __handle	0.0__	An small application designed to analyze your system searching for global objects related to running proccess and display information for every found object, like tokens, semaphores, ports, files,..	http://www.tarasco.org/security/handle/index.html
+* __hasere	1.0__	Discover the vhosts using google and bing.	https://github.com/galkan/hasere
+* __hash-identifier	1.1__	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
+* __hashcat	0.47__	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
+* ___hashcat-utils	1.0__	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
+* __hasher	32.e9d1394__	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
+* __hashid	2.6.0__	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
+* __hashpump	34.0b3c286__	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
 hashtag	0.41	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
 haystack	1035.ac2ffa4	A Python framework for finding C structures from process memory - heap analysis - Memory structures forensics.	https://github.com/trolldbois/python-haystack
 hbad	1.0	This tool allows you to test clients on the heartbleed bug.	http://www.curesec.com/
