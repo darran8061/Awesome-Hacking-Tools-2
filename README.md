@@ -365,25 +365,25 @@ ________________________________________________________________________________
 * __hasher	32.e9d1394__	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
 * __hashid	2.6.0__	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
 * __hashpump	34.0b3c286__	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
-hashtag	0.41	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
-haystack	1035.ac2ffa4	A Python framework for finding C structures from process memory - heap analysis - Memory structures forensics.	https://github.com/trolldbois/python-haystack
-hbad	1.0	This tool allows you to test clients on the heartbleed bug.	http://www.curesec.com/
-hcraft	1.0.0	HTTP Vuln Request Crafter	http://sourceforge.net/projects/hcraft/
-hdcp-genkey	18.e8d342d	Generate HDCP source and sink keys from the leaked master key.	https://github.com/rjw57/hdcp-genkey
-hdmi-sniff	5.f7fbc0e	HDMI DDC (I2C) inspection tool. It is designed to demonstrate just how easy it is to recover HDCP crypto keys from HDMI devices.	https://github.com/ApertureLabsLtd/hdmi-sniff
-heartbleed-honeypot	0.1	Script that listens on TCP port 443 and responds with completely bogus SSL heartbeat responses, unless it detects the start of a byte pattern similar to that used in Jared Stafford's	http://packetstormsecurity.com/files/126068/hb_honeypot.pl.txt
-hex2bin	1.0.7	Converts Motorola and Intel hex files to binary.	http://hex2bin.sourceforge.net/
-hexinject	1.5	A very versatile packet injector and sniffer that provides a command-line framework for raw network access.	http://hexinject.sourceforge.net
-hexorbase	6	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers (MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL).	https://code.google.com/p/hexorbase/
-hharp	1beta	This tool can perform man-in-the-middle and switch flooding attacks. It has 4 major functions, 3 of which attempt to man-in-the-middle one or more computers on a network with a passive method or flood type method.	http://packetstormsecurity.com/files/81368/Hackers-Hideaway-ARP-Attack-Tool.html
-hidattack	0.1	HID Attack (attacking HID host implementations)	http://mulliner.org/bluetooth/hidattack.php
-honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
-honssh	47.0de60ec	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
-hookanalyser	3.0	A hook tool which can be potentially helpful in reversing applications and analyzing malware. It can hook to an API in a process and search for a pattern in memory or dump the buffer.	http://hookanalyser.blogspot.de/
-host-extract	9	Ruby script tries to extract all IP/Host patterns in page response of a given URL and JavaScript/CSS files of that URL.	https://code.google.com/p/host-extract/
-hostbox-ssh	0.1.1	A ssh password/account scanner.	http://stridsmanit.wordpress.com/2012/12/02/brute-forcing-passwords-with-hostbox-ssh-1-1/
-hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
-hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
+* __hashtag	0.41__	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
+* __haystack	1035.ac2ffa4__	A Python framework for finding C structures from process memory - heap analysis - Memory structures forensics.	https://github.com/trolldbois/python-haystack
+* __hbad	1.0__	This tool allows you to test clients on the heartbleed bug.	http://www.curesec.com/
+* __hcraft	1.0.0__	HTTP Vuln Request Crafter	http://sourceforge.net/projects/hcraft/
+* __hdcp-genkey	18.e8d342d__	Generate HDCP source and sink keys from the leaked master key.	https://github.com/rjw57/hdcp-genkey
+* __hdmi-sniff	5.f7fbc0e__	HDMI DDC (I2C) inspection tool. It is designed to demonstrate just how easy it is to recover HDCP crypto keys from HDMI devices.	https://github.com/ApertureLabsLtd/hdmi-sniff
+* __heartbleed-honeypot	0.1__	Script that listens on TCP port 443 and responds with completely bogus SSL heartbeat responses, unless it detects the start of a byte pattern similar to that used in Jared Stafford's	http://packetstormsecurity.com/files/126068/hb_honeypot.pl.txt
+* __hex2bin	1.0.7__	Converts Motorola and Intel hex files to binary.	http://hex2bin.sourceforge.net/
+* __hexinject	1.5__	A very versatile packet injector and sniffer that provides a command-line framework for raw network access.	http://hexinject.sourceforge.net
+* __hexorbase	6__	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers (MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL).	https://code.google.com/p/hexorbase/
+* __hharp	1beta__	This tool can perform man-in-the-middle and switch flooding attacks. It has 4 major functions, 3 of which attempt to man-in-the-middle one or more computers on a network with a passive method or flood type method.	http://packetstormsecurity.com/files/81368/Hackers-Hideaway-ARP-Attack-Tool.html
+* __hidattack	0.1__	HID Attack (attacking HID host implementations)	http://mulliner.org/bluetooth/hidattack.php
+* __honeyd	1.6.7__	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
+* __honssh	47.0de60ec__	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
+* __hookanalyser	3.0__	A hook tool which can be potentially helpful in reversing applications and analyzing malware. It can hook to an API in a process and search for a pattern in memory or dump the buffer.	http://hookanalyser.blogspot.de/
+* __host-extract	9__	Ruby script tries to extract all IP/Host patterns in page response of a given URL and JavaScript/CSS files of that URL.	https://code.google.com/p/host-extract/
+* __hostbox-ssh	0.1.1__	A ssh password/account scanner.	http://stridsmanit.wordpress.com/2012/12/02/brute-forcing-passwords-with-hostbox-ssh-1-1/
+* __hotpatch	0.2__	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
+* __hotspotter	0.4___	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
 hpfeeds	138.249b2f7	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
 hping	3.0.0	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
 hqlmap	35.081395e	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
