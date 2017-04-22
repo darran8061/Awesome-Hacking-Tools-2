@@ -384,38 +384,38 @@ ________________________________________________________________________________
 * __hostbox-ssh	0.1.1__	A ssh password/account scanner.	http://stridsmanit.wordpress.com/2012/12/02/brute-forcing-passwords-with-hostbox-ssh-1-1/
 * __hotpatch	0.2__	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
 * __hotspotter	0.4___	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
-hpfeeds	138.249b2f7	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
-hping	3.0.0	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
-hqlmap	35.081395e	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
-htexploit	0.77	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
-htrosbif	134.9dc3f86	Active HTTP server fingerprinting and recon tool.	https://github.com/lkarsten/htrosbif
-htshells	760b5e9	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
-http-enum	0.3	A tool to enumerate the enabled HTTP methods supported on a webserver.	https://www.thexero.co.uk/tools/http-enum/
-http-fuzz	0.1	A simple http fuzzer.	none
-http-put	1.0	Simple http put perl script
-http-traceroute	0.5	This is a python script that uses the Max-Forwards header in HTTP and SIP to perform a traceroute-like scanning functionality.	http://packetstormsecurity.com/files/107167/Traceroute-Like-HTTP-Scanner.html
-httpbog	1.0.0.0	A slow HTTP denial-of-service tool that works similarly to other attacks, but rather than leveraging request headers or POST data Bog consumes sockets by slowly reading responses.	http://sourceforge.net/projects/httpbog/
-httpforge	11.02.01	A set of shell tools that let you manipulate, send, receive, and analyze HTTP messages. These tools can be used to test, discover, and assert the security of Web servers, apps, and sites. An accompanying Python library is available for extensions.	http://packetstormsecurity.com/files/98109/HTTPForge.02.01.html
-httping	2.3.4	A 'ping'-like tool for http-requests.	http://www.vanheusden.com/httping/
-httprint	301	A web server fingerprinting tool.	http://www.net-square.com/httprint.html
-httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
-httpry	0.1.8	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
-httpsniff	0.4	Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
-httpsscanner	1.2	A tool to test the strength of a SSL web server.	https://code.google.com/p/libre-tools/
-httptunnel	3.3	Creates a bidirectional virtual data connection tunnelled in HTTP requests	http://www.nocrew.org/software/httptunnel
-hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
-hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
-hydra	8.1	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
-hyenae	0.36_1	flexible platform independent packet generator	http://sourceforge.net/projects/hyenae/
-hyperion	1.1	A runtime encrypter for 32-bit portable executables.	http://nullsecurity.net/tools/binary.html
-iaxflood	0.1	IAX flooder.	http://www.hackingexposedvoip.com/
-iaxscan	0.02	A Python based scanner for detecting live IAX/2 hosts and then enumerating (by bruteforce) users on those hosts.	http://code.google.com/p/iaxscan/
-ibrute	12.3a6a11e	An AppleID password bruteforce tool. It uses Find My Iphone service API, where bruteforce protection was not implemented.	https://github.com/hackappcom/ibrute/
-icmpquery	1.0	Send and receive ICMP queries for address mask and current time.	http://www.angio.net/security/
-icmptx	0.01	IP over ICMP	http://thomer.com/icmptx/
-iheartxor	0.01	iheartxor is a tool for bruteforcing encoded strings within a boundary defined by a regular expression. It will bruteforce the key value range of 0x1 through 0x255.	http://hooked-on-mnemonics.blogspot.com.es/p/iheartxor.html
-ike-scan	1.9	A tool that uses IKE protocol to discover, fingerprint and test IPSec VPN servers	http://www.nta-monitor.com/tools/ike-scan/
-ikecrack	1.00	An IKE/IPSec crack tool designed to perform Pre-Shared-Key analysis of RFC compliant aggressive mode authentication	http://sourceforge.net/projects/ikecrack/
+* __hpfeeds__	138.249b2f7	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
+* __hping	3.0.0__	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
+* __hqlmap	35.081395e__	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
+* __htexploit	0.77__	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
+* __htrosbif	134.9dc3f86__	Active HTTP server fingerprinting and recon tool.	https://github.com/lkarsten/htrosbif
+* __htshells	760b5e9__	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
+* __http-enum	0.3__	A tool to enumerate the enabled HTTP methods supported on a webserver.	https://www.thexero.co.uk/tools/http-enum/
+* __http-fuzz	0.1__	A simple http fuzzer.	none
+* __http-put	1.0__	Simple http put perl script
+* __http-traceroute	0.5__	This is a python script that uses the Max-Forwards header in HTTP and SIP to perform a traceroute-like scanning functionality.	http://packetstormsecurity.com/files/107167/Traceroute-Like-HTTP-Scanner.html
+* __httpbog	1.0.0.0__	A slow HTTP denial-of-service tool that works similarly to other attacks, but rather than leveraging request headers or POST data Bog consumes sockets by slowly reading responses.	http://sourceforge.net/projects/httpbog/
+* __httpforge	11.02.01__	A set of shell tools that let you manipulate, send, receive, and analyze HTTP messages. These tools can be used to test, discover, and assert the security of Web servers, apps, and sites. An accompanying Python library is available for extensions.	http://packetstormsecurity.com/files/98109/HTTPForge.02.01.html
+* __httping	2.3.4__	A 'ping'-like tool for http-requests.	http://www.vanheusden.com/httping/
+* __httprint	301__	A web server fingerprinting tool.	http://www.net-square.com/httprint.html
+* __httprint-win32__	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
+* __httpry	0.1.8__	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
+* __httpsniff	0.4__ Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
+* __httpsscanner	1.2__	A tool to test the strength of a SSL web server.	https://code.google.com/p/libre-tools/
+* __httptunnel	3.3__	Creates a bidirectional virtual data connection tunnelled in HTTP requests	http://www.nocrew.org/software/httptunnel
+* __hulk	11.a9b9ad4__	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
+* __hwk	0.4__	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
+* __hydra	8.1__	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
+* __hyenae	0.36_1__	flexible platform independent packet generator	http://sourceforge.net/projects/hyenae/
+* __hyperion	1.1__	A runtime encrypter for 32-bit portable executables.	http://nullsecurity.net/tools/binary.html
+* __iaxflood	0.1__	IAX flooder.	http://www.hackingexposedvoip.com/
+* __iaxscan	0.02__	A Python based scanner for detecting live IAX/2 hosts and then enumerating (by bruteforce) users on those hosts.	http://code.google.com/p/iaxscan/
+* __ibrute	12.3a6a11e__	An AppleID password bruteforce tool. It uses Find My Iphone service API, where bruteforce protection was not implemented.	https://github.com/hackappcom/ibrute/
+* __icmpquery	1.0__	Send and receive ICMP queries for address mask and current time.	http://www.angio.net/security/
+* __icmptx	0.01__	IP over ICMP	http://thomer.com/icmptx/
+* __iheartxor	0.01__	iheartxor is a tool for bruteforcing encoded strings within a boundary defined by a regular expression. It will bruteforce the key value range of 0x1 through 0x255.	http://hooked-on-mnemonics.blogspot.com.es/p/iheartxor.html
+* __ike-scan	1.9__	A tool that uses IKE protocol to discover, fingerprint and test IPSec VPN servers	http://www.nta-monitor.com/tools/ike-scan/
+* __ikecrack	1.00__	An IKE/IPSec crack tool designed to perform Pre-Shared-Key analysis of RFC compliant aggressive mode authentication	http://sourceforge.net/projects/ikecrack/
 ikeprobe	0.1	Determine vulnerabilities in the PSK implementation of the VPN server.	http://www.ernw.de/download/ikeprobe.zip
 ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to be manually set. Useful to find overflows, error conditions and identifiyng vendors	http://ikecrack.sourceforge.net/
 ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/ilty/
