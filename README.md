@@ -12,7 +12,7 @@ ________________________________________________________________________________
 * __admsnmp	0.1__	ADM SNMP audit scanner.
 * __aesfix	1.0.1__	A tool to find AES key in RAM	http://citp.princeton.edu/memory/code/
 * __aeskeyfind	1.0__	A tool to find AES key in RAM	http://citp.princeton.edu/memory/code/
-* ___aespipe	2.4c__	Reads data from stdin and outputs encrypted or decrypted results to stdout.	http://loop-aes.sourceforge.net/aespipe/
+* __aespipe	2.4c__	Reads data from stdin and outputs encrypted or decrypted results to stdout.	http://loop-aes.sourceforge.net/aespipe/
 * __afflib	3.7.3__	An extensible open format for the storage of disk images and related forensic information.	http://www.afflib.org
 * __afpfs-ng	0.8.1__	A client for the Apple Filing Protocol (AFP)	http://alexthepuffin.googlepages.com/
 * __against	0.2__	A very fast ssh attacking script which includes a multithreaded port scanning module (tcp connect) for discovering possible targets and a multithreaded brute-forcing module which attacks parallel all discovered hosts or given ip addresses from a list.	http://nullsecurity.net/tools/cracker.html
@@ -468,54 +468,54 @@ ________________________________________________________________________________
 * __kautilya	0.5.0__	Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices	http://code.google.com/p/kautilya
 * __keimpx	0.2__	Tool to verify the usefulness of credentials across a network over SMB.	http://code.google.com/p/keimpx/
 * __khc	0.2__	A small tool designed to recover hashed known_hosts fiels back to their plain-text equivalents.	http://packetstormsecurity.com/files/87003/Known-Host-Cracker.2.html
-killerbee	85	Framework and tools for exploiting ZigBee and IEEE 802.15.4 networks.	https://code.google.com/p/killerbee/
-kippo	0.9	A medium interaction SSH honeypot designed to log brute force attacks and most importantly, the entire shell interaction by the attacker.	https://github.com/desaster/kippo
-kismet	2013_03_R1b	802.11 layer2 wireless network detector, sniffer, and intrusion detection system	http://www.kismetwireless.net/
-kismet-earth	0.1	Various scripts to convert kismet logs to kml file to be used in Google Earth.	http://
-kismet2earth	1.0	A set of utilities that convert from Kismet logs to Google Earth .kml format	http://code.google.com/p/kismet2earth/
-klogger	1.0	A keystroke logger for the NT-series of Windows.	http://ntsecurity.nu/toolbox/klogger/
-kolkata	3.0	A web application fingerprinting engine written in Perl that combines cryptography with IDS evasion.	http://www.blackhatlibrary.net/Kolkata
-kraken	32.368a837	A project to encrypt A5/1 GSM signaling using a Time/Memory Tradeoff Attack.	http://opensource.srlabs.de/projects/a51-decrypt
-laf	12.7a456b3	Login Area Finder: scans host/s for login panels.	https://github.com/takeshixx/laf
-lanmap2	124.4f8afed	Passive network mapping tool	http://github.com/rflynn/lanmap2
-lans	1.0	A Multithreaded asynchronous packet parsing/injecting arp spoofer.	https://github.com/DanMcInerney/LANs.py
-latd	1.31	A LAT terminal daemon for Linux and BSD.	http://sourceforge.net/projects/linux-decnet/files/latd/1.31/
-laudanum	1.0	A collection of injectable files, designed to be used in a pentest when SQL injection flaws are found and are in multiple languages for different environments.	http://laudanum.inguardians.com/#
-lbd	20130719	Load Balancing detector	http://ge.mine.nu/code/lbd
-lbmap	145.93e6b71	Proof of concept scripts for advanced web application fingerprinting, presented at OWASP AppSecAsia 2012.	https://github.com/wireghoul/lbmap
-ldapenum	0.1	Enumerate domain controllers using LDAP.	https://gobag.googlecode.com/svn-history/r2/trunk/ldap/ldapenum/
-leo	4.11	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
-leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
-levye	85.419e817	A brute force tool which is support sshkey, vnckey, rdp, openvpn.	https://github.com/galkan/levye
-lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
-lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
-lfi-fuzzploit	1.1	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
-lfi-scanner	4.0	This is a simple perl script that enumerates local file inclusion attempts when given a specific target.	http://packetstormsecurity.com/files/102848/LFI-Scanner.0.html
-lfi-sploiter	1.0	This tool helps you exploit LFI (Local File Inclusion) vulnerabilities. Post discovery, simply pass the affected URL and vulnerable parameter to this tool. You can also use this tool to scan a URL for LFI vulnerabilities.	http://packetstormsecurity.com/files/96056/Simple-Local-File-Inclusion-Exploiter.0.html
-lfimap	1.4.8	This script is used to take the highest beneficts of the local file include vulnerability in a webserver.	https://code.google.com/p/lfimap/
-lft	3.72	A layer four traceroute implementing numerous other features.	http://pwhois.org/lft/
-libdisasm	0.23	A disassembler library.	http://bastard.sourceforge.net/libdisasm.html
-libpst	0.6.63	Outlook .pst file converter	http://www.five-ten-sg.com/libpst/
-liffy	63.238ce6d	A Local File Inclusion Exploitation tool.	https://github.com/rotlogix/liffy
-linenum	18.b4c2541	Scripted Local Linux Enumeration & Privilege Escalation Checks	https://github.com/rebootuser/LinEnum
-linux-exploit-suggester	32.9db2f5a	A Perl script that tries to suggest exploits based OS version number.	https://github.com/PenturaLabs/Linux_Exploit_Suggester
-list-urls	0.1	Extracts links from webpage	http://www.whoppix.net
-littleblackbox	0.1.3	Penetration testing tool, search in a collection of thousands of private SSL keys extracted from various embedded devices.	http://code.google.com/p/littleblackbox/wiki/FAQ
-lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
-logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
-loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
-lorcon	2.0.0.20091101	Generic library for injecting 802.11 frames	http://802.11ninja.net/
-lotophagi	0.1	a relatively compact Perl script designed to scan remote hosts for default (or common) Lotus NSF and BOX databases.	http://packetstormsecurity.com/files/55250/lotophagi.rar.html
-lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
-luksipc	0.01	A tool to convert unencrypted block devices to encrypted LUKS devices in-place.	http://www.johannes-bauer.com/linux/luksipc
-lynis	1.6.4	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
-mac-robber	1.02	A digital investigation tool that collects data from allocated files in a mounted file system.	http://www.sleuthkit.org/mac-robber/download.php
-macchanger	1.6.0	A small utility to change your NIC's MAC address	http://ftp.gnu.org/gnu/macchanger
-maclookup	0.3	Lookup MAC addresses in the IEEE MA-L/OUI public listing.	https://github.com/paraxor/maclookup
-magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
-magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
-make-pdf	0.1.5	This tool will embed javascript inside a PDF document.	http://blog.didierstevens.com/programs/pdf-tools/
-makepasswd	1.10_9	Generates true random passwords with the emphasis on security over pronounceability (Debian version)	http://packages.qa.debian.org/m/makepasswd.html
+* __killerbee	85__	Framework and tools for exploiting ZigBee and IEEE 802.15.4 networks.	https://code.google.com/p/killerbee/
+* __kippo	0.9__	A medium interaction SSH honeypot designed to log brute force attacks and most importantly, the entire shell interaction by the attacker.	https://github.com/desaster/kippo
+* __kismet	2013_03_R1b	802.11__ layer2 wireless network detector, sniffer, and intrusion detection system	http://www.kismetwireless.net/
+* __kismet-earth	0.1__	Various scripts to convert kismet logs to kml file to be used in Google Earth.	http://
+* __kismet2earth	1.0__	A set of utilities that convert from Kismet logs to Google Earth .kml format	http://code.google.com/p/kismet2earth/
+* __klogger	1.0__	A keystroke logger for the NT-series of Windows.	http://ntsecurity.nu/toolbox/klogger/
+* __kolkata	3.0__	A web application fingerprinting engine written in Perl that combines cryptography with IDS evasion.	http://www.blackhatlibrary.net/Kolkata
+* __kraken	32.368a837__	A project to encrypt A5/1 GSM signaling using a Time/Memory Tradeoff Attack.	http://opensource.srlabs.de/projects/a51-decrypt
+* __laf	12.7a456b3__	Login Area Finder: scans host/s for login panels.	https://github.com/takeshixx/laf
+* __lanmap2	124.4f8afed__	Passive network mapping tool	http://github.com/rflynn/lanmap2
+* __lans	1.0__	A Multithreaded asynchronous packet parsing/injecting arp spoofer.	https://github.com/DanMcInerney/LANs.py
+* __latd	1.31__	A LAT terminal daemon for Linux and BSD.	http://sourceforge.net/projects/linux-decnet/files/latd/1.31/
+* __laudanum	1.0__	A collection of injectable files, designed to be used in a pentest when SQL injection flaws are found and are in multiple languages for different environments.	http://laudanum.inguardians.com/#
+* __lbd	20130719__	Load Balancing detector	http://ge.mine.nu/code/lbd
+* __lbmap	145.93e6b71__	Proof of concept scripts for advanced web application fingerprinting, presented at OWASP AppSecAsia 2012.	https://github.com/wireghoul/lbmap
+* __ldapenum	0.1__	Enumerate domain controllers using LDAP.	https://gobag.googlecode.com/svn-history/r2/trunk/ldap/ldapenum/
+* __leo	4.11__	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
+* __leroy-jenkins	0.r3.bdc3965__	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
+* __levye	85.419e817__	A brute force tool which is support sshkey, vnckey, rdp, openvpn.	https://github.com/galkan/levye
+* __lfi-autopwn	3.0__	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
+* __lfi-exploiter	1.1__	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
+* __lfi-fuzzploit	1.1__	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
+* __lfi-scanner	4.0__ This is a simple perl script that enumerates local file inclusion attempts when given a specific target.	http://packetstormsecurity.com/files/102848/LFI-Scanner.0.html
+* __lfi-sploiter	1.0__	This tool helps you exploit LFI (Local File Inclusion) vulnerabilities. Post discovery, simply pass the affected URL and vulnerable parameter to this tool. You can also use this tool to scan a URL for LFI vulnerabilities.	http://packetstormsecurity.com/files/96056/Simple-Local-File-Inclusion-Exploiter.0.html
+* __lfimap	1.4.8__	This script is used to take the highest beneficts of the local file include vulnerability in a webserver.	https://code.google.com/p/lfimap/
+* __lft	3.72__	A layer four traceroute implementing numerous other features.	http://pwhois.org/lft/
+* __libdisasm	0.23__	A disassembler library.	http://bastard.sourceforge.net/libdisasm.html
+* __libpst	0.6.63__	Outlook .pst file converter	http://www.five-ten-sg.com/libpst/
+* __liffy	63.238ce6d__	A Local File Inclusion Exploitation tool.	https://github.com/rotlogix/liffy
+* __linenum	18.b4c2541__	Scripted Local Linux Enumeration & Privilege Escalation Checks	https://github.com/rebootuser/LinEnum
+* __linux-exploit-suggester	32.9db2f5a__	A Perl script that tries to suggest exploits based OS version number.	https://github.com/PenturaLabs/Linux_Exploit_Suggester
+* __list-urls	0.1__	Extracts links from webpage	http://www.whoppix.net
+* __littleblackbox	0.1.3__	Penetration testing tool, search in a collection of thousands of private SSL keys extracted from various embedded devices.	http://code.google.com/p/littleblackbox/wiki/FAQ
+* __lodowep	1.2.1__	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
+* __logkeys	0.1.1a__	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
+* __loki	0.2.7___	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
+* __lorcon	2.0.0.20091101__	Generic library for injecting 802.11 frames	http://802.11ninja.net/
+* __lotophagi	0.1__	a relatively compact Perl script designed to scan remote hosts for default (or common) Lotus NSF and BOX databases.	http://packetstormsecurity.com/files/55250/lotophagi.rar.html
+* __lsrtunnel	0.2__	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
+* __luksipc	0.01__	A tool to convert unencrypted block devices to encrypted LUKS devices in-place.	http://www.johannes-bauer.com/linux/luksipc
+* __lynis	1.6.4__	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
+* __mac-robber	1.02__	A digital investigation tool that collects data from allocated files in a mounted file system.	http://www.sleuthkit.org/mac-robber/download.php
+* __macchanger	1.6.0__	A small utility to change your NIC's MAC address	http://ftp.gnu.org/gnu/macchanger
+* __maclookup	0.3__	Lookup MAC addresses in the IEEE MA-L/OUI public listing.	https://github.com/paraxor/maclookup
+* __magicrescue	1.1.9__	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
+* __magictree	1.3__	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
+* __make-pdf	0.1.5__	This tool will embed javascript inside a PDF document.	http://blog.didierstevens.com/programs/pdf-tools/
+* __makepasswd	1.10_9__	Generates true random passwords with the emphasis on security over pronounceability (Debian version)	http://packages.qa.debian.org/m/makepasswd.html
 malheur	0.5.4	A tool for the automatic analyze of malware behavior.	http://www.mlsec.org/malheur/
 maligno	1.2	An open source penetration testing tool written in python, that serves Metasploit payloads. It generates shellcode with msfvenom and transmits it over HTTP or HTTPS.	http://www.encripto.no/tools/
 malmon	0.3	Hosting exploit/backdoor detection daemon. It's written in python, and uses inotify (pyinotify) to monitor file system activity. It checks files smaller then some size, compares their md5sum and hex signatures against DBs with known exploits/backdoor.	http://sourceforge.net/projects/malmon/
