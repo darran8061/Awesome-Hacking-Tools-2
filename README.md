@@ -560,56 +560,56 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __mitmer	22.b01c7fe__	A man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/husam212/MITMer
 * __mitmf	169.83b4a93__	A Framework for Man-In-The-Middle attacks written in Python.	https://github.com/byt3bl33d3r/MITMf
 * __mitmproxy	0.10.1__	SSL-capable man-in-the-middle HTTP proxy	http://mitmproxy.org/
-mkbrutus	1.0.2	Password bruteforcer for MikroTik devices or boxes running RouterOS.	http://mkbrutusproject.github.io/MKBRUTUS/
-mobiusft	0.5.21	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
-modscan	0.1	A new tool designed to map a SCADA MODBUS TCP based network.	https://code.google.com/p/modscan/
-moloch	0.9.2	An open source large scale IPv4 full PCAP capturing, indexing and database system.	https://github.com/aol/moloch
-monocle	1.0	A local network host discovery tool. In passive mode, it will listen for ARP request and reply packets. In active mode, it will send ARP requests to the specific IP range. The results are a list of IP and MAC addresses present on the local network.	http://packetstormsecurity.com/files/99823/Monocle-Host-Discovery-Tool.0.html
-morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
-morxcrack	1.2	A cracking tool written in Perl to perform a dictionary-based attack on various hashing algorithm and CMS salted-passwords.	http://www.morxploit.com/morxcrack/
-mp3nema	0.4	A tool aimed at analyzing and capturing data that is hidden between frames in an MP3 file or stream, otherwise noted as "out of band" data.	http://packetstormsecurity.com/files/76432/MP3nema-Forensic-Analysis-Tool.html
-mptcp	1.9.0	A tool for manipulation of raw packets that allows a large number of options.	http://packetstormsecurity.com/files/119132/Mptcp-Packet-Manipulator.9.0.html
-mptcp-abuse	6.b0eeb27	A collection of tools and resources to explore MPTCP on your network. Initially released at Black Hat USA 2014.	https://github.com/Neohapsis/mptcp-abuse
-ms-sys	2.4.0	A tool to write Win9x-.. master boot records (mbr) under linux - RTM!	http://ms-sys.sourceforge.net/
-mssqlscan	0.8.4	A small multi-threaded tool that scans for Microsoft SQL Servers.	http://www.cqure.net/wp/mssqlscan/
-msvpwn	0.1.r23.g328921b	Bypass Windows' authentication via binary patching.	https://bitbucket.org/mrabault/msvpwn
-mtr	0.85	Combines the functionality of traceroute and ping into one tool (CLI version)	http://www.bitwizard.nl/mtr/
-multiinjector	0.3	Automatic SQL injection utility using a lsit of URI addresses to test parameter manipulation.	http://chaptersinwebsecurity.blogspot.de/2008/11/multiinjector-v03-released.html
-multimac	1.0.3	Multiple MACs on an adapter	http://sourceforge.net/projects/multimac/
-multitun	43.9804513	Tunnel arbitrary traffic through an innocuous WebSocket.	https://github.com/covertcodes/multitun
-mutator	51.164132d	This project aims to be a wordlist mutator with hormones, which means that some mutations will be applied to the result of the ones that have been already done, resulting in something like: corporation -> C0rp0r4t10n_2012	https://bitbucket.org/alone/mutator/
-mysql2sqlite	1.dd87f4	Converts a mysqldump file into a Sqlite 3 compatible file	https://gist.github.com/esperlu/943776
-nacker	23.b67bb39	A tool to circumvent 802.1x Network Access Control on a wired LAN.	https://github.com/carmaa/nacker
-nbnspoof	1.0	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
-nbtenum	3.3	A utility for Windows that can be used to enumerate NetBIOS information from one host or a range of hosts.	http://reedarvin.thearvins.com/
-nbtool	2.bf90c76	Some tools for NetBIOS and DNS investigation, attacks, and communication.	http://wiki.skullsecurity.org/Nbtool
-nbtscan	1.5.1	NBTscan is a program for scanning IP networks for NetBIOS name information.	http://www.inetcat.net/software/nbtscan.html
-ncpfs	2.2.6	Allows you to mount volumes of NetWare servers under Linux.	http://www.novell.com/
-ncrack	0.4a	A high-speed network authentication cracking tool	http://nmap.org/ncrack/
-nemesis	1.4	command-line network packet crafting and injection utility	http://nemesis.sourceforge.net/
-netactview	0.6.2	A graphical network connections viewer for Linux similar in functionality with Netstat	http://netactview.sourceforge.net/index.html
-netbios-share-scanner	1.0	This tool could be used to check windows workstations and servers if they have accessible shared resources.	http://www.secpoint.com/netbios-share-scanner.html
-netcommander	1.3	An easy-to-use arp spoofing tool.	https://github.com/evilsocket/netcommander
-netcon	0.1	A network connection establishment and management script.	http://www.paramecium.org/~leendert/
-netdiscover	0.3	An active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.	http://nixgeneration.com/~jaime/netdiscover/
-netmap	0.1.3	Can be used to make a graphical representation of the surounding network.	http://netmap.sourceforge.net
-netmask	2.3.12	Helps determine network masks	http://packages.qa.debian.org/n/netmask.html
-netreconn	1.76	A collection of network scan/recon tools that are relatively small compared to their larger cousins.	http://packetstormsecurity.com/files/86076/NetReconn-Scanning-Tool-Collection.76.html
-netscan	1.0	Tcp/Udp/Tor port scanner with: synpacket, connect TCP/UDP and socks5 (tor connection).	http://packetstormsecurity.com/files/125569/Netscan-Port-Scanner.0.html
-netsed	1.2	Small and handful utility design to alter the contents of packets forwarded thru network in real time.	http://silicone.homelinux.org/projects/netsed/
-netsniff-ng	0.5.8	A high performance Linux network sniffer for packet inspection.	http://netsniff-ng.org/
-netzob	0.4.1	An open source tool for reverse engineering, traffic generation and fuzzing of communication protocols.	http://www.netzob.org/
-nfcutils	0.3.2	Provides a simple 'lsnfc' command that list tags which are in your NFC device field	http://code.google.com/p/nfc-tools
-nfex	2.5	A tool for extracting files from the network in real-time or post-capture from an offline tcpdump pcap savefile. It is based off of the code-base from the apparently defunct project tcpxtract.	https://code.google.com/p/nfex/
-nfspy	1.0	A Python library for automating the falsification of NFS credentials when mounting an NFS share.	https://github.com/bonsaiviking/NfSpy
-nfsshell	19980519	Userland NFS command tool.	http://www.paramecium.org/~leendert/
-ngrep	1.45	A grep-like utility that allows you to search for network packets on an interface.	http://ngrep.sourceforge.net/
-nield	0.5.1	A tool to receive notifications from kernel through netlink socket, and generate logs related to interfaces, neighbor cache(ARP,NDP), IP address(IPv4,IPv6), routing, FIB rules, traffic control.	http://nield.sourceforge.net/
-nikto	2.1.5	A web server scanner which performs comprehensive tests against web servers for multiple items	http://www.cirt.net/nikto2
-nimbostratus	54.c7c206f	Tools for fingerprintinging and exploiting Amazon cloud infrastructures.	https://github.com/andresriancho/nimbostratus
-nipper	0.11.7	Network Infrastructure Parser	https://www.titania-security.com/
-nishang	0.4.0	Using PowerShell for Penetration Testing.	https://code.google.com/p/nishang/
-nkiller2	2.0	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
+* __mkbrutus	1.0.2__	Password bruteforcer for MikroTik devices or boxes running RouterOS.	http://mkbrutusproject.github.io/MKBRUTUS/
+* __mobiusft	0.5.21__	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
+* __modscan	0.1__	A new tool designed to map a SCADA MODBUS TCP based network.	https://code.google.com/p/modscan/
+* __moloch	0.9.2__	An open source large scale IPv4 full PCAP capturing, indexing and database system.	https://github.com/aol/moloch
+* __monocle	1.0__	A local network host discovery tool. In passive mode, it will listen for ARP request and reply packets. In active mode, it will send ARP requests to the specific IP range. The results are a list of IP and MAC addresses present on the local network.	http://packetstormsecurity.com/files/99823/Monocle-Host-Discovery-Tool.0.html
+* __morxbrute	1.01__	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
+* __morxcrack	1.2__	A cracking tool written in Perl to perform a dictionary-based attack on various hashing algorithm and CMS salted-passwords.	http://www.morxploit.com/morxcrack/
+* __mp3nema	0.4__	A tool aimed at analyzing and capturing data that is hidden between frames in an MP3 file or stream, otherwise noted as "out of band" data.	http://packetstormsecurity.com/files/76432/MP3nema-Forensic-Analysis-Tool.html
+* __mptcp	1.9.0__	A tool for manipulation of raw packets that allows a large number of options.	http://packetstormsecurity.com/files/119132/Mptcp-Packet-Manipulator.9.0.html
+* __mptcp-abuse	6.b0eeb27__	A collection of tools and resources to explore MPTCP on your network. Initially released at Black Hat USA 2014.	https://github.com/Neohapsis/mptcp-abuse
+* __ms-sys	2.4.0__	A tool to write Win9x-.. master boot records (mbr) under linux - RTM!	http://ms-sys.sourceforge.net/
+* __mssqlscan	0.8.4__	A small multi-threaded tool that scans for Microsoft SQL Servers.	http://www.cqure.net/wp/mssqlscan/
+* __msvpwn	0.1.r23.g328921b__	Bypass Windows' authentication via binary patching.	https://bitbucket.org/mrabault/msvpwn
+* __mtr	0.85__	Combines the functionality of traceroute and ping into one tool (CLI version)	http://www.bitwizard.nl/mtr/
+* __multiinjector	0.3__	Automatic SQL injection utility using a lsit of URI addresses to test parameter manipulation.	http://chaptersinwebsecurity.blogspot.de/2008/11/multiinjector-v03-released.html
+* __multimac	1.0.3__	Multiple MACs on an adapter	http://sourceforge.net/projects/multimac/
+* __multitun	43.9804513__	Tunnel arbitrary traffic through an innocuous WebSocket.	https://github.com/covertcodes/multitun
+* __mutator	51.164132d__	This project aims to be a wordlist mutator with hormones, which means that some mutations will be applied to the result of the ones that have been already done, resulting in something like: corporation -> C0rp0r4t10n_2012	https://bitbucket.org/alone/mutator/
+* __mysql2sqlite	1.dd87f4__	Converts a mysqldump file into a Sqlite 3 compatible file	https://gist.github.com/esperlu/943776
+* __nacker	23.b67bb39__	A tool to circumvent 802.1x Network Access Control on a wired LAN.	https://github.com/carmaa/nacker
+* __nbnspoof	1.0__	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
+* __nbtenum	3.3__	A utility for Windows that can be used to enumerate NetBIOS information from one host or a range of hosts.	http://reedarvin.thearvins.com/
+* __nbtool	2.bf90c76__	Some tools for NetBIOS and DNS investigation, attacks, and communication.	http://wiki.skullsecurity.org/Nbtool
+* __nbtscan	1.5.1__	NBTscan is a program for scanning IP networks for NetBIOS name information.	http://www.inetcat.net/software/nbtscan.html
+* __ncpfs	2.2.6__	Allows you to mount volumes of NetWare servers under Linux.	http://www.novell.com/
+* __ncrack	0.4a__	A high-speed network authentication cracking tool	http://nmap.org/ncrack/
+* __nemesis	1.4__	command-line network packet crafting and injection utility	http://nemesis.sourceforge.net/
+* __netactview	0.6.2__	A graphical network connections viewer for Linux similar in functionality with Netstat	http://netactview.sourceforge.net/index.html
+* __netbios-share-scanner	1.0__	This tool could be used to check windows workstations and servers if they have accessible shared resources.	http://www.secpoint.com/netbios-share-scanner.html
+* __netcommander	1.3__	An easy-to-use arp spoofing tool.	https://github.com/evilsocket/netcommander
+* __netcon	0.1__	A network connection establishment and management script.	http://www.paramecium.org/~leendert/
+* __netdiscover	0.3__	An active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.	http://nixgeneration.com/~jaime/netdiscover/
+* __netmap	0.1.3__	Can be used to make a graphical representation of the surounding network.	http://netmap.sourceforge.net
+* __netmask	2.3.12__	Helps determine network masks	http://packages.qa.debian.org/n/netmask.html
+* __netreconn	1.76__	A collection of network scan/recon tools that are relatively small compared to their larger cousins.	http://packetstormsecurity.com/files/86076/NetReconn-Scanning-Tool-Collection.76.html
+* __netscan	1.0__	Tcp/Udp/Tor port scanner with: synpacket, connect TCP/UDP and socks5 (tor connection).	http://packetstormsecurity.com/files/125569/Netscan-Port-Scanner.0.html
+* __netsed	1.2__	Small and handful utility design to alter the contents of packets forwarded thru network in real time.	http://silicone.homelinux.org/projects/netsed/
+* __netsniff-ng	0.5.8__	A high performance Linux network sniffer for packet inspection.	http://netsniff-ng.org/
+* __netzob	0.4.1__	An open source tool for reverse engineering, traffic generation and fuzzing of communication protocols.	http://www.netzob.org/
+* __nfcutils	0.3.2__	Provides a simple 'lsnfc' command that list tags which are in your NFC device field	http://code.google.com/p/nfc-tools
+* __nfex	2.5__	A tool for extracting files from the network in real-time or post-capture from an offline tcpdump pcap savefile. It is based off of the code-base from the apparently defunct project tcpxtract.	https://code.google.com/p/nfex/
+* __nfspy	1.0__	A Python library for automating the falsification of NFS credentials when mounting an NFS share.	https://github.com/bonsaiviking/NfSpy
+* __nfsshell	19980519__	Userland NFS command tool.	http://www.paramecium.org/~leendert/
+* __ngrep	1.45__	A grep-like utility that allows you to search for network packets on an interface.	http://ngrep.sourceforge.net/
+* __nield	0.5.1__	A tool to receive notifications from kernel through netlink socket, and generate logs related to interfaces, neighbor cache(ARP,NDP), IP address(IPv4,IPv6), routing, FIB rules, traffic control.	http://nield.sourceforge.net/
+* __nikto	2.1.5__	A web server scanner which performs comprehensive tests against web servers for multiple items	http://www.cirt.net/nikto2
+* __nimbostratus	54.c7c206f__	Tools for fingerprintinging and exploiting Amazon cloud infrastructures.	https://github.com/andresriancho/nimbostratus
+* __nipper	0.11.7__	Network Infrastructure Parser	https://www.titania-security.com/
+* __nishang	0.4.0__	Using PowerShell for Penetration Testing.	https://code.google.com/p/nishang/
+* __nkiller2	2.0__	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
 nmap	6.47	Utility for network discovery and security auditing	http://nmap.org/
 nmbscan	1.2.6	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	http://nmbscan.gbarbier.org/
 nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency analysis	https://github.com/hiddenillusion/NoMoreXOR
