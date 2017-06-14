@@ -516,50 +516,50 @@ ________________________________________________________________________________
 * __magictree	1.3__	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
 * __make-pdf	0.1.5__	This tool will embed javascript inside a PDF document.	http://blog.didierstevens.com/programs/pdf-tools/
 * __makepasswd	1.10_9__	Generates true random passwords with the emphasis on security over pronounceability (Debian version)	http://packages.qa.debian.org/m/makepasswd.html
-malheur	0.5.4	A tool for the automatic analyze of malware behavior.	http://www.mlsec.org/malheur/
-maligno	1.2	An open source penetration testing tool written in python, that serves Metasploit payloads. It generates shellcode with msfvenom and transmits it over HTTP or HTTPS.	http://www.encripto.no/tools/
-malmon	0.3	Hosting exploit/backdoor detection daemon. It's written in python, and uses inotify (pyinotify) to monitor file system activity. It checks files smaller then some size, compares their md5sum and hex signatures against DBs with known exploits/backdoor.	http://sourceforge.net/projects/malmon/
-maltego	3.5.3	An open source intelligence and forensics application, enabling to easily gather information about DNS, domains, IP addresses, websites, persons, etc.	http://www.paterva.com/web5
-maltrieve	148.4ad4045	Originated as a fork of mwcrawler. It retrieves malware directly from the sources as listed at a number of sites.	https://github.com/technoskald/maltrieve
-malware-check-tool	1.2	Python script that detects malicious files via checking md5 hashes from an offline set or via the virustotal site. It has http proxy support and an update feature.	http://packetstormsecurity.com/files/93518/Malware-Check-Tool.2.html
-malwareanalyser	3.3	A freeware tool to perform static and dynamic analysis on malware.	http://malwareanalyser.blogspot.de/2011/10/malware-analyser.html
-malwaredetect	0.1	Submits a file's SHA1 sum to VirusTotal to determine whether it is a known piece of malware	http://www.virustotal.com
-malwasm	0.2	Offline debugger for malware's reverse engineering.	https://code.google.com/p/malwasm/
+* __malheur	0.5.4__	A tool for the automatic analyze of malware behavior.	http://www.mlsec.org/malheur/
+* __maligno	1.2__	An open source penetration testing tool written in python, that serves Metasploit payloads. It generates shellcode with msfvenom and transmits it over HTTP or HTTPS.	http://www.encripto.no/tools/
+* __malmon	0.3__	Hosting exploit/backdoor detection daemon. It's written in python, and uses inotify (pyinotify) to monitor file system activity. It checks files smaller then some size, compares their md5sum and hex signatures against DBs with known exploits/backdoor.	http://sourceforge.net/projects/malmon/
+* __maltego	3.5.3__	An open source intelligence and forensics application, enabling to easily gather information about DNS, domains, IP addresses, websites, persons, etc.	http://www.paterva.com/web5
+* __maltrieve	148.4ad4045__	Originated as a fork of mwcrawler. It retrieves malware directly from the sources as listed at a number of sites.	https://github.com/technoskald/maltrieve
+* __malware-check-tool	1.2__	Python script that detects malicious files via checking md5 hashes from an offline set or via the virustotal site. It has http proxy support and an update feature.	http://packetstormsecurity.com/files/93518/Malware-Check-Tool.2.html
+* __malwareanalyser	3.3__	A freeware tool to perform static and dynamic analysis on malware.	http://malwareanalyser.blogspot.de/2011/10/malware-analyser.html
+* __malwaredetect	0.1__	Submits a file's SHA1 sum to VirusTotal to determine whether it is a known piece of malware	http://www.virustotal.com
+* __malwasm	0.2__	Offline debugger for malware's reverse engineering.	https://code.google.com/p/malwasm/
 marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4 (a 4 bit Harvard micro).	https://github.com/ApertureLabsLtd/marc4dasm
-maskprocessor	0.71	A High-Performance word generator with a per-position configurable charset.	http://hashcat.net/wiki/doku.php?id=maskprocessor
-masscan	391.a60cc70	TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.	https://github.com/robertdavidgraham/masscan
-mat	0.5	Metadata Anonymisation Toolkit composed of a GUI application, a CLI application and a library.	https://mat.boum.org/
-matahari	0.1.30	A reverse HTTP shell to execute commands on remote machines behind firewalls.	http://matahari.sourceforge.net
-mausezahn	0.40	A free fast traffic generator written in C which allows you to send nearly every possible and impossible packet.	http://www.perihel.at/sec/mz/
-mbenum	1.5.0	Queries the master browser for whatever information it has registered.	http://www.cqure.net/wp/mbenum/
-mboxgrep	0.7.9	Mboxgrep is a small, non-interactive utility that scans mail folders for messages matching regular expressions. It does matching against basic and extended POSIX regular expressions, and reads and writes a variety of mailbox formats.	http://mboxgrep.sourceforge.net
-md5deep	4.3	Advanced checksum hashing tool	http://md5deep.sourceforge.net
-mdbtools	0.7.1	Utilities for viewing data and exporting schema from Microsoft Access Database files	http://sourceforge.net/projects/mdbtools/
-mdcrack	1.2	MD4/MD5/NTLM1 hash cracker	http://c3rb3r.openwall.net/mdcrack/
-mdk3	6	WLAN penetration tool	http://homepages.tu-darmstadt.de/~p_larbig/wlan/
-mdns-scan	0.5	Scan mDNS/DNS-SD published services on the local network.
-medusa	2.1.1	A speedy, massively parallel, modular, login brute-forcer for network.	http://www.foofus.net/jmk/medusa/medusa.html
-melkor	1.0	An ELF fuzzer that mutates the existing data in an ELF sample given to create orcs (malformed ELFs), however, it does not change values randomly (dumb fuzzing), instead, it fuzzes certain metadata with semi-valid values through the use of fuzzing rules (knowledge base).	http://packetstormsecurity.com/files/127924/Melkor-ELF-Fuzzer.0.html
-memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	http://www.porcupine.org/forensics/tct.html
-memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
-metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
-metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	29270.738fc78	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
-metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
-mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
-mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
-mfsniffer	0.1	A python script for capturing unencrypted TSO login credentials.	http://packetstormsecurity.com/files/120802/MF-Sniffer-TN3270-Password-Grabber.html
-mibble	2.9.3	Mibble is an open-source SNMP MIB parser (or SMI parser) written in Java. It can be used to read SNMP MIB files as well as simple ASN.1 files.	http://www.mibble.org/
-middler	1.0	A Man in the Middle tool to demonstrate protocol middling attacks.	http://code.google.com/p/middler/
-minimysqlator	0.5	A multi-platform application used to audit web sites in order to discover and exploit SQL injection vulnerabilities.	http://www.scrt.ch/en/attack/downloads/mini-mysqlat0r
-miranda-upnp	1.3	A Python-based Universal Plug-N-Play client application designed to discover, query and interact with UPNP devices	http://code.google.com/p/miranda-upnp/
-miredo	1.2.6	Teredo client and server.	http://www.remlab.net/miredo/
-missidentify	1.0	A program to find Win32 applications	http://missidentify.sourceforge.net/
-missionplanner	1.2.55	A GroundControl Station for Ardupilot.	https://code.google.com/p/ardupilot-mega/wiki/Mission
-mitmap	0.1	Shell Script for launching a Fake AP with karma functionality and launches ettercap for packet capture and traffic manipulation.	http://www.darkoperator.com/tools-and-scripts/
-mitmer	22.b01c7fe	A man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/husam212/MITMer
-mitmf	169.83b4a93	A Framework for Man-In-The-Middle attacks written in Python.	https://github.com/byt3bl33d3r/MITMf
-mitmproxy	0.10.1	SSL-capable man-in-the-middle HTTP proxy	http://mitmproxy.org/
+* __maskprocessor	0.71__	A High-Performance word generator with a per-position configurable charset.	http://hashcat.net/wiki/doku.php?id=maskprocessor
+* __masscan	391.a60cc70__	TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.	https://github.com/robertdavidgraham/masscan
+* __mat	0.5__	Metadata Anonymisation Toolkit composed of a GUI application, a CLI application and a library.	https://mat.boum.org/
+* __matahari	0.1.30__	A reverse HTTP shell to execute commands on remote machines behind firewalls.	http://matahari.sourceforge.net
+* __mausezahn	0.40__	A free fast traffic generator written in C which allows you to send nearly every possible and impossible packet.	http://www.perihel.at/sec/mz/
+* __mbenum	1.5.0__	Queries the master browser for whatever information it has registered.	http://www.cqure.net/wp/mbenum/
+* __mboxgrep	0.7.9__	Mboxgrep is a small, non-interactive utility that scans mail folders for messages matching regular expressions. It does matching against basic and extended POSIX regular expressions, and reads and writes a variety of mailbox formats.	http://mboxgrep.sourceforge.net
+* __md5deep	4.3__	Advanced checksum hashing tool	http://md5deep.sourceforge.net
+* __mdbtools	0.7.1__	Utilities for viewing data and exporting schema from Microsoft Access Database files	http://sourceforge.net/projects/mdbtools/
+* __mdcrack	1.2__	MD4/MD5/NTLM1 hash cracker	http://c3rb3r.openwall.net/mdcrack/
+* __mdk3 6__	WLAN penetration tool	http://homepages.tu-darmstadt.de/~p_larbig/wlan/
+* __mdns-scan	0.5__	Scan mDNS/DNS-SD published services on the local network.
+* __medusa	2.1.1__	A speedy, massively parallel, modular, login brute-forcer for network.	http://www.foofus.net/jmk/medusa/medusa.html
+* __melkor	1.0__	An ELF fuzzer that mutates the existing data in an ELF sample given to create orcs (malformed ELFs), however, it does not change values randomly (dumb fuzzing), instead, it fuzzes certain metadata with semi-valid values through the use of fuzzing rules (knowledge base).	http://packetstormsecurity.com/files/127924/Melkor-ELF-Fuzzer.0.html
+* __memdump	1.01__	Dumps system memory to stdout, skipping over holes in memory maps.	http://www.porcupine.org/forensics/tct.html
+* __memfetch	0.05b__	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
+* __metacoretex	0.8.0__	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
+* __metagoofil	1.4b__	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
+* __metasploit	29270.738fc78__	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+* __metoscan	05__	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
+* __mfcuk	0.3.8__	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
+* __mfoc	0.10.7__	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
+* __mfsniffer	0.1__	A python script for capturing unencrypted TSO login credentials.	http://packetstormsecurity.com/files/120802/MF-Sniffer-TN3270-Password-Grabber.html
+* __mibble	2.9.3__	Mibble is an open-source SNMP MIB parser (or SMI parser) written in Java. It can be used to read SNMP MIB files as well as simple ASN.1 files.	http://www.mibble.org/
+* __middler	1.0__	A Man in the Middle tool to demonstrate protocol middling attacks.	http://code.google.com/p/middler/
+* __minimysqlator	0.5__	A multi-platform application used to audit web sites in order to discover and exploit SQL injection vulnerabilities.	http://www.scrt.ch/en/attack/downloads/mini-mysqlat0r
+* __miranda-upnp	1.3__	A Python-based Universal Plug-N-Play client application designed to discover, query and interact with UPNP devices	http://code.google.com/p/miranda-upnp/
+* __miredo	1.2.6__	Teredo client and server.	http://www.remlab.net/miredo/
+* __missidentify	1.0__	A program to find Win32 applications	http://missidentify.sourceforge.net/
+* __missionplanner	1.2.55__	A GroundControl Station for Ardupilot.	https://code.google.com/p/ardupilot-mega/wiki/Mission
+* __mitmap	0.1__	Shell Script for launching a Fake AP with karma functionality and launches ettercap for packet capture and traffic manipulation.	http://www.darkoperator.com/tools-and-scripts/
+* __mitmer	22.b01c7fe__	A man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/husam212/MITMer
+* __mitmf	169.83b4a93__	A Framework for Man-In-The-Middle attacks written in Python.	https://github.com/byt3bl33d3r/MITMf
+* __mitmproxy	0.10.1__	SSL-capable man-in-the-middle HTTP proxy	http://mitmproxy.org/
 mkbrutus	1.0.2	Password bruteforcer for MikroTik devices or boxes running RouterOS.	http://mkbrutusproject.github.io/MKBRUTUS/
 mobiusft	0.5.21	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
 modscan	0.1	A new tool designed to map a SCADA MODBUS TCP based network.	https://code.google.com/p/modscan/
