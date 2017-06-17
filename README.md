@@ -610,55 +610,55 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __nipper	0.11.7__	Network Infrastructure Parser	https://www.titania-security.com/
 * __nishang	0.4.0__	Using PowerShell for Penetration Testing.	https://code.google.com/p/nishang/
 * __nkiller2	2.0__	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
-nmap	6.47	Utility for network discovery and security auditing	http://nmap.org/
-nmbscan	1.2.6	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	http://nmbscan.gbarbier.org/
-nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency analysis	https://github.com/hiddenillusion/NoMoreXOR
-notspikefile	0.1	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
-nsdtool	0.1	A netgear switch discovery tool. It contains some extra features like bruteoforce and setting a new password.	http://www.curesec.com/en/publications/tools.html
-nsec3walker	20101223	Enumerates domain names using DNSSEC	http://dnscurve.org/nsec3walker.html
-ntds-decode	0.1	This application dumps LM and NTLM hashes from active accounts stored in an Active Directory database.	http://packetstormsecurity.com/files/121543/NTDS-Hash-Decoder.b.html
-o-saft	513.6bcc35b	A tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.	https://www.owasp.org/index.php/O-Saft
-oat	1.3.1	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
-obexstress	0.1	Script for testing remote OBEX service for some potential vulnerabilities.	http://bluetooth-pentest.narod.ru/
-obfsproxy	0.2.12	A pluggable transport proxy written in Python.	https://pypi.python.org/pypi/obfsproxy
-oclhashcat	1.30	Worlds fastest WPA cracker with dictionary mutation engine.	http://hashcat.net/oclhashcat/
-ocs	0.2	Compact mass scanner for Cisco routers with default telnet/enable passwords.	http://packetstormsecurity.com/files/119462/OCS-Cisco-Scanner.2.html
-ohrwurm	0.1	A small and simple RTP fuzzer.	http://mazzoo.de/
-ollydbg	201g	A 32-bit assembler-level analysing debugger	http://www.ollydbg.de
-onesixtyone	0.7	An SNMP scanner that sends multiple SNMP requests to multiple IP addresses	http://labs.portcullis.co.uk/application/onesixtyone/
-onionshare	439.027d774	Securely and anonymously share a file of any size.	https://github.com/micahflee/onionshare/
-openstego	0.6.1	A tool implemented in Java for generic steganography, with support for password-based encryption of the data.	http://www.openstego.info/
-opensvp	64.56b2b8f	A security tool implementing "attacks" to be able to the resistance of firewall to protocol level attack.	https://github.com/regit/opensvp
-openvas-cli	1.3.1	The OpenVAS Command-Line Interface	http://www.openvas.org/
-openvas-libraries	7.0.6	The OpenVAS libraries	http://www.openvas.org/
-openvas-manager	5.0.7	A layer between the OpenVAS Scanner and various client applications	http://www.openvas.org/
-openvas-scanner	4.0.5	The OpenVAS scanning Daemon	http://www.openvas.org/
-ophcrack	3.6.0	A free Windows password cracker based on rainbow tables	http://ophcrack.sourceforge.net
-orakelcrackert	1.00	This tool can crack passwords which are encrypted using Oracle's latest SHA1 based password protection algorithm.	http://freeworld.thc.org/thc-orakelcrackert11g/
-origami	1.2.7	Aims at providing a scripting tool to generate and analyze malicious PDF files.	http://code.google.com/p/origami-pdf
-oscanner	1.0.6	An Oracle assessment framework developed in Java.	http://www.cqure.net/wp/oscanner/
-ostinato	0.5.1	An open-source, cross-platform packet/traffic generator and analyzer with a friendly GUI. It aims to be "Wireshark in Reverse" and thus become complementary to Wireshark.	http://code.google.com/p/ostinato/
-osueta	65.90323e2	A simple Python script to exploit the OpenSSH User Enumeration Timing Attack.	https://github.com/c0r3dump3d/osueta
-owabf	1.3	Outlook Web Access bruteforcer tool.	http://netsec.rs/70/tools.html
-owasp-bywaf	26.e730d1b	A web application penetration testing framework (WAPTF).	https://github.com/depasonico/OWASP-ByWaf
-owtf	1016.fef357e	The Offensive (Web) Testing Framework.	https://www.owasp.org/index.php/OWASP_OWTF
-p0f	3.08b	Purely passive TCP/IP traffic fingerprinting tool.	http://lcamtuf.coredump.cx/p0f3/
-pack	0.0.4	Password Analysis and Cracking Kit	http://thesprawl.org/projects/pack/
-packerid	1.4	Script which uses a PEiD database to identify which packer (if any) is being used by a binary.	http://handlers.sans.org/jclausing/
-packet-o-matic	351	A real time packet processor. Reads the packet from an input module, match the packet using rules and connection tracking information and then send it to a target module.	http://www.packet-o-matic.org/
-packeth	1.7.2	A Linux GUI packet generator tool for ethernet.	http://packeth.sourceforge.net/
-packit	1.0	A network auditing tool. Its value is derived from its ability to customize, inject, monitor, and manipulate IP traffic.	http://packit.sourceforge.net/
-pacumen	1.92a0884	Packet Acumen - Analyse encrypted network traffic and more (side-channel attacks).	https://github.com/bniemczyk/pacumen
-padbuster	0.3.3	Automated script for performing Padding Oracle attacks.	http://www.gdssecurity.com/l/t.php
-paketto	1.10	Advanced TCP/IP Toolkit.	http://www.doxpara.com/paketto
-panoptic	178.73b2b4c	A tool that automates the process of search and retrieval of content for common log and config files through LFI vulnerability.	https://github.com/lightos/Panoptic
-paros	3.2.13	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. Supports editing/viewing HTTP messages on-the-fly, spiders, client certificates, proxy-chaining, intelligent scanning for XSS and SQLi, etc.	http://www.parosproxy.org
-parsero	56.fc5f7ec	A robots.txt audit tool.	https://github.com/behindthefirewalls/Parsero
-pasco	20040505_1	Examines the contents of Internet Explorer's cache files for forensic purposes	http://www.jonesdykstra.com/
-passcracking	20131214	A little python script for sending hashes to passcracking.com and milw0rm	http://github.com/jensp/passcracking
-passe-partout	0.1	Tool to extract RSA and DSA private keys from any process linked with OpenSSL. The target memory is scanned to lookup specific OpenSSL patterns.	http://www.hsc.fr/ressources/outils/passe-partout/index.html.en
-passivedns	1.1.3	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	https://github.com/gamelinux/passivedns
-pastenum	0.4.1	Search Pastebins for content, fork from nullthreat corelan pastenum2	http://github.com/shadowbq/pastenum
+* __nmap	6.47__	Utility for network discovery and security auditing	http://nmap.org/
+* __nmbscan	1.2.6__	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	http://nmbscan.gbarbier.org/
+* __nomorexor	0.1__	Tool to help guess a files 256 byte XOR key by using frequency analysis	https://github.com/hiddenillusion/NoMoreXOR
+* __notspikefile	0.1__	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
+* __nsdtool	0.1__	A netgear switch discovery tool. It contains some extra features like bruteoforce and setting a new password.	http://www.curesec.com/en/publications/tools.html
+* __nsec3walker	20101223__	Enumerates domain names using DNSSEC	http://dnscurve.org/nsec3walker.html
+*__ntds-decode	0.1__	This application dumps LM and NTLM hashes from active accounts stored in an Active Directory database.	http://packetstormsecurity.com/files/121543/NTDS-Hash-Decoder.b.html
+* __o-saft	513.6bcc35b__	A tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.	https://www.owasp.org/index.php/O-Saft
+* __oat	1.3.1__	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
+* __obexstress	0.1__	Script for testing remote OBEX service for some potential vulnerabilities.	http://bluetooth-pentest.narod.ru/
+* __obfsproxy	0.2.12__	A pluggable transport proxy written in Python.	https://pypi.python.org/pypi/obfsproxy
+* __oclhashcat	1.30__	Worlds fastest WPA cracker with dictionary mutation engine.	http://hashcat.net/oclhashcat/
+* __ocs	0.2__	Compact mass scanner for Cisco routers with default telnet/enable passwords.	http://packetstormsecurity.com/files/119462/OCS-Cisco-Scanner.2.html
+* __ohrwurm	0.1__	A small and simple RTP fuzzer.	http://mazzoo.de/
+* __ollydbg	201g__	A 32-bit assembler-level analysing debugger	http://www.ollydbg.de
+* __onesixtyone	0.7__	An SNMP scanner that sends multiple SNMP requests to multiple IP addresses	http://labs.portcullis.co.uk/application/onesixtyone/
+* __onionshare	439.027d774__	Securely and anonymously share a file of any size.	https://github.com/micahflee/onionshare/
+* __openstego	0.6.1__	A tool implemented in Java for generic steganography, with support for password-based encryption of the data.	http://www.openstego.info/
+* __opensvp	64.56b2b8f__	A security tool implementing "attacks" to be able to the resistance of firewall to protocol level attack.	https://github.com/regit/opensvp
+* __openvas-cli	1.3.1__	The OpenVAS Command-Line Interface	http://www.openvas.org/
+* __openvas-libraries	7.0.6__	The OpenVAS libraries	http://www.openvas.org/
+* __openvas-manager	5.0.7__	A layer between the OpenVAS Scanner and various client applications	http://www.openvas.org/
+* __openvas-scanner	4.0.5__	The OpenVAS scanning Daemon	http://www.openvas.org/
+* __ophcrack	3.6.0__	A free Windows password cracker based on rainbow tables	http://ophcrack.sourceforge.net
+* __orakelcrackert	1.00__	This tool can crack passwords which are encrypted using Oracle's latest SHA1 based password protection algorithm.	http://freeworld.thc.org/thc-orakelcrackert11g/
+* __origami	1.2.7__	Aims at providing a scripting tool to generate and analyze malicious PDF files.	http://code.google.com/p/origami-pdf
+* __oscanner	1.0.6__	An Oracle assessment framework developed in Java.	http://www.cqure.net/wp/oscanner/
+* __ostinato	0.5.1__	An open-source, cross-platform packet/traffic generator and analyzer with a friendly GUI. It aims to be "Wireshark in Reverse" and thus become complementary to Wireshark.	http://code.google.com/p/ostinato/
+* __osueta	65.90323e2__	A simple Python script to exploit the OpenSSH User Enumeration Timing Attack.	https://github.com/c0r3dump3d/osueta
+* __owabf	1.3__	Outlook Web Access bruteforcer tool.	http://netsec.rs/70/tools.html
+* __owasp-bywaf	26.e730d1b__	A web application penetration testing framework (WAPTF).	https://github.com/depasonico/OWASP-ByWaf
+* __owtf	1016.fef357e__	The Offensive (Web) Testing Framework.	https://www.owasp.org/index.php/OWASP_OWTF
+* __p0f	3.08b__	Purely passive TCP/IP traffic fingerprinting tool.	http://lcamtuf.coredump.cx/p0f3/
+* __pack	0.0.4__	Password Analysis and Cracking Kit	http://thesprawl.org/projects/pack/
+* __packerid	1.4__	Script which uses a PEiD database to identify which packer (if any) is being used by a binary.	http://handlers.sans.org/jclausing/
+* __packet-o-matic	351__	A real time packet processor. Reads the packet from an input module, match the packet using rules and connection tracking information and then send it to a target module.	http://www.packet-o-matic.org/
+* __packeth	1.7.2__	A Linux GUI packet generator tool for ethernet.	http://packeth.sourceforge.net/
+* __packit	1.0__	A network auditing tool. Its value is derived from its ability to customize, inject, monitor, and manipulate IP traffic.	http://packit.sourceforge.net/
+* __pacumen	1.92a0884__	Packet Acumen - Analyse encrypted network traffic and more (side-channel attacks).	https://github.com/bniemczyk/pacumen
+* __padbuster	0.3.3__	Automated script for performing Padding Oracle attacks.	http://www.gdssecurity.com/l/t.php
+* __paketto	1.10__	Advanced TCP/IP Toolkit.	http://www.doxpara.com/paketto
+* __panoptic	178.73b2b4c__	A tool that automates the process of search and retrieval of content for common log and config files through LFI vulnerability.	https://github.com/lightos/Panoptic
+* __paros	3.2.13__	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. Supports editing/viewing HTTP messages on-the-fly, spiders, client certificates, proxy-chaining, intelligent scanning for XSS and SQLi, etc.	http://www.parosproxy.org
+* __parsero	56.fc5f7ec__	A robots.txt audit tool.	https://github.com/behindthefirewalls/Parsero
+* __pasco	20040505_1__	Examines the contents of Internet Explorer's cache files for forensic purposes	http://www.jonesdykstra.com/
+* __passcracking	20131214__	A little python script for sending hashes to passcracking.com and milw0rm	http://github.com/jensp/passcracking
+* __passe-partout	0.1__	Tool to extract RSA and DSA private keys from any process linked with OpenSSL. The target memory is scanned to lookup specific OpenSSL patterns.	http://www.hsc.fr/ressources/outils/passe-partout/index.html.en
+* __passivedns	1.1.3__	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	https://github.com/gamelinux/passivedns
+* __pastenum	0.4.1__	Search Pastebins for content, fork from nullthreat corelan pastenum2	http://github.com/shadowbq/pastenum
 patator	80.5a140c1	A multi-purpose bruteforcer.	https://github.com/lanjelot/patator
 pathod	0.11.1	Crafted malice for tormenting HTTP clients and servers.	http://pathod.net/
 pblind	1.0	Little utility to help exploiting blind sql injection vulnerabilities.	http://www.edge-security.com/pblind.php
