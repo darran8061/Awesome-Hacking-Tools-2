@@ -1059,33 +1059,33 @@ wol-e	2.0	A suite of tools for the Wake on LAN feature of network attached compu
 wordpot	37.e42eeda	A Wordpress Honeypot.	https://github.com/gbrindisi/wordpot
 wpbf	7.11b6ac1	Multithreaded WordPress brute forcer.	https://github.com/dejanlevaja/wpbf
 wpscan	1803.88808db	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
-ws-attacker	1.3	A modular framework for web services penetration testing.	http://ws-attacker.sourceforge.net/
-wsfuzzer	1.9.5	A Python tool written to automate SOAP pentesting of web services.	https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_Project
-wyd	0.2	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
-x-scan	3.3	A general network vulnerabilities scanner for scanning network vulnerabilities for specific IP address scope or stand-alone computer by multi-threading method, plug-ins are supportable.	http://www.xfocus.org/
-xcavator	5.bd9e2d8	Man-In-The-Middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/nccgroup/xcavator
-xf86-video-qxl-git	r541.cbe70e9	Xorg X11 qxl video driver.	http://www.spice-space.org/
-xorbruteforcer	0.1	Script that implements a XOR bruteforcing of a given file, although a specific key can be used too.	http://eternal-todo.com/category/bruteforce
-xorsearch	1.11.1	Program to search for a given string in an XOR, ROL or ROT encoded binary file.	http://blog.didierstevens.com/programs/xorsearch/
-xortool	0.96	A tool to analyze multi-byte xor cipher.	https://github.com/hellman/xortool/
-xplico	33.0f6d8bc	Internet Traffic Decoder. Network Forensic Analysis Tool (NFAT).	http://www.xplico.org/
-xprobe2	0.3	An active OS fingerprinting tool.	http://sourceforge.net/apps/mediawiki/xprobe/index.php?title=Main_Page
-xspy	1.0c	A utility for monitoring keypresses on remote X servers	http://www.freshports.org/security/xspy/
-xsser	1.6	A penetration testing tool for detecting and exploiting XSS vulnerabilites.	http://xsser.sourceforge.net/
-xssless	35.9eee648	An automated XSS payload generator written in python.	https://github.com/mandatoryprogrammer/xssless
-xsss	0.40b	A brute force cross site scripting scanner.	http://www.sven.de/xsss/
-xssscan	8340.db8ef4a	Command line tool for detection of XSS attacks in URLs. Based on ModSecurity rules from OWASP CRS.	https://github.com/gwroblew/detectXSSlib
-xsssniper	0.9	An automatic XSS discovery tool	https://github.com/gbrindisi/xsssniper
-xssya	13.15ebdfe	A Cross Site Scripting Scanner & Vulnerability Confirmation.	https://github.com/yehia-mamdouh/XSSYA
-yara	3.2.0	A malware identification and classification tool.	https://plusvic.github.io/yara/
-ycrawler	0.1	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
-yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
-yinjector	0.1	A MySQL injection penetration tool. It has multiple features, proxy support, and multiple exploitation methods.	http://packetstormsecurity.com/files/98359/yInjector-MySQL-Injection-Tool.html
-zackattack	5.1f96c14	A new tool set to do NTLM Authentication relaying unlike any other tool currently out there.	https://github.com/urbanesec/ZackAttack/
-zaproxy	2.3.1	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
-zarp	0.1.5	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
-zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
-zmap	1.2.1	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
-zulu	0.1	A light weight 802.11 wireless frame generation tool to enable fast and easy debugging and probing of 802.11 networks.	http://sourceforge.net/projects/zulu-wireless/
-zykeys	0.1	Demonstrates how default wireless settings are derived on some models of ZyXEL routers.	http://packetstormsecurity.com/files/119156/Zykeys-Wireless-Tool.html
-zzuf	0.13	Transparent application input fuzzer.	http://sam.zoy.org/zzuf/
+* __ws-attacker	1.3__	A modular framework for web services penetration testing.	http://ws-attacker.sourceforge.net/
+* __wsfuzzer	1.9.5__	A Python tool written to automate pentesting of web services. https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_ProjectSOAP	
+* __wyd	0.2__	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
+* __x-scan	3.3__	A general network vulnerabilities scanner for scanning network vulnerabilities for specific IP address scope or stand-alone computer by multi-threading method, plug-ins are supportable.	http://www.xfocus.org/
+* __xcavator	5.bd9e2d8__	Man-In-The-Middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/nccgroup/xcavator
+* __xf86-video-qxl-git	r541.cbe70e9__	Xorg X11 qxl video driver.	http://www.spice-space.org/
+* __xorbruteforcer	0.1__	Script that implements a XOR bruteforcing of a given file, although a specific key can be used too.	http://eternal-todo.com/category/bruteforce
+* __xorsearch	1.11.1__	Program to search for a given string in an XOR, ROL or ROT encoded binary file.	http://blog.didierstevens.com/programs/xorsearch/
+* __xortool	0.96__	A tool to analyze multi-byte xor cipher.	https://github.com/hellman/xortool/
+* __xplico	33.0f6d8bc__	Internet Traffic Decoder. Network Forensic Analysis Tool (NFAT).	http://www.xplico.org/
+* __xprobe2	0.3__	An active OS fingerprinting tool.	http://sourceforge.net/apps/mediawiki/xprobe/index.php?title=Main_Page
+* __xspy	1.0c__	A utility for monitoring keypresses on remote X servers	http://www.freshports.org/security/xspy/
+* __xsser	1.6__	A penetration testing tool for detecting and exploiting XSS vulnerabilites.	http://xsser.sourceforge.net/
+* __xssless	35.9eee648__	An automated XSS payload generator written in python.	https://github.com/mandatoryprogrammer/xssless
+* __xsss	0.40b__	A brute force cross site scripting scanner.	http://www.sven.de/xsss/
+* __xssscan	8340.db8ef4a__	Command line tool for detection of XSS attacks in URLs. Based on ModSecurity rules from OWASP CRS.	https://github.com/gwroblew/detectXSSlib
+* __xsssniper	0.9__	An automatic XSS discovery tool	https://github.com/gbrindisi/xsssniper
+* __xssya	13.15ebdfe__	A Cross Site Scripting Scanner & Vulnerability Confirmation.	https://github.com/yehia-mamdouh/XSSYA
+* __yara	3.2.0__	A malware identification and classification tool.	https://plusvic.github.io/yara/
+* __ycrawler	0.1__	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
+* __yersinia	0.7.1__	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
+* __yinjector	0.1__	A MySQL injection penetration tool. It has multiple features, proxy support, and multiple exploitation methods.	http://packetstormsecurity.com/files/98359/yInjector-MySQL-Injection-Tool.html
+* __zackattack	5.1f96c14__	A new tool set to do NTLM Authentication relaying unlike any other tool currently out there.	https://github.com/urbanesec/ZackAttack/
+* __zaproxy	2.3.1__	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
+* __zarp	0.1.5__	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
+* __zerowine	0.0.2__	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
+* __zmap	1.2.1__	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
+* __zulu	0.1__	A light weight 802.11 wireless frame generation tool to enable fast and easy debugging and probing of 802.11 networks.	http://sourceforge.net/projects/zulu-wireless/
+* __zykeys	0.1__	Demonstrates how default wireless settings are derived on some models of ZyXEL routers.	http://packetstormsecurity.com/files/119156/Zykeys-Wireless-Tool.html
+* __zzuf	0.13__	Transparent application input fuzzer.	http://sam.zoy.org/zzuf/
