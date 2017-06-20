@@ -992,73 +992,73 @@ uw-offish	0.1	Clear-text protocol simulator.	http://uberwall.org/bin/download/42
 uw-udpscan	0.1	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
 uw-zone	0.1	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
 v3n0m	77.cdaf14e	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
-valgrind	3.10.1	A tool to help find memory-management problems in programs	http://valgrind.org/
-vanguard	0.1	A comprehensive web penetration testing tool written in Perl thatidentifies vulnerabilities in web applications.	http://packetstormsecurity.com/files/110603/Vanguard-Pentesting-Scanner.html
-vbrute	1.11dda8b	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
-vega	1.0	An open source platform to test the security of web applications	https://github.com/subgraph/Vega/wiki
-veil	276.f6dc4ff	A tool designed to generate metasploit payloads that bypass common anti-virus solutions.	https://github.com/veil-evasion/Veil
-vfeed	36.a0fdf06	Open Source Cross Linked and Aggregated Local Vulnerability Database main repository.	http://www.toolswatch.org/vfeed
-vidalia	0.2.21	Controller GUI for Tor	https://www.torproject.org/vidalia
-videosnarf	0.63	A new security assessment tool for pcap analysis	http://ucsniff.sourceforge.net/videosnarf.html
-vinetto	0.07beta	A forensics tool to examine Thumbs.db files	http://vinetto.sourceforge.net
-viper	501.5f6a19a	A Binary analysis framework.	https://github.com/botherder/viper
-viproy-voipkit	2.0	VoIP Pen-Test Kit for Metasploit Framework	http://viproy.com/
-vivisect	20140803	A Python based static analysis and reverse engineering framework, Vdb is a Python based research/reversing focused debugger and programatic debugging API by invisigoth of kenshoto	http://visi.kenshoto.com/
-vnak	1.cf0fda7	Aim is to be the one tool a user needs to attack multiple VoIP protocols.	https://www.isecpartners.com/vnak.html
-vnc-bypauth	0.0.1	Multi-threaded bypass authentication scanner for VNC servers <= 4.1.1.	http://pentester.fr/resources/tools/techno/VNC/VNC_bypauth/
-vncrack	1.21	What it looks like: crack VNC.	http://phenoelit-us.org/vncrack
-voiper	0.07	A VoIP security testing toolkit incorporating several VoIP fuzzers and auxilliary tools to assist the auditor.	http://voiper.sourceforge.net/
-voiphopper	2.04	A security validation tool that tests to see if a PC can mimic the behavior of an IP Phone. It rapidly automates a VLAN Hop into the Voice VLAN.	http://voiphopper.sourceforge.net/
-voipong	2.0	A utility which detects all Voice Over IP calls on a pipeline, and for those which are G711 encoded, dumps actual conversation to seperate wave files.	http://www.enderunix.org/voipong/
-volatility	2.4.1	A memory forensics toolkit.	https://www.volatilesystems.com/default/volatility
-vstt	0.5.0	VSTT is a multi-protocol tunneling tool. It accepts input by TCP stream sockets and FIFOs, and can send data via TCP, POP3, and ICMP tunneling.	http://www.wendzel.de/dr.org/files/Projects/vstt/
-vulscan	2.0	A module which enhances nmap to a vulnerability scanner	http://www.computec.ch/projekte/vulscan/
-w3af	1.6	Web Application Attack and Audit Framework.	http://w3af.sourceforge.net/
-waffit	30	A set of security tools to identify and fingerprint Web Application Firewall/WAF products protecting a website	http://code.google.com/p/waffit/
-wafp	0.01_26c3	An easy to use Web Application Finger Printing tool written in ruby using sqlite3 databases for storing the fingerprints.	http://packetstormsecurity.com/files/84468/Web-Application-Finger-Printer.01-26c3.html
-wapiti	2.3.0	A vulnerability scanner for web applications. It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, LDAP injections, CRLF injections...	http://wapiti.sourceforge.net/
-wavemon	0.7.6	Ncurses-based monitoring application for wireless network devices	http://eden-feed.erg.abdn.ac.uk/wavemon/
-web-soul	2	A plugin based scanner for attacking and data mining web sites written in Perl.	http://packetstormsecurity.com/files/122064/Web-Soul-Scanner.html
-webacoo	0.2.3	Web Backdoor Cookie Script-Kit.	https://bechtsoudis.com/webacoo/
-webenum	0.1	Tool to enumerate http responses using dynamically generated queries and more. Useful for penetration tests against web servers.	http://code.google.com/p/webenum/
-webhandler	0.8.5	A handler for PHP system functions & also an alternative 'netcat' handler.	https://github.com/lnxg33k/webhandler
-webpwn3r	35.3fb27bb	A python based Web Applications Security Scanner.	https://github.com/zigoo0/webpwn3r
-webrute	3.3	Web server directory brute forcer.	https://github.com/BlackArch/webrute
-webscarab	20120422.001828	Framework for analysing applications that communicate using the HTTP and HTTPS protocols	http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project
-webshag	1.10	A multi-threaded, multi-platform web server audit tool.	http://www.scrt.ch/en/attack/downloads/webshag
-webshells	6.690ebd9	Web Backdoors.	https://github.com/BlackArch/webshells
-webslayer	5	A tool designed for brute forcing Web Applications	https://code.google.com/p/webslayer/
-websockify	0.6.0	WebSocket to TCP proxy/bridge.	http://github.com/kanaka/websockify
-webspa	0.7	A web knocking tool, sending a single HTTP/S to run O/S commands.	http://sourceforge.net/projects/webspa/
-websploit	3.0.0	An Open Source Project For, Social Engineering Works, Scan, Crawler & Analysis Web, Automatic Exploiter, Support Network Attacks	http://code.google.com/p/websploit/
-weevely	1.1	Stealth tiny web shell	http://epinna.github.io/Weevely/
-wepbuster	1.0_beta_0.7	script for automating aircrack-ng	http://code.google.com/p/wepbuster/
-wfuzz	24.1c6ecd8	Utility to bruteforce web applications to find their not linked resources.	https://github.com/xmendez/wfuzz
-whatweb	0.4.7	Next generation web scanner that identifies what websites are running.	http://www.morningstarsecurity.com/research/whatweb
-wi-feye	1.0	An automated wireless penetration testing tool written in python, its designed to simplify common attacks that can be performed on wifi networks so that they can be executed quickly and easily.	http://wi-feye.za1d.com/download.php
-wifi-honey	1.0	A management tool for wifi honeypots	http://www.digininja.org/projects/wifi_honey.php
-wifi-monitor	0.r22.71340a3	Prints the IPs on your local network that're sending the most packets	https://github.com/DanMcInerney/wifi-monitor
-wificurse	0.3.9	WiFi jamming tool.	https://github.com/oblique/wificurse
-wifijammer	43.4a0fe56	A python script to continuosly jam all wifi clients within range.	https://github.com/DanMcInerney/wifijammer
-wifiphisher	17.09cf393	Fast automated phishing attacks against WPA networks.	https://github.com/sophron/wifiphisher
-wifitap	2b16088	WiFi injection tool through tun/tap device.	https://github.com/GDSSecurity/wifitap
-wifite	2.28fc5cd	A tool to attack multiple WEP and WPA encrypted networks at the same time.	http://code.google.com/p/wifite/
-wig	291.14f19bd	WebApp Information Gatherer.	https://github.com/jekyc/wig
-wikigen	8.348aa99	A script to generate wordlists out of wikipedia pages.	https://github.com/zombiesam/wikigen
-winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
-winfo	2.0	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
-wireless-ids	24.b132071	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	https://github.com/SYWorks/wireless-ids
-wireshark-cli	1.12.2	a free network protocol analyzer for Unix/Linux and Windows - CLI version	http://www.wireshark.org/
-wireshark-gtk	1.12.2	a free network protocol analyzer for Unix/Linux and Windows - GTK frontend	http://www.wireshark.org/
-wirouter-keyrec	1.1.2	A powerful and platform independent software to recover the default WPA passphrases of the supported router models (Telecom Italia Alice AGPF, Fastweb Pirelli, Fastweb Tesley, Eircom Netopia, Pirelli TeleTu/Tele 2).	http://www.salvatorefresta.net/tools/
-witchxtool	1.1	A perl script that consists of a port scanner, LFI scanner, MD5 bruteforcer, dork SQL injection scanner, fresh proxy scanner, and a dork LFI scanner.	http://packetstormsecurity.com/files/97465/Witchxtool-Port-LFI-SQL-Scanner-And-MD5-Bruteforcing-Tool.1.html
-wlan2eth	1.3	re-writes 802.11 captures into standard Ethernet frames.	http://www.willhackforsushi.com/?page_id=79
-wmat	0.1	Automatic tool for testing webmail accounts	http://netsec.rs/70/tools.html
-wnmap	0.1	A shell script written with the purpose to automate and chain scans via nmap. You can run nmap with a custom mode written by user and create directories for every mode with the xml/nmap files inside.	http://nullsecurity.net/tools/automation.html
-wol-e	2.0	A suite of tools for the Wake on LAN feature of network attached computers	http://code.google.com/p/wol-e/
-wordpot	37.e42eeda	A Wordpress Honeypot.	https://github.com/gbrindisi/wordpot
-wpbf	7.11b6ac1	Multithreaded WordPress brute forcer.	https://github.com/dejanlevaja/wpbf
-wpscan	1803.88808db	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
+* __valgrind	3.10.1__	A tool to help find memory-management problems in programs	http://valgrind.org/
+* __vanguard	0.1__	A comprehensive web penetration testing tool written in Perl thatidentifies vulnerabilities in web applications.	http://packetstormsecurity.com/files/110603/Vanguard-Pentesting-Scanner.html
+* __vbrute	1.11dda8b__	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
+* __vega	1.0__	An open source platform to test the security of web applications	https://github.com/subgraph/Vega/wiki
+* __veil	276.f6dc4ff__	A tool designed to generate metasploit payloads that bypass common anti-virus solutions.	https://github.com/veil-evasion/Veil
+* __vfeed	36.a0fdf06__	Open Source Cross Linked and Aggregated Local Vulnerability Database main repository.	http://www.toolswatch.org/vfeed
+* __vidalia	0.2.21__	Controller GUI for Tor	https://www.torproject.org/vidalia
+* __videosnarf	0.63__	A new security assessment tool for pcap analysis	http://ucsniff.sourceforge.net/videosnarf.html
+* __vinetto	0.07beta__	A forensics tool to examine Thumbs.db files	http://vinetto.sourceforge.net
+* __viper	501.5f6a19a__	A Binary analysis framework.	https://github.com/botherder/viper
+* __viproy-voipkit	2.0__	VoIP Pen-Test Kit for Metasploit Framework	http://viproy.com/
+* __vivisect	20140803__	A Python based static analysis and reverse engineering framework, Vdb is a Python based research/reversing focused debugger and programatic debugging API by invisigoth of kenshoto	http://visi.kenshoto.com/
+* __vnak	1.cf0fda7__	Aim is to be the one tool a user needs to attack multiple VoIP protocols.	https://www.isecpartners.com/vnak.html
+* __vnc-bypauth	0.0.1__	Multi-threaded bypass authentication scanner for VNC servers <= 4.1.1.	http://pentester.fr/resources/tools/techno/VNC/VNC_bypauth/
+* __vncrack	1.21__	What it looks like: crack VNC.	http://phenoelit-us.org/vncrack
+* __voiper	0.07__	A VoIP security testing toolkit incorporating several VoIP fuzzers and auxilliary tools to assist the auditor.	http://voiper.sourceforge.net/
+* __voiphopper	2.04__	A security validation tool that tests to see if a PC can mimic the behavior of an IP Phone. It rapidly automates a VLAN Hop into the Voice VLAN.	http://voiphopper.sourceforge.net/
+* __voipong	2.0__	A utility which detects all Voice Over IP calls on a pipeline, and for those which are G711 encoded, dumps actual conversation to seperate wave files.	http://www.enderunix.org/voipong/
+* __volatility	2.4.1__	A memory forensics toolkit.	https://www.volatilesystems.com/default/volatility
+* __vstt	0.5.0__	VSTT is a multi-protocol tunneling tool. It accepts input by TCP stream sockets and FIFOs, and can send data via TCP, POP3, and ICMP tunneling.	http://www.wendzel.de/dr.org/files/Projects/vstt/
+* __vulscan	2.0__	A module which enhances nmap to a vulnerability scanner	http://www.computec.ch/projekte/vulscan/
+* __w3af	1.6__	Web Application Attack and Audit Framework.	http://w3af.sourceforge.net/
+* __waffit	30__	A set of security tools to identify and fingerprint Web Application Firewall/WAF products protecting a website	http://code.google.com/p/waffit/
+* __wafp	0.01_26c3__	An easy to use Web Application Finger Printing tool written in ruby using sqlite3 databases for storing the fingerprints.	http://packetstormsecurity.com/files/84468/Web-Application-Finger-Printer.01-26c3.html
+* __wapiti	2.3.0__	A vulnerability scanner for web applications. It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, LDAP injections, CRLF injections...	http://wapiti.sourceforge.net/
+* __wavemon	0.7.6__	Ncurses-based monitoring application for wireless network devices	http://eden-feed.erg.abdn.ac.uk/wavemon/
+* __web-soul	2__	A plugin based scanner for attacking and data mining web sites written in Perl.	http://packetstormsecurity.com/files/122064/Web-Soul-Scanner.html
+* __webacoo	0.2.3__	Web Backdoor Cookie Script-Kit.	https://bechtsoudis.com/webacoo/
+* __webenum	0.1__	Tool to enumerate http responses using dynamically generated queries and more. Useful for penetration tests against web servers.	http://code.google.com/p/webenum/
+* __webhandler	0.8.5__	A handler for PHP system functions & also an alternative 'netcat' handler.	https://github.com/lnxg33k/webhandler
+* __webpwn3r	35.3fb27bb__	A python based Web Applications Security Scanner.	https://github.com/zigoo0/webpwn3r
+* __webrute	3.3__	Web server directory brute forcer.	https://github.com/BlackArch/webrute
+* __webscarab	20120422.001828__	Framework for analysing applications that communicate using the HTTP and HTTPS protocols	http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project
+* __webshag	1.10__	A multi-threaded, multi-platform web server audit tool.	http://www.scrt.ch/en/attack/downloads/webshag
+* __webshells	6.690ebd9__	Web Backdoors.	https://github.com/BlackArch/webshells
+* __webslayer	5__	A tool designed for brute forcing Web Applications	https://code.google.com/p/webslayer/
+* __websockify__	0.6.0	WebSocket to TCP proxy/bridge.	http://github.com/kanaka/websockify
+* __webspa	0.7__	A web knocking tool, sending a single HTTP/S to run O/S commands.	http://sourceforge.net/projects/webspa/
+* __websploit	3.0.0__	An Open Source Project For, Social Engineering Works, Scan, Crawler & Analysis Web, Automatic Exploiter, Support Network Attacks	http://code.google.com/p/websploit/
+* __weevely	1.1__	Stealth tiny web shell	http://epinna.github.io/Weevely/
+* __wepbuster	1.0_beta_0.7__	script for automating aircrack-ng	http://code.google.com/p/wepbuster/
+* __wfuzz	24.1c6ecd8__	Utility to bruteforce web applications to find their not linked resources.	https://github.com/xmendez/wfuzz
+* __whatweb	0.4.7__	Next generation web scanner that identifies what websites are running.	http://www.morningstarsecurity.com/research/whatweb
+* __wi-feye	1.0__	An automated wireless penetration testing tool written in python, its designed to simplify common attacks that can be performed on wifi networks so that they can be executed quickly and easily.	http://wi-feye.za1d.com/download.php
+* __wifi-honey	1.0__	A management tool for wifi honeypots	http://www.digininja.org/projects/wifi_honey.php
+* __wifi-monitor	0.r22.71340a3__	Prints the IPs on your local network that're sending the most packets	https://github.com/DanMcInerney/wifi-monitor
+* __wificurse	0.3.9__	WiFi jamming tool.	https://github.com/oblique/wificurse
+* __wifijammer	43.4a0fe56__	A python script to continuosly jam all wifi clients within range.	https://github.com/DanMcInerney/wifijammer
+* __wifiphisher	17.09cf393__	Fast automated phishing attacks against WPA networks.	https://github.com/sophron/wifiphisher
+* __wifitap	2b16088__	WiFi injection tool through tun/tap device.	https://github.com/GDSSecurity/wifitap
+* __wifite	2.28fc5cd__	A tool to attack multiple WEP and WPA encrypted networks at the same time.	http://code.google.com/p/wifite/
+* __wig	291.14f19bd__	WebApp Information Gatherer.	https://github.com/jekyc/wig
+* __wikigen	8.348aa99__	A script to generate wordlists out of wikipedia pages.	https://github.com/zombiesam/wikigen
+* __winexe	1.00__	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
+* __winfo	2.0__	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
+* __wireless-ids	24.b132071__	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	https://github.com/SYWorks/wireless-ids
+* __wireshark-cli	1.12.2__	a free network protocol analyzer for Unix/Linux and Windows - CLI version	http://www.wireshark.org/
+* __wireshark-gtk	1.12.2__	a free network protocol analyzer for Unix/Linux and Windows - GTK frontend	http://www.wireshark.org/
+* __wirouter-keyrec	1.1.2__	A powerful and platform independent software to recover the default WPA passphrases of the supported router models (Telecom Italia Alice AGPF, Fastweb Pirelli, Fastweb Tesley, Eircom Netopia, Pirelli TeleTu/Tele 2).	http://www.salvatorefresta.net/tools/
+* __witchxtool	1.1__	A perl script that consists of a port scanner, LFI scanner, MD5 bruteforcer, dork SQL injection scanner, fresh proxy scanner, and a dork LFI scanner.	http://packetstormsecurity.com/files/97465/Witchxtool-Port-LFI-SQL-Scanner-And-MD5-Bruteforcing-Tool.1.html
+* __wlan2eth	1.3__	re-writes 802.11 captures into standard Ethernet frames.	http://www.willhackforsushi.com/?page_id=79
+* __wmat	0.1__	Automatic tool for testing webmail accounts	http://netsec.rs/70/tools.html
+* __wnmap	0.1__	A shell script written with the purpose to automate and chain scans via nmap. You can run nmap with a custom mode written by user and create directories for every mode with the xml/nmap files inside.	http://nullsecurity.net/tools/automation.html
+* __wol-e	2.0__	A suite of tools for the Wake on LAN feature of network attached computers	http://code.google.com/p/wol-e/
+* __wordpot	37.e42eeda__	A Wordpress Honeypot.	https://github.com/gbrindisi/wordpot
+* __wpbf	7.11b6ac1__	Multithreaded WordPress brute forcer.	https://github.com/dejanlevaja/wpbf
+* __wpscan	1803.88808db__	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
 * __ws-attacker	1.3__	A modular framework for web services penetration testing.	http://ws-attacker.sourceforge.net/
 * __wsfuzzer	1.9.5__	A Python tool written to automate pentesting of web services. https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_ProjectSOAP	
 * __wyd	0.2__	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
