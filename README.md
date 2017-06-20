@@ -702,30 +702,30 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __propecia	2__	A fast class scanner that scans for a specified open port with banner grabbing	http://www.redlevel.org
 * __protos-sip	2__	SIP test suite.	https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip
 * __proxychains-ng	4.8.1__	A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies	https://github.com/rofl0r/proxychains
-proxycheck	0.1	This is a simple proxy tool that checks for the HTTP CONNECT method and grabs verbose output from a webserver.	http://packetstormsecurity.com/files/61864/proxycheck.pl.txt.html
-proxyp	2013	Small multithreaded Perl script written to enumerate latency, port numbers, server names, & geolocations of proxy IP addresses.	http://sourceforge.net/projects/proxyp/
-proxyscan	0.3	A security penetration testing tool to scan for hosts and ports through a Web proxy server.	http://packetstormsecurity.com/files/69778/proxyScan.3.tgz.html
-proxytunnel	1.9.0	a program that connects stdin and stdout to a server somewhere on the network, through a standard HTTPS proxy	http://proxytunnel.sourceforge.net
-pscan	1.3	A limited problem scanner for C source files	http://deployingradius.com/pscan/
-pshitt	21.85cde65	A lightweight fake SSH server designed to collect authentication data sent by intruders.	https://github.com/regit/pshitt
-pstoreview	1.0	Lists the contents of the Protected Storage.	http://www.ntsecurity.nu/toolbox/pstoreview/
-ptunnel	0.72	A tool for reliably tunneling TCP connections over ICMP echo request and reply packets	http://www.cs.uit.no/~daniels/PingTunnel/#download
-pwd-hash	2.0	A password hashing tool that use the crypt function to generate the hash of a string given on standard input.	http://vladz.devzero.fr/pwd-hash.php
-pwdump	7.1	Extracts the binary SAM and SYSTEM file from the filesystem and then the hashes.	http://www.tarasco.org/security/pwdump_7/index.html
-pwnat	0.3	A tool that allows any number of clients behind NATs to communicate with a server behind a separate NAT with *no* port forwarding and *no* DMZ setup on any routers in order to directly communicate with each other	http://samy.pl/pwnat/
-pwntools	2.1.3	The CTF framework used by #Gallopsled in every CTF.	https://github.com/Gallopsled/pwntools
-pyew	2.3.0	A python tool to analyse malware.	https://code.google.com/p/pyew/
-pyfiscan	1015.072ce1e	Free web-application vulnerability and version scanner.	https://github.com/fgeek/pyfiscan
-pyinstaller	2.1	A program that converts (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	http://www.pyinstaller.org/
-pyminifakedns	0.1	Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record	http://code.activestate.com/recipes/491264/
-pyrasite	2.0	Code injection and introspection of running Python processes.	http://pyrasite.com/
-pyrit	0.4.0	WPA/WPA2-PSK attacking with gpu and cluster	http://code.google.com/p/pyrit
-pytacle	alpha2	Automates the task of sniffing GSM frames	http://packetstormsecurity.com/files/124299/pytacle-alpha2.tar.gz
-pytbull	2.0	A python based flexible IDS/IPS testing framework shipped with more than 300 tests	http://pytbull.sourceforge.net/
-python-utidylib	0.2	Python bindings for Tidy HTML parser/cleaner.	http://utidylib.berlios.de
-python2-binaryornot	0.3.0	Ultra-lightweight pure Python package to check if a file is binary or text.	https://github.com/audreyr/binaryornot
-python2-yara	3.2.0	A malware identification and classification tool.	https://github.com/plusvic/yara
-quickrecon	0.3.2	A python script for simple information gathering. It attempts to find subdomain names, perform zone transfers and gathers emails from Google and Bing.	http://packetstormsecurity.com/files/104314/QuickRecon.3.2.html
+* __proxycheck	0.1__	This is a simple proxy tool that checks for the HTTP CONNECT method and grabs verbose output from a webserver.	http://packetstormsecurity.com/files/61864/proxycheck.pl.txt.html
+* __proxyp	2013__	Small multithreaded Perl script written to enumerate latency, port numbers, server names, & geolocations of proxy IP addresses.	http://sourceforge.net/projects/proxyp/
+* __proxyscan	0.3__	A security penetration testing tool to scan for hosts and ports through a Web proxy server.	http://packetstormsecurity.com/files/69778/proxyScan.3.tgz.html
+* __proxytunnel	1.9.0__	a program that connects stdin and stdout to a server somewhere on the network, through a standard HTTPS proxy	http://proxytunnel.sourceforge.net
+* __pscan	1.3__	A limited problem scanner for C source files	http://deployingradius.com/pscan/
+* __pshitt	21.85cde65__	A lightweight fake SSH server designed to collect authentication data sent by intruders.	https://github.com/regit/pshitt
+* __pstoreview	1.0__	Lists the contents of the Protected Storage.	http://www.ntsecurity.nu/toolbox/pstoreview/
+* __ptunnel	0.72__	A tool for reliably tunneling TCP connections over ICMP echo request and reply packets	http://www.cs.uit.no/~daniels/PingTunnel/#download
+* __pwd-hash	2.0__	A password hashing tool that use the crypt function to generate the hash of a string given on standard input.	http://vladz.devzero.fr/pwd-hash.php
+* __pwdump	7.1__	Extracts the binary SAM and SYSTEM file from the filesystem and then the hashes.	http://www.tarasco.org/security/pwdump_7/index.html
+* __pwnat	0.3__	A tool that allows any number of clients behind NATs to communicate with a server behind a separate NAT with *no* port forwarding and *no* DMZ setup on any routers in order to directly communicate with each other	http://samy.pl/pwnat/
+* __pwntools	2.1.3__	The CTF framework used by #Gallopsled in every CTF.	https://github.com/Gallopsled/pwntools
+* __pyew	2.3.0__	A python tool to analyse malware.	https://code.google.com/p/pyew/
+* __pyfiscan	1015.072ce1e__	Free web-application vulnerability and version scanner.	https://github.com/fgeek/pyfiscan
+* __pyinstaller	2.1__	A program that converts (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	http://www.pyinstaller.org/
+* __pyminifakedns	0.1__	Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record	http://code.activestate.com/recipes/491264/
+* __pyrasite	2.0__	Code injection and introspection of running Python processes.	http://pyrasite.com/
+* __pyrit	0.4.0__	WPA/WPA2-PSK attacking with gpu and cluster	http://code.google.com/p/pyrit
+* __pytacle	alpha2__	Automates the task of sniffing GSM frames	http://packetstormsecurity.com/files/124299/pytacle-alpha2.tar.gz
+* __pytbull	2.0__	A python based flexible IDS/IPS testing framework shipped with more than 300 tests	http://pytbull.sourceforge.net/
+* __python-utidylib	0.2__	Python bindings for Tidy HTML parser/cleaner.	http://utidylib.berlios.de
+* __python2-binaryornot	0.3.0__	Ultra-lightweight pure Python package to check if a file is binary or text.	https://github.com/audreyr/binaryornot
+* __python2-yara	3.2.0__	A malware identification and classification tool.	https://github.com/plusvic/yara
+* __quickrecon	0.3.2__	A python script for simple information gathering. It attempts to find subdomain names, perform zone transfers and gathers emails from Google and Bing.	http://packetstormsecurity.com/files/104314/QuickRecon.3.2.html
 radamsa	0.3	General purpose data fuzzer.	https://code.google.com/p/ouspg/wiki/Radamsa
 radare2	0.9.8	Open-source tools to disasm, debug, analyze and manipulate binary files.	http://radare.org/
 radiography	2	A forensic tool which grabs as much information as possible from a Windows system.	http://www.security-projects.com/?RadioGraPhy
