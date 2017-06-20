@@ -616,7 +616,7 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __notspikefile	0.1__	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
 * __nsdtool	0.1__	A netgear switch discovery tool. It contains some extra features like bruteoforce and setting a new password.	http://www.curesec.com/en/publications/tools.html
 * __nsec3walker	20101223__	Enumerates domain names using DNSSEC	http://dnscurve.org/nsec3walker.html
-*__ntds-decode	0.1__	This application dumps LM and NTLM hashes from active accounts stored in an Active Directory database.	http://packetstormsecurity.com/files/121543/NTDS-Hash-Decoder.b.html
+* __ntds-decode	0.1__	This application dumps LM and NTLM hashes from active accounts stored in an Active Directory database.	http://packetstormsecurity.com/files/121543/NTDS-Hash-Decoder.b.html
 * __o-saft	513.6bcc35b__	A tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.	https://www.owasp.org/index.php/O-Saft
 * __oat	1.3.1__	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
 * __obexstress	0.1__	Script for testing remote OBEX service for some potential vulnerabilities.	http://bluetooth-pentest.narod.ru/
@@ -659,49 +659,49 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __passe-partout	0.1__	Tool to extract RSA and DSA private keys from any process linked with OpenSSL. The target memory is scanned to lookup specific OpenSSL patterns.	http://www.hsc.fr/ressources/outils/passe-partout/index.html.en
 * __passivedns	1.1.3__	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	https://github.com/gamelinux/passivedns
 * __pastenum	0.4.1__	Search Pastebins for content, fork from nullthreat corelan pastenum2	http://github.com/shadowbq/pastenum
-patator	80.5a140c1	A multi-purpose bruteforcer.	https://github.com/lanjelot/patator
-pathod	0.11.1	Crafted malice for tormenting HTTP clients and servers.	http://pathod.net/
-pblind	1.0	Little utility to help exploiting blind sql injection vulnerabilities.	http://www.edge-security.com/pblind.php
-pcapsipdump	0.2	A tool for dumping SIP sessions (+RTP traffic, if available) to disk in a fashion similar to 'tcpdump -w' (format is exactly the same), but one file per sip session (even if there is thousands of concurrect SIP sessions).	http://pcapsipdump.sourceforge.net/
-pcredz	0.9	A tool that extracts credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, and more from a pcap file or from a live interface.	https://github.com/lgandx/PCredz
-pdf-parser	0.4.2	Parses a PDF document to identify the fundamental elements used in the analyzed file	http://blog.didierstevens.com/programs/pdf-tools/
-pdfbook-analyzer	2	Utility for facebook memory forensics.	http://sourceforge.net/projects/pdfbook/
-pdfcrack	0.12	Password recovery tool for PDF-files.	http://pdfcrack.sourceforge.net/
-pdfid	0.1.2	scan a file to look for certain PDF keywords	http://blog.didierstevens.com/programs/pdf-tools/
-pdfresurrect	0.12	A tool aimed at analyzing PDF documents.	http://packetstormsecurity.com/files/118459/PDFResurrect-PDF-Analyzer.12.html
-pdgmail	1.0	A password dictionary attack tool that targets windows authentication via the SMB protocol	http://www.jeffbryner.com/code/pdgmail
-peach	3.0.202	A SmartFuzzer that is capable of performing both generation and mutation based fuzzing	http://peachfuzzer.com/
-peda	51.327db44	Python Exploit Development Assistance for GDB.	https://github.com/longld/peda
-peepdf	0.3	A Python tool to explore PDF files in order to find out if the file can be harmful or not	http://eternal-todo.com/tools/peepdf-pdf-analysis-tool
-pentbox	1.8	A security suite that packs security and stability testing oriented tools for networks and systems.	http://www.pentbox.net
-perl-image-exiftool	9.76	Reader and rewriter of EXIF informations that supports raw files	http://search.cpan.org/perldoc?exiftool
-perl-tftp	1.0b3	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TFTP/TFTP.pm
-pev	0.60	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
-pextractor	0.18b	A forensics tool that can extract all files from an executable file created by a joiner or similar.	http://packetstormsecurity.com/files/62977/PExtractor_v0.18b_binary_and_src.rar.html
-pgdbf	94.baa1d95	Convert XBase / FoxPro databases to PostgreSQL	https://github.com/kstrauser/pgdbf
-phoss	0.1.13	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	http://www.phenoelit.org/fr/tools.html
-php-mt-seed	3.2	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
-php-rfi-payload-decoder	30.bd42caa	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
-php-vulnerability-hunter	1.4.0.20	An whitebox fuzz testing tool capable of detected several classes of vulnerabilities in PHP web applications.	https://phpvulnhunter.codeplex.com/
-phpstress	5.f987a7e	A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI.	https://github.com/nightlionsecurity/phpstress
-phrasendrescher	1.2.2	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
-pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
-pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
-plcscan	0.1	This is a tool written in Python that will scan for PLC devices over s7comm or modbus protocols.	http://packetstormsecurity.com/files/119726/PLC-Device-Scanner.html
-plecost	2	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
-plown	13.ccf998c	A security scanner for Plone CMS.	https://github.com/unweb/plown
-pmcma	1.00	Automated exploitation of invalid memory writes (being them the consequences of an overflow in a writable section, of a missing format string, integer overflow, variable misuse, or any other type of memory corruption).	http://packetstormsecurity.com/files/104724/Post-Memory-Corruption-Memory-Analyzer.00.html
-pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
-pompem	69.b2569c4	A python exploit tool finder.	https://github.com/rfunix/Pompem
-portspoof	100.70b6bf2	This program's primary goal is to enhance OS security through a set of new techniques.	http://portspoof.org/
-posttester	0.1	A jar file that will send POST requests to servers in order to test for the hash collision vulnerability discussed at the Chaos Communication Congress in Berlin.	http://packetstormsecurity.com/files/109010/MagicHash-Collision-Testing-Tool.html
-powerfuzzer	1_beta	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available (incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer). It can detect XSS, Injections (SQL, LDAP, commands, code, XPATH) and others.	http://www.powerfuzzer.com
-powersploit	239.dc1a5e5	A PowerShell Post-Exploitation Framework.	https://github.com/mattifestation/PowerSploit
-praeda	37.093d1c0	An automated data/information harvesting tool designed to gather critical information from various embedded devices.	https://github.com/percx/Praeda
-prometheus	175.497b2ce	A Firewall analyzer written in ruby	https://github.com/averagesecurityguy/prometheus
-propecia	2	A fast class scanner that scans for a specified open port with banner grabbing	http://www.redlevel.org
-protos-sip	2	SIP test suite.	https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip
-proxychains-ng	4.8.1	A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies	https://github.com/rofl0r/proxychains
+* __patator	80.5a140c1__	A multi-purpose bruteforcer.	https://github.com/lanjelot/patator
+* __pathod	0.11.1__	Crafted malice for tormenting HTTP clients and servers.	http://pathod.net/
+* __pblind	1.0__	Little utility to help exploiting blind sql injection vulnerabilities.	http://www.edge-security.com/pblind.php
+* __pcapsipdump	0.2__	A tool for dumping SIP sessions (+RTP traffic, if available) to disk in a fashion similar to 'tcpdump -w' (format is exactly the same), but one file per sip session (even if there is thousands of concurrect SIP sessions).	http://pcapsipdump.sourceforge.net/
+* __pcredz	0.9__	A tool that extracts credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, and more from a pcap file or from a live interface.	https://github.com/lgandx/PCredz
+* __pdf-parser	0.4.2__	Parses a PDF document to identify the fundamental elements used in the analyzed file	http://blog.didierstevens.com/programs/pdf-tools/
+* __pdfbook-analyzer	2__	Utility for facebook memory forensics.	http://sourceforge.net/projects/pdfbook/
+* __pdfcrack	0.12__	Password recovery tool for PDF-files.	http://pdfcrack.sourceforge.net/
+* __pdfid	0.1.2__	scan a file to look for certain PDF keywords	http://blog.didierstevens.com/programs/pdf-tools/
+* __pdfresurrect	0.12__	A tool aimed at analyzing PDF documents.	http://packetstormsecurity.com/files/118459/PDFResurrect-PDF-Analyzer.12.html
+* __pdgmail	1.0__	A password dictionary attack tool that targets windows authentication via the SMB protocol	http://www.jeffbryner.com/code/pdgmail
+* __peach	3.0.202__	A SmartFuzzer that is capable of performing both generation and mutation based fuzzing	http://peachfuzzer.com/
+* __peda	51.327db44__	Python Exploit Development Assistance for GDB.	https://github.com/longld/peda
+* __peepdf	0.3__	A Python tool to explore PDF files in order to find out if the file can be harmful or not	http://eternal-todo.com/tools/peepdf-pdf-analysis-tool
+* __pentbox	1.8__	A security suite that packs security and stability testing oriented tools for networks and systems.	http://www.pentbox.net
+* __perl-image-exiftool	9.76__	Reader and rewriter of EXIF informations that supports raw files	http://search.cpan.org/perldoc?exiftool
+* __perl-tftp	1.0b3__	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TFTP/TFTP.pm
+* __pev	0.60__	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
+* __pextractor	0.18b__	A forensics tool that can extract all files from an executable file created by a joiner or similar.	http://packetstormsecurity.com/files/62977/PExtractor_v0.18b_binary_and_src.rar.html
+* __pgdbf	94.baa1d95__	Convert XBase / FoxPro databases to PostgreSQL	https://github.com/kstrauser/pgdbf
+* __phoss	0.1.13__	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	http://www.phenoelit.org/fr/tools.html
+* __php-mt-seed	3.2__	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
+* __php-rfi-payload-decoder	30.bd42caa__	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
+* __php-vulnerability-hunter	1.4.0.20__	An whitebox fuzz testing tool capable of detected several classes of vulnerabilities in PHP web applications.	https://phpvulnhunter.codeplex.com/
+* __phpstress	5.f987a7e__	A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI.	https://github.com/nightlionsecurity/phpstress
+* __phrasendrescher	1.2.2__	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
+* __pipal	1.1__	A password analyser	http://www.digininja.org/projects/pipal.php
+* __pirana	0.3.1__	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
+* __plcscan	0.1__	This is a tool written in Python that will scan for PLC devices over s7comm or modbus protocols.	http://packetstormsecurity.com/files/119726/PLC-Device-Scanner.html
+* __plecost	2__	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
+* __plown	13.ccf998c__	A security scanner for Plone CMS.	https://github.com/unweb/plown
+* __pmcma	1.00__	Automated exploitation of invalid memory writes (being them the consequences of an overflow in a writable section, of a missing format string, integer overflow, variable misuse, or any other type of memory corruption).	http://packetstormsecurity.com/files/104724/Post-Memory-Corruption-Memory-Analyzer.00.html
+* __pnscan	1.11__	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
+* __pompem	69.b2569c4__	A python exploit tool finder.	https://github.com/rfunix/Pompem
+* __portspoof	100.70b6bf2__	This program's primary goal is to enhance OS security through a set of new techniques.	http://portspoof.org/
+* __posttester	0.1__	A jar file that will send POST requests to servers in order to test for the hash collision vulnerability discussed at the Chaos Communication Congress in Berlin.	http://packetstormsecurity.com/files/109010/MagicHash-Collision-Testing-Tool.html
+* __powerfuzzer	1_beta__	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available (incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer). It can detect XSS, Injections (SQL, LDAP, commands, code, XPATH) and others.	http://www.powerfuzzer.com
+* __powersploit	239.dc1a5e5__	A PowerShell Post-Exploitation Framework.	https://github.com/mattifestation/PowerSploit
+* __praeda	37.093d1c0__	An automated data/information harvesting tool designed to gather critical information from various embedded devices.	https://github.com/percx/Praeda
+* __prometheus	175.497b2ce__	A Firewall analyzer written in ruby	https://github.com/averagesecurityguy/prometheus
+* __propecia	2__	A fast class scanner that scans for a specified open port with banner grabbing	http://www.redlevel.org
+* __protos-sip	2__	SIP test suite.	https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip
+* __proxychains-ng	4.8.1__	A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies	https://github.com/rofl0r/proxychains
 proxycheck	0.1	This is a simple proxy tool that checks for the HTTP CONNECT method and grabs verbose output from a webserver.	http://packetstormsecurity.com/files/61864/proxycheck.pl.txt.html
 proxyp	2013	Small multithreaded Perl script written to enumerate latency, port numbers, server names, & geolocations of proxy IP addresses.	http://sourceforge.net/projects/proxyp/
 proxyscan	0.3	A security penetration testing tool to scan for hosts and ports through a Web proxy server.	http://packetstormsecurity.com/files/69778/proxyScan.3.tgz.html
