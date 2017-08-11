@@ -984,14 +984,14 @@ unsecure	1.2	Bruteforces network login masks.	http://www.sniperx.net/
 upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
 upx	3.91	Ultimate executable compressor.	http://upx.sourceforge.net/
 urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
-urldigger	02c	A python tool to extract URL addresses from different HOT sources and/or detect SPAM and malicious code	https://code.google.com/p/urldigger/
-username-anarchy	0.2	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
-usernamer	7.813139d	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
-uw-loveimap	0.1	Multi threaded imap bounce scanner.	http://uberwall.org/bin/download/45/UWloveimap.tgz
-uw-offish	0.1	Clear-text protocol simulator.	http://uberwall.org/bin/download/42/UW_offish.1.tar.gz
-uw-udpscan	0.1	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
-uw-zone	0.1	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
-v3n0m	77.cdaf14e	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
+*__urldigger	02c__	A python tool to extract URL addresses from different HOT sources and/or detect SPAM and malicious code	https://code.google.com/p/urldigger/
+*__username-anarchy	0.2__	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
+*__usernamer	7.813139d__	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
+*__uw-loveimap	0.1__	Multi threaded imap bounce scanner.	http://uberwall.org/bin/download/45/UWloveimap.tgz
+*__uw-offish	0.1__	Clear-text protocol simulator.	http://uberwall.org/bin/download/42/UW_offish.1.tar.gz
+*__uw-udpscan	0.1__	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
+*__uw-zone	0.1__	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
+*__v3n0m	77.cdaf14e__	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
 * __valgrind	3.10.1__	A tool to help find memory-management problems in programs	http://valgrind.org/
 * __vanguard	0.1__	A comprehensive web penetration testing tool written in Perl thatidentifies vulnerabilities in web applications.	http://packetstormsecurity.com/files/110603/Vanguard-Pentesting-Scanner.html
 * __vbrute	1.11dda8b__	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
