@@ -1,4 +1,4 @@
-# Best Penetration Tools | أفضل أدوات الاختراق
+# Awesome Hacking Tools
 
 ___________________________________________________________________________________________________________
 * __0trace__	1.5	A hop enumeration tool	http://jon.oberheide.org/0trace/
@@ -964,26 +964,26 @@ tsh-sctp	2.850a2da	An open-source UNIX backdoor.	https://github.com/infodox/tsh-
 tuxcut	5.0	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
 twofi	2.0	Twitter Words of Interest.	http://www.digininja.org/projects/twofi.php
 u3-pwn	2.0	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
-uatester	1.06	User Agent String Tester	http://code.google.com/p/ua-tester/
-ubertooth	2012.10.R1	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
-ubitack	0.3	Tool, which automates some of the tasks you might need on a (wireless) penetration test or while you are on the go.	https://code.google.com/p/ubitack/
-udis86	1.7.2	A minimalistic disassembler library	http://udis86.sourceforge.net/
-udptunnel	19	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
-uefi-firmware-parser	103.9d4d220	Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc	https://github.com/theopolis/uefi-firmware-parser
-ufo-wardriving	4	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
-ufonet	9.5484a90	A tool designed to launch DDoS attacks against a target, using 'Open Redirect' vectors on third party web applications, like botnet.	https://github.com/epsylon/ufonet
-umap	25.3ad8121	The USB host security assessment tool.	https://github.com/nccgroup/umap
-umit	1.0	A powerful nmap frontend.	http://www.umitproject.org/
-unhide	20130526	A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.	http://sourceforge.net/projects/unhide/
-unicorn	9.a18cb5d	A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.	https://github.com/trustedsec/unicorn
-unicornscan	0.4.7	A new information gathering and correlation engine.	http://www.unicornscan.org/
-uniofuzz	1337	The universal fuzzing tool for browsers, web services, files, programs and network services/ports	http://nullsecurity.net/tools/fuzzer.html
-uniscan	6.2	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
-unix-privesc-check	1.4	Tries to find misconfigurations that could allow local unprivilged users to escalate privileges to other users or to access local apps (e.g. databases)	http://pentestmonkey.net/tools/audit/unix-privesc-check
-unsecure	1.2	Bruteforces network login masks.	http://www.sniperx.net/
-upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
-upx	3.91	Ultimate executable compressor.	http://upx.sourceforge.net/
-urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
+*__uatester	1.06__	User Agent String Tester	http://code.google.com/p/ua-tester/
+*__ubertooth	2012.10.R1__	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
+*__ubitack	0.3__	Tool, which automates some of the tasks you might need on a (wireless) penetration test or while you are on the go.	https://code.google.com/p/ubitack/
+*__udis86	1.7.2__	A minimalistic disassembler library	http://udis86.sourceforge.net/
+*__udptunnel	19__	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
+*__uefi-firmware-parser	103.9d4d220__	Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc	https://github.com/theopolis/uefi-firmware-parser
+*__ufo-wardriving	4__	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
+*__ufonet	9.5484a90__	A tool designed to launch DDoS attacks against a target, using 'Open Redirect' vectors on third party web applications, like botnet.	https://github.com/epsylon/ufonet
+*__umap	25.3ad8121__	The USB host security assessment tool.	https://github.com/nccgroup/umap
+*__umit	1.0__	A powerful nmap frontend.	http://www.umitproject.org/
+*__unhide	20130526__	A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.	http://sourceforge.net/projects/unhide/
+*__unicorn	9.a18cb5d__	A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.	https://github.com/trustedsec/unicorn
+*__unicornscan	0.4.7__	A new information gathering and correlation engine.	http://www.unicornscan.org/
+*__uniofuzz	1337__	The universal fuzzing tool for browsers, web services, files, programs and network services/ports	http://nullsecurity.net/tools/fuzzer.html
+*__uniscan	6.2__	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
+*__unix-privesc-check	1.4__	Tries to find misconfigurations that could allow local unprivilged users to escalate privileges to other users or to access local apps (e.g. databases)	http://pentestmonkey.net/tools/audit/unix-privesc-check
+*__unsecure	1.2__	Bruteforces network login masks.	http://www.sniperx.net/
+*__upnpscan	0.4__	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
+*__upx	3.91__	Ultimate executable compressor.	http://upx.sourceforge.net/
+*__urlcrazy	0.5__	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
 *__urldigger	02c__	A python tool to extract URL addresses from different HOT sources and/or detect SPAM and malicious code	https://code.google.com/p/urldigger/
 *__username-anarchy	0.2__	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
 *__usernamer	7.813139d__	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
