@@ -941,30 +941,30 @@ themole	0.3	Automatic SQL injection exploitation tool.	http://sourceforge.net/pr
 tiger	3.2.3	A security scanner, that checks computer for known problems. Can also use tripwire, aide and chkrootkit.	http://www.nongnu.org/tiger/
 tilt	90.2bc2ef2	An easy and simple tool implemented in Python for ip reconnaissance, with reverse ip lookup.	https://github.com/AeonDave/tilt
 timegen	0.4	This program generates a *.wav file to "send" an own time signal to DCF77 compatible devices.	http://bastianborn.de/radio-clock-hack/
-tinc	1.0.24	VPN (Virtual Private Network) daemon	http://www.tinc-vpn.org/
-tinyproxy	1.8.3	A light-weight HTTP proxy daemon for POSIX operating systems.	https://banu.com/tinyproxy/
-tlsenum	75.6618285	A command line tool to enumerate TLS cipher-suites supported by a server.	https://github.com/Ayrx/tlsenum
-tlspretense	0.6.2	SSL/TLS client testing framework	https://github.com/iSECPartners/tlspretense
-tlssled	1.3	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
-tnscmd	1.3	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
-topera	19.3e230fd	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
-tor	0.2.5.10	Anonymizing overlay network.	http://www.torproject.org/
-tor-autocircuit	0.2	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	http://www.thesprawl.org/projects/tor-autocircuit/
-tor-browser-en	4.0.2	Tor Browser Bundle: Anonymous browsing using firefox and tor	https://www.torproject.org/projects/torbrowser.html.en
-torshammer	1.0	A slow POST Denial of Service testing tool written in Python.	http://sourceforge.net/projects/torshammer/
-torsocks	2.0.0	Wrapper to safely torify applications	http://code.google.com/p/torsocks
-tpcat	latest	TPCAT is based upon pcapdiff by the EFF. TPCAT will analyze two packet captures (taken on each side of the firewall as an example) and report any packets that were seen on the source capture but didn’t make it to the dest.	http://sourceforge.net/projects/tpcat/
-traceroute	2.0.21	Tracks the route taken by packets over an IP network	http://traceroute.sourceforge.net/
-trid	2.11	An utility designed to identify file types from their binary signatures	http://mark0.net/soft-trid-e.html
-trinity	3728.985a087	A Linux System call fuzzer.	http://codemonkey.org.uk/projects/trinity/
-trixd00r	0.0.1	An advanced and invisible userland backdoor based on TCP/IP for UNIX systems	http://nullsecurity.net/tools/backdoor.html
-truecrack	35	Password cracking for truecrypt(c) volumes.	http://code.google.com/p/truecrack/
-truecrypt	7.1a	Free open-source cross-platform disk encryption software	http://www.truecrypt.org/
-tsh	0.6	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q=tsh
-tsh-sctp	2.850a2da	An open-source UNIX backdoor.	https://github.com/infodox/tsh-sctp
-tuxcut	5.0	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
-twofi	2.0	Twitter Words of Interest.	http://www.digininja.org/projects/twofi.php
-u3-pwn	2.0	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
+*__tinc	1.0.24__	VPN (Virtual Private Network) daemon	http://www.tinc-vpn.org/
+*__tinyproxy	1.8.3__	A light-weight HTTP proxy daemon for POSIX operating systems.	https://banu.com/tinyproxy/
+*__tlsenum	75.6618285__	A command line tool to enumerate TLS cipher-suites supported by a server.	https://github.com/Ayrx/tlsenum
+*__tlspretense	0.6.2__	SSL/TLS client testing framework	https://github.com/iSECPartners/tlspretense
+*__tlssled	1.3__	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
+*__tnscmd	1.3__	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
+*__topera	19.3e230fd__	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
+*__tor	0.2.5.10__	Anonymizing overlay network.	http://www.torproject.org/
+*__tor-autocircuit	0.2__	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	http://www.thesprawl.org/projects/tor-autocircuit/
+__tor-browser-en	4.0.2__	Tor Browser Bundle: Anonymous browsing using firefox and tor	https://www.torproject.org/projects/torbrowser.html.en
+*__torshammer	1.0__	A slow POST Denial of Service testing tool written in Python.	http://sourceforge.net/projects/torshammer/
+*__torsocks	2.0.0__	Wrapper to safely torify applications	http://code.google.com/p/torsocks
+*__tpcat__ latest	TPCAT is based upon pcapdiff by the EFF. TPCAT will analyze two packet captures (taken on each side of the firewall as an example) and report any packets that were seen on the source capture but didn’t make it to the dest.	http://sourceforge.net/projects/tpcat/
+*__traceroute	2.0.21__	Tracks the route taken by packets over an IP network	http://traceroute.sourceforge.net/
+*__trid	2.11__	An utility designed to identify file types from their binary signatures	http://mark0.net/soft-trid-e.html
+*__trinity	3728.985a087__	A Linux System call fuzzer.	http://codemonkey.org.uk/projects/trinity/
+*__trixd00r	0.0.1__	An advanced and invisible userland backdoor based on TCP/IP for UNIX systems	http://nullsecurity.net/tools/backdoor.html
+*__truecrack	35__	Password cracking for truecrypt(c) volumes.	http://code.google.com/p/truecrack/
+*__truecrypt	7.1a__	Free open-source cross-platform disk encryption software	http://www.truecrypt.org/
+*__tsh	0.6__	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q=tsh
+*__tsh-sctp	2.850a2da__	An open-source UNIX backdoor.	https://github.com/infodox/tsh-sctp
+*__tuxcut	5.0__	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
+*__twofi	2.0__ Twitter Words of Interest.	http://www.digininja.org/projects/twofi.php
+*__u3-pwn	2.0__	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
 *__uatester	1.06__	User Agent String Tester	http://code.google.com/p/ua-tester/
 *__ubertooth	2012.10.R1__	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
 *__ubitack	0.3__	Tool, which automates some of the tasks you might need on a (wireless) penetration test or while you are on the go.	https://code.google.com/p/ubitack/
