@@ -941,58 +941,58 @@ themole	0.3	Automatic SQL injection exploitation tool.	http://sourceforge.net/pr
 tiger	3.2.3	A security scanner, that checks computer for known problems. Can also use tripwire, aide and chkrootkit.	http://www.nongnu.org/tiger/
 tilt	90.2bc2ef2	An easy and simple tool implemented in Python for ip reconnaissance, with reverse ip lookup.	https://github.com/AeonDave/tilt
 timegen	0.4	This program generates a *.wav file to "send" an own time signal to DCF77 compatible devices.	http://bastianborn.de/radio-clock-hack/
-*__tinc	1.0.24__	VPN (Virtual Private Network) daemon	http://www.tinc-vpn.org/
-*__tinyproxy	1.8.3__	A light-weight HTTP proxy daemon for POSIX operating systems.	https://banu.com/tinyproxy/
-*__tlsenum	75.6618285__	A command line tool to enumerate TLS cipher-suites supported by a server.	https://github.com/Ayrx/tlsenum
-*__tlspretense	0.6.2__	SSL/TLS client testing framework	https://github.com/iSECPartners/tlspretense
-*__tlssled	1.3__	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
-*__tnscmd	1.3__	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
-*__topera	19.3e230fd__	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
-*__tor	0.2.5.10__	Anonymizing overlay network.	http://www.torproject.org/
-*__tor-autocircuit	0.2__	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	http://www.thesprawl.org/projects/tor-autocircuit/
-__tor-browser-en	4.0.2__	Tor Browser Bundle: Anonymous browsing using firefox and tor	https://www.torproject.org/projects/torbrowser.html.en
-*__torshammer	1.0__	A slow POST Denial of Service testing tool written in Python.	http://sourceforge.net/projects/torshammer/
-*__torsocks	2.0.0__	Wrapper to safely torify applications	http://code.google.com/p/torsocks
-*__tpcat__ latest	TPCAT is based upon pcapdiff by the EFF. TPCAT will analyze two packet captures (taken on each side of the firewall as an example) and report any packets that were seen on the source capture but didn’t make it to the dest.	http://sourceforge.net/projects/tpcat/
-*__traceroute	2.0.21__	Tracks the route taken by packets over an IP network	http://traceroute.sourceforge.net/
-*__trid	2.11__	An utility designed to identify file types from their binary signatures	http://mark0.net/soft-trid-e.html
-*__trinity	3728.985a087__	A Linux System call fuzzer.	http://codemonkey.org.uk/projects/trinity/
-*__trixd00r	0.0.1__	An advanced and invisible userland backdoor based on TCP/IP for UNIX systems	http://nullsecurity.net/tools/backdoor.html
-*__truecrack	35__	Password cracking for truecrypt(c) volumes.	http://code.google.com/p/truecrack/
-*__truecrypt	7.1a__	Free open-source cross-platform disk encryption software	http://www.truecrypt.org/
-*__tsh	0.6__	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q=tsh
-*__tsh-sctp	2.850a2da__	An open-source UNIX backdoor.	https://github.com/infodox/tsh-sctp
-*__tuxcut	5.0__	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
-*__twofi	2.0__ Twitter Words of Interest.	http://www.digininja.org/projects/twofi.php
-*__u3-pwn	2.0__	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
-*__uatester	1.06__	User Agent String Tester	http://code.google.com/p/ua-tester/
-*__ubertooth	2012.10.R1__	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
-*__ubitack	0.3__	Tool, which automates some of the tasks you might need on a (wireless) penetration test or while you are on the go.	https://code.google.com/p/ubitack/
-*__udis86	1.7.2__	A minimalistic disassembler library	http://udis86.sourceforge.net/
-*__udptunnel	19__	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
-*__uefi-firmware-parser	103.9d4d220__	Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc	https://github.com/theopolis/uefi-firmware-parser
-*__ufo-wardriving	4__	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
-*__ufonet	9.5484a90__	A tool designed to launch DDoS attacks against a target, using 'Open Redirect' vectors on third party web applications, like botnet.	https://github.com/epsylon/ufonet
-*__umap	25.3ad8121__	The USB host security assessment tool.	https://github.com/nccgroup/umap
-*__umit	1.0__	A powerful nmap frontend.	http://www.umitproject.org/
-*__unhide	20130526__	A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.	http://sourceforge.net/projects/unhide/
-*__unicorn	9.a18cb5d__	A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.	https://github.com/trustedsec/unicorn
-*__unicornscan	0.4.7__	A new information gathering and correlation engine.	http://www.unicornscan.org/
-*__uniofuzz	1337__	The universal fuzzing tool for browsers, web services, files, programs and network services/ports	http://nullsecurity.net/tools/fuzzer.html
-*__uniscan	6.2__	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
+* __tinc	1.0.24__	VPN (Virtual Private Network) daemon	http://www.tinc-vpn.org/
+* __tinyproxy	1.8.3__	A light-weight HTTP proxy daemon for POSIX operating systems.	https://banu.com/tinyproxy/
+* __tlsenum	75.6618285__	A command line tool to enumerate TLS cipher-suites supported by a server.	https://github.com/Ayrx/tlsenum
+* __tlspretense	0.6.2__	SSL/TLS client testing framework	https://github.com/iSECPartners/tlspretense
+* __tlssled	1.3__	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
+* __tnscmd	1.3__	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
+* __topera	19.3e230fd__	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
+* __tor	0.2.5.10__	Anonymizing overlay network.	http://www.torproject.org/
+* __tor-autocircuit	0.2__	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	http://www.thesprawl.org/projects/tor-autocircuit/
+* __tor-browser-en	4.0.2__	Tor Browser Bundle: Anonymous browsing using firefox and tor	https://www.torproject.org/projects/torbrowser.html.en
+* __torshammer	1.0__	A slow POST Denial of Service testing tool written in Python.	http://sourceforge.net/projects/torshammer/
+* __torsocks	2.0.0__	Wrapper to safely torify applications	http://code.google.com/p/torsocks
+* __tpcat__ latest	TPCAT is based upon pcapdiff by the EFF. TPCAT will analyze two packet captures (taken on each side of the firewall as an example) and report any packets that were seen on the source capture but didn’t make it to the dest.	http://sourceforge.net/projects/tpcat/
+* __traceroute	2.0.21__	Tracks the route taken by packets over an IP network	http://traceroute.sourceforge.net/
+* __trid	2.11__	An utility designed to identify file types from their binary signatures	http://mark0.net/soft-trid-e.html
+* __trinity	3728.985a087__	A Linux System call fuzzer.	http://codemonkey.org.uk/projects/trinity/
+* __trixd00r	0.0.1__	An advanced and invisible userland backdoor based on TCP/IP for UNIX systems	h http://nullsecurity.net/tools/backdoor.html
+* __truecrack	35__	Password cracking for truecrypt(c) volumes.	http://code.google.com/p/truecrack/
+* __truecrypt	7.1a__	Free open-source cross-platform disk encryption software	http://www.truecrypt.org/
+* __tsh	0.6__	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q=tsh
+* __tsh-sctp	2.850a2da__	An open-source UNIX backdoor.	https://github.com/infodox/tsh-sctp
+* __tuxcut	5.0__	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
+* __twofi	2.0__ Twitter Words of Interest.	http://www.digininja.org/projects/twofi.php
+* __u3-pwn	2.0__	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
+* __uatester	1.06__	User Agent String Tester	http://code.google.com/p/ua-tester/
+* __ubertooth	2012.10.R1__	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
+* __ubitack	0.3__	Tool, which automates some of the tasks you might need on a (wireless) penetration test or while you are on the go.	https://code.google.com/p/ubitack/
+* __udis86	1.7.2__	A minimalistic disassembler library	http://udis86.sourceforge.net/
+* __udptunnel	19__	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
+* __uefi-firmware-parser	103.9d4d220__	Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc	https://github.com/theopolis/uefi-firmware-parser
+* __ufo-wardriving	4__	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
+* __ufonet	9.5484a90__	A tool designed to launch DDoS attacks against a target, using 'Open Redirect' vectors on third party web applications, like botnet.	https://github.com/epsylon/ufonet
+* __umap	25.3ad8121__	The USB host security assessment tool.	https://github.com/nccgroup/umap
+* __umit	1.0__	A powerful nmap frontend.	http://www.umitproject.org/
+* __unhide	20130526__	A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.	http://sourceforge.net/projects/unhide/
+* __unicorn	9.a18cb5d__	A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.	https://github.com/trustedsec/unicorn
+* __unicornscan	0.4.7__	A new information gathering and correlation engine.	http://www.unicornscan.org/
+* __uniofuzz	1337__	The universal fuzzing tool for browsers, web services, files, programs and network services/ports	http://nullsecurity.net/tools/fuzzer.html
+* __uniscan	6.2__	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
 *__unix-privesc-check	1.4__	Tries to find misconfigurations that could allow local unprivilged users to escalate privileges to other users or to access local apps (e.g. databases)	http://pentestmonkey.net/tools/audit/unix-privesc-check
-*__unsecure	1.2__	Bruteforces network login masks.	http://www.sniperx.net/
-*__upnpscan	0.4__	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
-*__upx	3.91__	Ultimate executable compressor.	http://upx.sourceforge.net/
-*__urlcrazy	0.5__	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
-*__urldigger	02c__	A python tool to extract URL addresses from different HOT sources and/or detect SPAM and malicious code	https://code.google.com/p/urldigger/
+* __unsecure	1.2__	Bruteforces network login masks.	http://www.sniperx.net/
+* __upnpscan	0.4__	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
+* __upx	3.91__	Ultimate executable compressor.	http://upx.sourceforge.net/
+* __urlcrazy	0.5__	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
+* __urldigger	02c__	A python tool to extract URL addresses from different HOT sources and/or detect SPAM and malicious code	https://code.google.com/p/urldigger/
 *__username-anarchy	0.2__	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
-*__usernamer	7.813139d__	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
-*__uw-loveimap	0.1__	Multi threaded imap bounce scanner.	http://uberwall.org/bin/download/45/UWloveimap.tgz
-*__uw-offish	0.1__	Clear-text protocol simulator.	http://uberwall.org/bin/download/42/UW_offish.1.tar.gz
-*__uw-udpscan	0.1__	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
-*__uw-zone	0.1__	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
-*__v3n0m	77.cdaf14e__	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
+* __usernamer	7.813139d__	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
+* __uw-loveimap	0.1__	Multi threaded imap bounce scanner.	http://uberwall.org/bin/download/45/UWloveimap.tgz
+* __uw-offish	0.1__	Clear-text protocol simulator.	http://uberwall.org/bin/download/42/UW_offish.1.tar.gz
+* __uw-udpscan	0.1__	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
+* __uw-zone	0.1__	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
+* __v3n0m	77.cdaf14e__	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
 * __valgrind	3.10.1__	A tool to help find memory-management problems in programs	http://valgrind.org/
 * __vanguard	0.1__	A comprehensive web penetration testing tool written in Perl thatidentifies vulnerabilities in web applications.	http://packetstormsecurity.com/files/110603/Vanguard-Pentesting-Scanner.html
 * __vbrute	1.11dda8b__	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
