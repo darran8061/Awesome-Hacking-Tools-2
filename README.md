@@ -752,27 +752,27 @@ reaver	1.4	Implements a brute force attack against wifi protected setup WPS regi
 * __rfdump__	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reader to make the contents stored on RFID tags accessible	http://www.rfdump.org
 * __rfidiot	e302bb7__	An open source python library for exploring RFID devices.	http://rfidiot.org/
 * __rfidtool	0.01__	A opensource tool to read / write rfid tags	http://www.bindshell.net/tools/rfidtool.html
-ridenum	39.ebbfaca	A null session RID cycle attack for brute forcing domain controllers.	https://github.com/trustedsec/ridenum
-rifiuti2	0.5.1	A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.	https://code.google.com/p/rifiuti2/
-rinetd	0.62	internet redirection server	http://www.boutell.com/rinetd
-ripdc	0.2	A script which maps domains related to an given ip address or domainname.	http://nullsecurity.net/tools/scanner
-rkhunter	1.4.2	Checks machines for the presence of rootkits and other unwanted tools.	http://rkhunter.sourceforge.net/
-rlogin-scanner	0.2	Multithreaded rlogin scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
-rootbrute	0.1	Local root account bruteforcer.	http://www.packetstormsecurity.org/
-ropeadope	1.1	A linux log cleaner.	http://www.highhacksociety.com/
-ropeme	1.0	ROPME is a set of python scripts to generate ROP gadgets and payload.	http://www.vnsecurity.net/2010/08/ropeme-rop-exploit-made-easy/
-ropgadget	5.3	Lets you search your gadgets on your binaries (ELF format) to facilitate your ROP exploitation.	https://github.com/JonathanSalwan/ROPgadget
-ropper	91.212d5da	It can show information about files in different file formats and you can find gadgets to build rop chains for different architectures. For disassembly ropper uses the awesome Capstone Framework.	https://github.com/sashs/Ropper
-rpdscan	2.a71b0f3	Remmina Password Decoder and scanner.	https://github.com/freakyclown/RPDscan
-rrs	1.70	A reverse (connecting) remote shell. Instead of listening for incoming connections it will connect out to a listener (rrs in listen mode). With tty support and more.	http://www.cycom.se/dl/rrs
-rsakeyfind	1.0	A tool to find RSA key in RAM.	http://citp.princeton.edu/memory/code/
-rsmangler	1.4	rsmangler takes a wordlist and mangle it	http://www.randomstorm.com/rsmangler-security-tool.php
-rtlsdr-scanner	856.a47ba2e	A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library.	https://github.com/EarToEarOak/RTLSDR-Scanner
-rtp-flood	1.0	RTP flooder	http://www.hackingexposedvoip.com/
-rtpbreak	1.3a	Detects, reconstructs and analyzes any RTP session	http://xenion.antifork.org/rtpbreak/
-rubilyn	0.0.1	64bit Mac OS-X kernel rootkit that uses no hardcoded address to hook the BSD subsystem in all OS-X Lion & below. It uses a combination of syscall hooking and DKOM to hide activity on a host.	http://nullsecurity.net/tools/backdoor.html
-ruby-msgpack	0.5.8	MessagePack, a binary-based efficient data interchange format.	http://msgpack.org/
-ruby-ronin	1.5.0	A Ruby platform for exploit development and security research.	http://ronin-ruby.github.io/
+* __ridenum	39.ebbfaca__	A null session RID cycle attack for brute forcing domain controllers.	https://github.com/trustedsec/ridenum
+* __rifiuti2	0.5.1__	A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.	https://code.google.com/p/rifiuti2/
+* __rinetd	0.62__	internet redirection server	http://www.boutell.com/rinetd
+* __ripdc	0.2__	A script which maps domains related to an given ip address or domainname.	http://nullsecurity.net/tools/scanner
+* __rkhunter	1.4.2__	Checks machines for the presence of rootkits and other unwanted tools.	http://rkhunter.sourceforge.net/
+* __rlogin-scanner	0.2__	Multithreaded rlogin scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
+* __rootbrute	0.1__	Local root account bruteforcer.	http://www.packetstormsecurity.org/
+* __ropeadope	1.1__	A linux log cleaner.	http://www.highhacksociety.com/
+* __ropeme	1.0__	ROPME is a set of python scripts to generate ROP gadgets and payload.	http://www.vnsecurity.net/2010/08/ropeme-rop-exploit-made-easy/
+* __ropgadget	5.3__	Lets you search your gadgets on your binaries (ELF format) to facilitate your ROP exploitation.	https://github.com/JonathanSalwan/ROPgadget
+* __ropper	91.212d5da__	It can show information about files in different file formats and you can find gadgets to build rop chains for different architectures. For disassembly ropper uses the awesome Capstone Framework.	https://github.com/sashs/Ropper
+* __rpdscan	2.a71b0f3__	Remmina Password Decoder and scanner.	https://github.com/freakyclown/RPDscan
+* __rrs	1.70__	A reverse (connecting) remote shell. Instead of listening for incoming connections it will connect out to a listener (rrs in listen mode). With tty support and more.	http://www.cycom.se/dl/rrs
+* __rsakeyfind	1.0__	A tool to find RSA key in RAM.	http://citp.princeton.edu/memory/code/
+* __rsmangler	1.4__	rsmangler takes a wordlist and mangle it	http://www.randomstorm.com/rsmangler-security-tool.php
+* __rtlsdr-scanner	856.a47ba2e__	A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library.	https://github.com/EarToEarOak/RTLSDR-Scanner
+* __rtp-flood	1.0__	RTP flooder	http://www.hackingexposedvoip.com/
+* __rtpbreak	1.3a__	Detects, reconstructs and analyzes any RTP session	http://xenion.antifork.org/rtpbreak/
+* __rubilyn	0.0.1	64bit__ Mac OS-X kernel rootkit that uses no hardcoded address to hook the BSD subsystem in all OS-X Lion & below. It uses a combination of syscall hooking and DKOM to hide activity on a host.	http://nullsecurity.net/tools/backdoor.html
+* __ruby-msgpack	0.5.8__	MessagePack, a binary-based efficient data interchange format.	http://msgpack.org/
+* __ruby-ronin	1.5.0__	A Ruby platform for exploit development and security research.	http://ronin-ruby.github.io/
 ruby-ronin-support	0.5.1	A support library for Ronin.	http://ronin-ruby.github.io/
 ruby-uri-query_params	0.7.0	Access the query parameters of a URI, just like in PHP.	http://github.com/postmodern/uri-query_params
 rww-attack	0.9.2	The Remote Web Workplace Attack tool will perform a dictionary attack against a live Microsoft Windows Small Business Server's 'Remote Web Workplace' portal. It currently supports both SBS 2003 and SBS 2008 and includes features to avoid account lock out.	http://packetstormsecurity.com/files/79021/Remote-Web-Workplace-Attack-Tool.html
@@ -926,21 +926,21 @@ tcptraceroute	1.5beta7	A traceroute implementation using TCP packets.	http://mic
 tcpwatch	1.3.1	A utility written in Python that lets you monitor forwarded TCP connections or HTTP proxy connections.	http://hathawaymix.org/Software/TCPWatch
 tcpxtract	1.0.1	A tool for extracting files from network traffic.	http://tcpxtract.sourceforge.net
 teardown	1.0	Command line tool to send a BYE request to tear down a call.	http://www.hackingexposedvoip.com/
-tekdefense-automater	52.6d0bd5a	IP URL and MD5 OSINT Analysis	https://github.com/1aN0rmus/TekDefense-Automater
-termineter	0.1.0	Smart meter testing framework	https://code.google.com/p/termineter/
-tftp-bruteforce	0.1	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
-tftp-fuzz	1337	Master TFTP fuzzing script as part of the ftools series of fuzzers	http://nullsecurity.net/tools/fuzzer.html
-tftp-proxy	0.1	This tool accepts connection on tftp and reloads requested content from an upstream tftp server. Meanwhile modifications to the content can be done by pluggable modules. So this one's nice if your mitm with some embedded devices.	http://www.c0decafe.de/
-thc-ipv6	2.5	A complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6, and includes an easy to use packet factory library.	http://thc.org/thc-ipv6/
-thc-keyfinder	1.0	Finds crypto keys, encrypted data and compressed data in files by analyzing the entropy of parts of the file.	https://www.thc.org/releases.php
-thc-pptp-bruter	0.1.4	A brute force program that works against pptp vpn endpoints (tcp port 1723).	http://www.thc.org
-thc-smartbrute	1.0	This tool finds undocumented and secret commands implemented in a smartcard.	https://www.thc.org/thc-smartbrute/
-thc-ssl-dos	1.4	A tool to verify the performance of SSL. To be used in your authorized and legitimate area ONLY. You need to accept this to make use of it, no use for bad intentions, you have been warned!	http://www.thc.org/thc-ssl-dos/
-theharvester	2.2a	Python tool for gathering e-mail accounts and subdomain names from different public sources (search engines, pgp key servers)	http://www.edge-security.com/theHarvester.php
-themole	0.3	Automatic SQL injection exploitation tool.	http://sourceforge.net/projects/themole/
-tiger	3.2.3	A security scanner, that checks computer for known problems. Can also use tripwire, aide and chkrootkit.	http://www.nongnu.org/tiger/
-tilt	90.2bc2ef2	An easy and simple tool implemented in Python for ip reconnaissance, with reverse ip lookup.	https://github.com/AeonDave/tilt
-timegen	0.4	This program generates a *.wav file to "send" an own time signal to DCF77 compatible devices.	http://bastianborn.de/radio-clock-hack/
+* __tekdefense-automater	52.6d0bd5a__	IP URL and MD5 OSINT Analysis	https://github.com/1aN0rmus/TekDefense-Automater
+* __termineter	0.1.0__	Smart meter testing framework	https://code.google.com/p/termineter/
+* __tftp-bruteforce	0.1__	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
+* __tftp-fuzz	1337__	Master TFTP fuzzing script as part of the ftools series of fuzzers	http://nullsecurity.net/tools/fuzzer.html
+* __tftp-proxy	0.1__	This tool accepts connection on tftp and reloads requested content from an upstream tftp server. Meanwhile modifications to the content can be done by pluggable modules. So this one's nice if your mitm with some embedded devices.	http://www.c0decafe.de/
+* __thc-ipv6	2.5__	A complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6, and includes an easy to use packet factory library.	http://thc.org/thc-ipv6/
+* __thc-keyfinder	1.0__	Finds crypto keys, encrypted data and compressed data in files by analyzing the entropy of parts of the file.	https://www.thc.org/releases.php
+* __thc-pptp-bruter	0.1.4__	A brute force program that works against pptp vpn endpoints (tcp port 1723).	http://www.thc.org
+* __thc-smartbrute	1.0__	This tool finds undocumented and secret commands implemented in a smartcard.	https://www.thc.org/thc-smartbrute/
+* __thc-ssl-dos	1.4__	A tool to verify the performance of SSL. To be used in your authorized and legitimate area ONLY. You need to accept this to make use of it, no use for bad intentions, you have been warned!	http://www.thc.org/thc-ssl-dos/
+* __theharvester	2.2a__	Python tool for gathering e-mail accounts and subdomain names from different public sources (search engines, pgp key servers)	http://www.edge-security.com/theHarvester.php
+* __themole	0.3__	Automatic SQL injection exploitation tool.	http://sourceforge.net/projects/themole/
+* __tiger	3.2.3__	A security scanner, that checks computer for known problems. Can also use tripwire, aide and chkrootkit.	http://www.nongnu.org/tiger/
+* __tilt	90.2bc2ef2__	An easy and simple tool implemented in Python for ip reconnaissance, with reverse ip lookup.	https://github.com/AeonDave/tilt
+* __timegen	0.4__	This program generates a *.wav file to "send" an own time signal to DCF77 compatible devices.	http://bastianborn.de/radio-clock-hack/
 * __tinc	1.0.24__	VPN (Virtual Private Network) daemon	http://www.tinc-vpn.org/
 * __tinyproxy	1.8.3__	A light-weight HTTP proxy daemon for POSIX operating systems.	https://banu.com/tinyproxy/
 * __tlsenum	75.6618285__	A command line tool to enumerate TLS cipher-suites supported by a server.	https://github.com/Ayrx/tlsenum
