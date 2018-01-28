@@ -773,8 +773,8 @@ reaver	1.4	Implements a brute force attack against wifi protected setup WPS regi
 * __rubilyn	0.0.1	64bit__ Mac OS-X kernel rootkit that uses no hardcoded address to hook the BSD subsystem in all OS-X Lion & below. It uses a combination of syscall hooking and DKOM to hide activity on a host.	http://nullsecurity.net/tools/backdoor.html
 * __ruby-msgpack	0.5.8__	MessagePack, a binary-based efficient data interchange format.	http://msgpack.org/
 * __ruby-ronin	1.5.0__	A Ruby platform for exploit development and security research.	http://ronin-ruby.github.io/
-ruby-ronin-support	0.5.1	A support library for Ronin.	http://ronin-ruby.github.io/
-ruby-uri-query_params	0.7.0	Access the query parameters of a URI, just like in PHP.	http://github.com/postmodern/uri-query_params
+* __ruby-ronin-support	0.5.1__	A support library for Ronin.	http://ronin-ruby.github.io/
+* __ruby-uri-query_params	0.7.0__	Access the query parameters of a URI, just like in PHP.	http://github.com/postmodern/uri-query_params
 rww-attack	0.9.2	The Remote Web Workplace Attack tool will perform a dictionary attack against a live Microsoft Windows Small Business Server's 'Remote Web Workplace' portal. It currently supports both SBS 2003 and SBS 2008 and includes features to avoid account lock out.	http://packetstormsecurity.com/files/79021/Remote-Web-Workplace-Attack-Tool.html
 safecopy	1.7	A disk data recovery tool to extract data from damaged media	http://safecopy.sourceforge.net/
 sakis3g	0.2.0e	An all-in-one script for connecting with 3G	http://www.sakis3g.org/
@@ -886,46 +886,46 @@ sslh	1.16	SSL/SSH/OpenVPN/XMPP/tinc port multiplexer	http://www.rutschle.net/tec
 sslmap	0.2.0	A lightweight TLS/SSL cipher suite scanner.	http://thesprawl.org/projects/latest/
 sslnuke	5.c5faeaa	Transparent proxy that decrypts SSL traffic and prints out IRC messages.	https://github.com/jtripper/sslnuke
 sslscan	239.1328b49	Tests SSL/TLS enabled services to discover supported cipher suites.	https://github.com/DinoTools/sslscan
-sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	http://www.thoughtcrime.org/software/sslsniff/
-sslsplit	0.4.9	A tool for man-in-the-middle attacks against SSL/TLS encrypted network connections.	http://www.roe.ch/SSLsplit
-sslstrip	0.9	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links.	http://www.thoughtcrime.org/software/sslstrip
-sslyze	0.10	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations.	https://github.com/nabla-c0d3/sslyze/
-stackflow	2.2af525d	Universal stack-based buffer overfow exploitation tool.	https://github.com/d4rkcat/stackflow
-starttls-mitm	7.b257756	A mitm proxy that will transparently proxy and dump both plaintext and TLS traffic.	https://github.com/ipopov/starttls-mitm
-statsprocessor	0.10	A high-performance word-generator based on per-position Markov-attack.	http://hashcat.net/wiki/doku.php?id=statsprocessor
-steghide	0.5.1	Embeds a message in a file by replacing some of the least significant bits	http://steghide.sourceforge.net
-stompy	0.0.4	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	http://lcamtuf.coredump.cx/
-storm-ring	0.1	This simple tool is useful to test a PABX with "allow guest" parameter set to "yes" (in this scenario an anonymous caller could place a call).	http://packetstormsecurity.com/files/115852/Storm-Ringing-PABX-Test-Tool.html
-stunnel	5.06	A program that allows you to encrypt arbitrary TCP connections inside SSL	http://www.stunnel.org
-subdomainer	1.2	A tool designed for obtaining subdomain names from public sources.	http://www.edge-security.com/subdomainer.php
-subterfuge	5.0	Automated Man-in-the-Middle Attack Framework	http://kinozoa.com
-sucrack	1.2.3	A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su	http://labs.portcullis.co.uk/application/sucrack
-sulley	1.0.cb5e62c	A pure-python fully automated and unattended fuzzing framework.	https://github.com/OpenRCE/sulley/
-superscan	4	Powerful TCP port scanner, pinger, resolver.	http://www.foundstone.com/us/resources/proddesc/superscan.htm
-suricata	2.0.3	An Open Source Next Generation Intrusion Detection and Prevention Engine.	http://openinfosecfoundation.org/index.php/download-suricata
-svn-extractor	28.3af00fb	A simple script to extract all web resources by means of .SVN folder exposed over network.	https://github.com/anantshri/svn-extractor
-swaks	20130209.0	Swiss Army Knife SMTP; Command line SMTP testing, including TLS and AUTH	http://jetmore.org/john/code/swaks/
-swfintruder	0.9.1	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	http://code.google.com/p/swfintruder/
-synflood	0.1	A very simply script to illustrate DoS SYN Flooding attack.	http://thesprawl.org/projects/syn-flooder/
-synner	1.1	A custom eth->ip->tcp packet generator (spoofer) for testing firewalls and dos attacks.	http://packetstormsecurity.com/files/69802/synner.c.html
-synscan	5.02	fast asynchronous half-open TCP portscanner	http://www.digit-labs.org/files/tools/synscan/
-sysdig	1314.45921f5	Open source system-level exploration and troubleshooting tool.	http://www.sysdig.org/
-sysinternals-suite	1.2	Sysinternals tools suite.	http://sysinternals.com/
-t50	5.4.1	Experimental Multi-protocol Packet Injector Tool	http://t50.sourceforge.net/
-taof	0.3.2	Taof is a GUI cross-platform Python generic network protocol fuzzer.	http://taof.sf.net
-tbear	1.5	Transient Bluetooth Environment Auditor includes an ncurses-based Bluetooth scanner (a bit similar to kismet), a Bluetooth DoS tool, and a Bluetooth hidden device locator.	http://freshmeat.net/projects/t-bear
-tcgetkey	0.1	A set of tools that deal with acquiring physical memory dumps via FireWire and then scan the memory dump to locate TrueCrypt keys and finally decrypt the encrypted TrueCrypt container using the keys.	http://packetstormsecurity.com/files/119146/tcgetkey.1.html
-tcpcontrol-fuzzer	0.1	2^6 TCP control bit fuzzer (no ECN or CWR).	https://www.ee.oulu.fi/research/ouspg/tcpcontrol-fuzzer
-tcpdump	4.6.2	A tool for network monitoring and data acquisition	http://www.tcpdump.org
-tcpextract	1.1	Extracts files from captured TCP sessions. Support live streams and pcap files.	https://pypi.python.org/pypi/tcpextract/1.1
-tcpflow	1.4.4	Captures data transmitted as part of TCP connections then stores the data conveniently	http://afflib.org/software/tcpflow
-tcpick	0.2.1	TCP stream sniffer and connection tracker	http://tcpick.sourceforge.net/
-tcpjunk	2.9.03	A general tcp protocols testing and hacking utility	http://code.google.com/p/tcpjunk
-tcpreplay	4.0.5	Gives the ability to replay previously captured traffic in a libpcap format	http://tcpreplay.appneta.com
-tcptraceroute	1.5beta7	A traceroute implementation using TCP packets.	http://michael.toren.net/code/tcptraceroute/
-tcpwatch	1.3.1	A utility written in Python that lets you monitor forwarded TCP connections or HTTP proxy connections.	http://hathawaymix.org/Software/TCPWatch
-tcpxtract	1.0.1	A tool for extracting files from network traffic.	http://tcpxtract.sourceforge.net
-teardown	1.0	Command line tool to send a BYE request to tear down a call.	http://www.hackingexposedvoip.com/
+* __sslsniff	0.8__	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	http://www.thoughtcrime.org/software/sslsniff/
+* __sslsplit	0.4.9__	A tool for man-in-the-middle attacks against SSL/TLS encrypted network connections.	http://www.roe.ch/SSLsplit
+* __sslstrip	0.9__	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links.	http://www.thoughtcrime.org/software/sslstrip
+* __sslyze	0.10__	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations.	https://github.com/nabla-c0d3/sslyze/
+* __stackflow	2.2af525d__	Universal stack-based buffer overfow exploitation tool.	https://github.com/d4rkcat/stackflow
+* __starttls-mitm	7.b257756__	A mitm proxy that will transparently proxy and dump both plaintext and TLS traffic.	https://github.com/ipopov/starttls-mitm
+* __statsprocessor	0.10__	A high-performance word-generator based on per-position Markov-attack.	http://hashcat.net/wiki/doku.php?id=statsprocessor
+* __steghide	0.5.1__	Embeds a message in a file by replacing some of the least significant bits	http://steghide.sourceforge.net
+* __stompy	0.0.4__	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	http://lcamtuf.coredump.cx/
+* __storm-ring	0.1__	This simple tool is useful to test a PABX with "allow guest" parameter set to "yes" (in this scenario an anonymous caller could place a call).	http://packetstormsecurity.com/files/115852/Storm-Ringing-PABX-Test-Tool.html
+* __stunnel	5.06__	A program that allows you to encrypt arbitrary TCP connections inside SSL	http://www.stunnel.org
+* __subdomainer	1.2__	A tool designed for obtaining subdomain names from public sources.	http://www.edge-security.com/subdomainer.php
+* __subterfuge	5.0__	Automated Man-in-the-Middle Attack Framework	http://kinozoa.com
+* __sucrack	1.2.3__	A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su	http://labs.portcullis.co.uk/application/sucrack
+* __sulley	1.0.cb5e62c__	A pure-python fully automated and unattended fuzzing framework.	https://github.com/OpenRCE/sulley/
+* __superscan	4__	Powerful TCP port scanner, pinger, resolver.	http://www.foundstone.com/us/resources/proddesc/superscan.htm
+* __suricata	2.0.3__	An Open Source Next Generation Intrusion Detection and Prevention Engine.	http://openinfosecfoundation.org/index.php/download-suricata
+* __svn-extractor	28.3af00fb__	A simple script to extract all web resources by means of .SVN folder exposed over network.	https://github.com/anantshri/svn-extractor
+* __swaks	20130209.0__	Swiss Army Knife SMTP; Command line SMTP testing, including TLS and AUTH	http://jetmore.org/john/code/swaks/
+* __swfintruder	0.9.1__	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	http://code.google.com/p/swfintruder/
+* __synflood	0.1__	A very simply script to illustrate DoS SYN Flooding attack.	http://thesprawl.org/projects/syn-flooder/
+* __synner	1.1	A__ custom eth->ip->tcp packet generator (spoofer) for testing firewalls and dos attacks.	http://packetstormsecurity.com/files/69802/synner.c.html
+* __synscan	5.02__	fast asynchronous half-open TCP portscanner	http://www.digit-labs.org/files/tools/synscan/
+* __sysdig	1314.45921f5__	Open source system-level exploration and troubleshooting tool.	http://www.sysdig.org/
+* __sysinternals-suite	1.2__	Sysinternals tools suite.	http://sysinternals.com/
+* __t50	5.4.1__	Experimental Multi-protocol Packet Injector Tool	http://t50.sourceforge.net/
+* __taof	0.3.2__	Taof is a GUI cross-platform Python generic network protocol fuzzer.	http://taof.sf.net
+* __tbear	1.5__	Transient Bluetooth Environment Auditor includes an ncurses-based Bluetooth scanner (a bit similar to kismet), a Bluetooth DoS tool, and a Bluetooth hidden device locator.	http://freshmeat.net/projects/t-bear
+* __tcgetkey	0.1__	A set of tools that deal with acquiring physical memory dumps via FireWire and then scan the memory dump to locate TrueCrypt keys and finally decrypt the encrypted TrueCrypt container using the keys.	http://packetstormsecurity.com/files/119146/tcgetkey.1.html
+* __tcpcontrol-fuzzer	0.1	2^6__ TCP control bit fuzzer (no ECN or CWR).	https://www.ee.oulu.fi/research/ouspg/tcpcontrol-fuzzer
+* __tcpdump	4.6.2__	A tool for network monitoring and data acquisition	http://www.tcpdump.org
+* __tcpextract	1.1__	Extracts files from captured TCP sessions. Support live streams and pcap files.	https://pypi.python.org/pypi/tcpextract/1.1
+* __tcpflow	1.4.4__	Captures data transmitted as part of TCP connections then stores the data conveniently	http://afflib.org/software/tcpflow
+* __tcpick	0.2.1__	TCP stream sniffer and connection tracker	http://tcpick.sourceforge.net/
+* __tcpjunk	2.9.03__	A general tcp protocols testing and hacking utility	http://code.google.com/p/tcpjunk
+* __tcpreplay	4.0.5__	Gives the ability to replay previously captured traffic in a libpcap format	http://tcpreplay.appneta.com
+* __tcptraceroute	1.5beta7__	A traceroute implementation using TCP packets.	http://michael.toren.net/code/tcptraceroute/
+* __tcpwatch	1.3.1__	A utility written in Python that lets you monitor forwarded TCP connections or HTTP proxy connections.	http://hathawaymix.org/Software/TCPWatch
+* __tcpxtract	1.0.1__	A tool for extracting files from network traffic.	http://tcpxtract.sourceforge.net
+* __teardown	1.0__	Command line tool to send a BYE request to tear down a call.	http://www.hackingexposedvoip.com/
 * __tekdefense-automater	52.6d0bd5a__	IP URL and MD5 OSINT Analysis	https://github.com/1aN0rmus/TekDefense-Automater
 * __termineter	0.1.0__	Smart meter testing framework	https://code.google.com/p/termineter/
 * __tftp-bruteforce	0.1__	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
