@@ -1032,7 +1032,6 @@ teardown	1.0	Command line tool to send a BYE request to tear down a call.	http:/
 * __websockify__	0.6.0	WebSocket to TCP proxy/bridge.	http://github.com/kanaka/websockify
 * __webspa	0.7__	A web knocking tool, sending a single HTTP/S to run O/S commands.	http://sourceforge.net/projects/webspa/
 * __websploit	3.0.0__	An Open Source Project For, Social Engineering Works, Scan, Crawler & Analysis Web, Automatic Exploiter, Support Network Attacks	http://code.google.com/p/websploit/
-* __weevely	1.1__	Stealth tiny web shell	http://epinna.github.io/Weevely/
 * __weevely	3__	Stealth tiny web shell	https://github.com/epinna/weevely3
 * __wepbuster	1.0_beta_0.7__	script for automating aircrack-ng	http://code.google.com/p/wepbuster/
 * __wfuzz	24.1c6ecd8__	Utility to bruteforce web applications to find their not linked resources.	https://github.com/xmendez/wfuzz
