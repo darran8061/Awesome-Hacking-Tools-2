@@ -89,7 +89,7 @@ ________________________________________________________________________________
 * __bluebox-ng	66.4a73bb4__	A GPL VoIP/UC vulnerability scanner.	https://github.com/jesusprubio/bluebox-ng
 * __bluebugger	0.1__	An implementation of the bluebug technique which was discovered by Martin Herfurt.	http://packetstormsecurity.com/files/54024/bluebugger.1.tar.gz.html
 * __bluelog	1.1.1__	A Bluetooth scanner and sniffer written to do a single task, log devices that are in discoverable mode.	http://www.digifail.com/software/bluelog.shtml
-* __bluepot	0.1__	A Bluetooth Honeypot written in Java, it runs on Linux	https://code.google.com/p/bluepot/
+* __bluepot	0.1__	A Bluetooth Honeypot written in Java, it runs on Linux https://github.com/andrewmichaelsmith/bluepot/
 * __blueprint	0.1_3__	A perl tool to identify Bluetooth devices.	http://trifinite.org/trifinite_stuff_blueprinting.html
 * __blueranger	1.0__	A simple Bash script which uses Link Quality to locate Bluetooth device radios.	http://www.hackfromacave.com/projects/blueranger.html
 * __bluesnarfer	0.1__	A bluetooth attacking tool	http://www.alighieri.org/project.html
