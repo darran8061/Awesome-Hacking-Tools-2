@@ -196,6 +196,7 @@ ________________________________________________________________________________
 * __dcfldd	1.3.4.1__	DCFL (DoD Computer Forensics Lab) dd replacement with hashing	http://dcfldd.sourceforge.net/
 * __ddrescue	1.19__	GNU data recovery tool	http://www.gnu.org/software/ddrescue/ddrescue.html
 * __deblaze	0.3__	A remote method enumeration tool for flex servers	http://deblaze-tool.appspot.com/
+* __decker__ A penetration testing orchestration and automation framework, which allows writing declarative, reusable configurations capable of ingesting variables and using outputs of tools it has run as inputs to others.
 * __delldrac	0.1a__	DellDRAC and Dell Chassis Discovery and Brute Forcer.	https://www.trustedsec.com/september/owning-dell-drac-awesome-hack/
 * __depant	0.3a__	Check network for services with default passwords.	http://midnightresearch.com/projects/depant/
 * __device-pharmer__	35.c1d449e	Opens 1K+ IPs or Shodan search results and attempts to login.	https://github.com/DanMcInerney/device-pharmer
@@ -1064,7 +1065,7 @@ reaver	1.4	Implements a brute force attack against wifi protected setup WPS regi
 * __wpbf	7.11b6ac1__	Multithreaded WordPress brute forcer.	https://github.com/dejanlevaja/wpbf
 * __wpscan	1803.88808db__	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
 * __ws-attacker	1.3__	A modular framework for web services penetration testing.	http://ws-attacker.sourceforge.net/
-* __wsfuzzer	1.9.5__	A Python tool written to automate pentesting of web services. https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_ProjectSOAP	
+* __wsfuzzer	1.9.5__	A Python tool written to automate pentesting of web services. https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_ProjectSOAP
 * __wyd	0.2__	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
 * __x-scan	3.3__	A general network vulnerabilities scanner for scanning network vulnerabilities for specific IP address scope or stand-alone computer by multi-threading method, plug-ins are supportable.	http://www.xfocus.org/
 * __xcavator	5.bd9e2d8__	Man-In-The-Middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/nccgroup/xcavator
