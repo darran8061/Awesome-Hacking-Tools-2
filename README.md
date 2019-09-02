@@ -100,6 +100,7 @@ ________________________________________________________________________________
 * __braa	0.82__	A mass snmp scanner	http://s-tech.elsat.net.pl/braa/
 * __braces	0.4__	A Bluetooth Tracking Utility.	http://braces.shmoo.com/
 * __browser-fuzzer__	3	Browser Fuzzer 3	http://www.krakowlabs.com/dev.html
+* __bruteSniffing_Ficher__ A multiplatform python hacking tool for bruteforcing, cloning, fishing, information gathering and sniffing. https://github.com/programmingAthlete/BruteSniffing_Fisher
 * __brutessh	0.5__	A simple sshd password bruteforcer using a wordlist, it's very fast for internal networks. It's multithreads.	http://www.edge-security.com/edge-soft.php
 * __brutus	2__	One of the fastest, most flexible remote password crackers you can get your hands on.	http://www.hoobie.net/brutus/
 * __bsdiff	4.3__	bsdiff and bspatch are tools for building and applying patches to binary files.	http://www.daemonology.net/bsdiff/
