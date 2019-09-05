@@ -7,6 +7,9 @@ ________________________________________________________________________________
 * __3proxy-win32__	0.7.1.1	Tiny free proxy server.	http://3proxy.ru/
 * __42zip	42__	Recursive Zip archive bomb.	http://blog.fefe.de/?ts=b6cea88d
 * __acccheck__	0.2.1	A password dictionary attack tool that targets windows authentication via the SMB protocol.	http://labs.portcullis.co.uk/tools/acccheck/
+* __findsubdomains__  Complete subdomains sacnning service.(works using OSINT). https://findsubdomains.com
+* __sublist3r__   subdomains enumeration tool for penetration testers https://github.com/aboul3la/Sublist3r
+* __ASlookup__ Made for identifying the owner of an IP range(CIDR), ASN, related ASN, registry, etc... http://aslookup.com
 * __ace	1.10__	Automated Corporate Enumerator. A simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface	http://ucsniff.sourceforge.net/ace.html
 * __admid-pack 0.1__	ADM DNS spoofing tools - Uses a variety of active and passive methods to spoof DNS packets. Very powerful.	http://packetstormsecurity.com/files/10080/ADMid-pkg.tgz.html
 * __adminpagefinder	0.1__	This python script looks for a large amount of possible administrative interfaces on a given site.	http://packetstormsecurity.com/files/112855/Admin-Page-Finder-Script.html
