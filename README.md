@@ -657,6 +657,7 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __packit	1.0__	A network auditing tool. Its value is derived from its ability to customize, inject, monitor, and manipulate IP traffic.	http://packit.sourceforge.net/
 * __pacumen	1.92a0884__	Packet Acumen - Analyse encrypted network traffic and more (side-channel attacks).	https://github.com/bniemczyk/pacumen
 * __padbuster	0.3.3__	Automated script for performing Padding Oracle attacks.	http://www.gdssecurity.com/l/t.php
+* __padding-oracle-attacker 0.2__ CLI tool and library to execute padding oracle attacks easily, with support for concurrent network requests and an elegant UI. https://github.com/KishanBagaria/padding-oracle-attacker
 * __paketto	1.10__	Advanced TCP/IP Toolkit.	http://www.doxpara.com/paketto
 * __panoptic	178.73b2b4c__	A tool that automates the process of search and retrieval of content for common log and config files through LFI vulnerability.	https://github.com/lightos/Panoptic
 * __paros	3.2.13__	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. Supports editing/viewing HTTP messages on-the-fly, spiders, client certificates, proxy-chaining, intelligent scanning for XSS and SQLi, etc.	http://www.parosproxy.org
