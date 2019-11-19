@@ -7,6 +7,7 @@ ________________________________________________________________________________
 * __3proxy-win32__	0.7.1.1	Tiny free proxy server.	http://3proxy.ru/
 * __42zip	42__	Recursive Zip archive bomb.	http://blog.fefe.de/?ts=b6cea88d
 * __acccheck__	0.2.1	A password dictionary attack tool that targets windows authentication via the SMB protocol.	http://labs.portcullis.co.uk/tools/acccheck/
+* __Spyse__  OSINT gathering tool that scans the entire web, enrich and collect all the data in its own DB for instant access. Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wide SSL/TLS DB and more. https://spyse.com/
 * __findsubdomains__  Complete subdomains sacnning service.(works using OSINT). https://findsubdomains.com
 * __sublist3r__   subdomains enumeration tool for penetration testers https://github.com/aboul3la/Sublist3r
 * __ASlookup__ Made for identifying the owner of an IP range(CIDR), ASN, related ASN, registry, etc... http://aslookup.com
@@ -28,7 +29,7 @@ ________________________________________________________________________________
 * __airoscript	45.0a122ee__	A script to simplify the use of aircrack-ng tools.	http://midnightresearch.com/projects/wicrawl/
 * __airpwn	1.4__	A tool for generic packet injection on an 802.11 network.	http://airpwn.sourceforge.net
 * __allthevhosts 1.0__	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
-* __Amass v1.4.0__ A tool that performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques https://github.com/caffix/am
+* __Amass v1.4.0__ A tool that performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques https://github.com/caffix/amass/releases
 * __american-fuzzy-lop	0.89b__	A practical, instrumentation-driven fuzzer for binary formats.	https://code.google.com/p/american-fuzzy-lop/
 * __androguard	1.9__	Reverse engineering, Malware and goodware analysis of Android applications and more.	https://code.google.com/p/androguard/
 * __androick	5.35048d7__	A python tool to help in forensics analysis on android.	https://github.com/Flo354/Androick
@@ -57,7 +58,6 @@ ________________________________________________________________________________
 * __asp-audit	2BETA__	An ASP fingerprinting tool and vulnerability scanner.	http://seclists.org/basics/2006/Sep/128
 * __athena-ssl-scanner	0.5.2__	a SSL cipher scanner that checks all cipher codes. It can identify about 150 different ciphers.	http://packetstormsecurity.com/files/93062/Athena-SSL-Cipher-Scanner.html
 * __atstaketools	0.1__	This is an archive of various @Stake tools that help perform vulnerability scanning and analysis, information gathering, password auditing, and forensics.	http://packetstormsecurity.com/files/50718/AtStakeTools.zip.html
-* __auto-xor-decryptor	3.6a1f8f7__	Automatic XOR decryptor tool.	http://www.blog.mrg-effitas.com/publishing-of-mrg-effitas-automatic-xor-decryptor-tool/
 * __autopsy	2.24__	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 * __azazel	10.401e3aa__	A userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.	https://github.com/chokepoint/azazel
 * __b2sum	20140114__	BLAKE2 file hash sum check. Computes the BLAKE2 (BLAKE2b or -s, -bp, -sp) cryptographic hash of a given file.	https://blake2.net/
@@ -98,13 +98,10 @@ ________________________________________________________________________________
 * __bluesnarfer	0.1__	A bluetooth attacking tool	http://www.alighieri.org/project.html
 * __bmap-tools	3.2__	Tool for copying largely sparse files using information from a block map file.	http://git.infradead.org/users/dedekind/bmap-tools.git
 * __bob-the-butcher	0.7.1__	A distributed password cracker package.	http://btb.banquise.net/
-* __bokken	376.caaa65c431a8__	GUI for radare2 and pyew.	http://inguma.eu/projects/bokken/
 * __bowcaster	0.1__	This framework, implemented in Python, is intended to aid those developing exploits by providing useful set of tools and modules, such as payloads, encoders, connect-back servers, etc. Currently the framework is focused on the MIPS CPU architecture, but the design is intended to be modular enough to support arbitrary architectures.	https://github.com/zcutlip/bowcaster
 * __braa	0.82__	A mass snmp scanner	http://s-tech.elsat.net.pl/braa/
 * __braces	0.4__	A Bluetooth Tracking Utility.	http://braces.shmoo.com/
-* __browser-fuzzer__	3	Browser Fuzzer 3	http://www.krakowlabs.com/dev.html
 * __bruteSniffing_Ficher__ A multiplatform python hacking tool for bruteforcing, cloning, fishing, information gathering and sniffing. https://github.com/programmingAthlete/BruteSniffing_Fisher
-* __brutessh	0.5__	A simple sshd password bruteforcer using a wordlist, it's very fast for internal networks. It's multithreads.	http://www.edge-security.com/edge-soft.php
 * __brutus	2__	One of the fastest, most flexible remote password crackers you can get your hands on.	http://www.hoobie.net/brutus/
 * __bsdiff	4.3__	bsdiff and bspatch are tools for building and applying patches to binary files.	http://www.daemonology.net/bsdiff/
 * __bsqlbf	2.7__	Blind SQL Injection Brute Forcer.	http://code.google.com/p/bsqlbf-v2/
@@ -134,7 +131,6 @@ ________________________________________________________________________________
 * __chapcrack	17.ae2827f__	A tool for parsing and decrypting MS-CHAPv2 network handshakes.	https://github.com/moxie0/chapcrack
 * __check-weak-dh-ssh	0.1__	Debian OpenSSL weak client Diffie-Hellman Exchange checker.	http://packetstormsecurity.com/files/66683/check_weak_dh_ssh.pl.bz2.html
 * __checkiban	0.2__	Checks the validity of an International Bank Account Number (IBAN).	http://kernel.embedromix.ro/us/
-* __checkpwd	1.23__	Oracle Password Checker (Cracker)	http://www.red-database-security.com/software/checkpwd.html
 * __checksec	1.5__	The checksec.sh script is designed to test what standard Linux OS and PaX security features are being used.	http://www.trapkit.de/tools/checksec.html
 * __chiron	0.7__	An all-in-one IPv6 Penetration Testing Framework.	http://www.secfu.net/tools-scripts/
 * __chkrootkit	0.50__	Checks for rootkits on a system	http://www.chkrootkit.org/
@@ -148,7 +144,6 @@ ________________________________________________________________________________
 * __cirt-fuzzer	1.0__	A simple TCP/UDP protocol fuzzer.	http://www.cirt.dk/
 * __cisco-auditing-tool	1__	Perl script which scans cisco routers for common vulnerabilities. Checks for default passwords, easily guessable community names, and the IOS history bug. Includes support for plugins and scanning multiple hosts.	http://www.scrypt.net
 * __cisco-global-exploiter	1.3__	A perl script that targets multiple vulnerabilities in the Cisco Internetwork Operating System (IOS) and Catalyst products.	http://www.blackangels.it
-* __cisco-ocs	0.2__	Cisco Router Default Password Scanner.	http://www.question-defense.com/2013/01/11/ocs-version-2-release-ocs-cisco-router-default-password-scanner
 * __cisco-router-config	1.1__	copy-router-config and merge-router-config to copy and merge Cisco Routers Configuration
 * __cisco-scanner	0.2__	Multithreaded Cisco HTTP vulnerability scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 * __cisco-torch	0.4b__	Cisco Torch mass scanning, fingerprinting, and exploitation tool.	http://www.arhont.com
@@ -200,7 +195,6 @@ ________________________________________________________________________________
 * __dc3dd	7.1.614__	A patched version of dd that includes a number of features useful for computer forensics	http://sourceforge.net/projects/dc3dd
 * __dcfldd	1.3.4.1__	DCFL (DoD Computer Forensics Lab) dd replacement with hashing	http://dcfldd.sourceforge.net/
 * __ddrescue	1.19__	GNU data recovery tool	http://www.gnu.org/software/ddrescue/ddrescue.html
-* __deblaze	0.3__	A remote method enumeration tool for flex servers	http://deblaze-tool.appspot.com/
 * __decker 0.0.11__ A penetration testing orchestration and automation framework, which allows writing declarative, reusable configurations capable of ingesting variables and using outputs of tools it has run as inputs to others.
 * __delldrac	0.1a__	DellDRAC and Dell Chassis Discovery and Brute Forcer.	https://www.trustedsec.com/september/owning-dell-drac-awesome-hack/
 * __depant	0.3a__	Check network for services with default passwords.	http://midnightresearch.com/projects/depant/
@@ -217,7 +211,6 @@ ________________________________________________________________________________
 * __dirscanner	0.1__	This is a python script that scans webservers looking for administrative directories, php shells, and more.	http://packetstormsecurity.com/files/117773/Directory-Scanner-Tool.html
 * __dislocker	0.3__	A tool to exploit the hash length extension attack in various hashing algorithms. With FUSE capabilities built in.	http://www.hsc.fr/ressources/outils/dislocker/
 * __dissector	1__	This code dissects the internal data structures in ELF files. It supports x86 and x86_64 archs and runs under Linux.	http://packetstormsecurity.com/files/125972/Coloured-ELF-File-Dissector.html
-* __dissy	10__	A graphical frontend to the objdump disassembler for compiler-generated code.	http://dissy.googlecode.com/
 * __dizzy	0.8.2__	A Python based fuzzing framework with many features.	http://www.c0decafe.de/
 * __dmitry	1.3a__	Deepmagic Information Gathering Tool. Gathers information about hosts. It is able to gather possible subdomains, email addresses, and uptime information and run tcp port scans, whois lookups, and more.	http://www.mor-pah.net/
 * __dnmap	0.6__	The distributed nmap framework	http://sourceforge.net/projects/dnmap/
@@ -231,7 +224,7 @@ ________________________________________________________________________________
 * __dnsdrdos	0.1__	Proof of concept code for distributed DNS reflection DoS	http://nullsecurity.net/tools/dos.html
 * __dnsenum	1.2.4.1__	Script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=dnsenum
 * __dnsgoblin	0.1__	Nasty creature constantly searching for DNS servers. It uses standard dns querys and waits for the replies	http://nullsecurity.net/tools/scanner.html
-* __dnsmap	0.30__	Passive DNS network mapper	http://dnsmap.googlecode.com
+* __DNStable__	Passive DNS network mapper	https://dnstable.com/
 * __dnspredict	0.0.2__	DNS prediction	http://johnny.ihackstuff.com
 * __dnsrecon	0.8.8__	Python script for enumeration of hosts, subdomains and emails from a given domain using google.	https://github.com/darkoperator/dnsrecon
 * __dnsspider	0.5__	A very fast multithreaded bruteforcer of subdomains that leverages a wordlist and/or character permutation.	http://nullsecurity.net/tools/scanner.html
@@ -288,7 +281,6 @@ ________________________________________________________________________________
 * __fakemail	1.0__	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
 * __fakenetbios	7.b83701e__	A family of tools designed to simulate Windows hosts (NetBIOS) on a LAN.	https://github.com/mubix/FakeNetBIOS
 * __fang	1.2__	A multi service threaded MD5 cracker.	https://github.com/evilsocket/fang
-* __fbht	r12.a284878__	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
 * __fcrackzip	1.0__	Zip file password cracker	http://oldhome.schmorp.de/marc/fcrackzip.html
 * __fern-wifi-cracker	219__	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
 * __fernmelder	6.c6d4ebe__	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
@@ -323,7 +315,6 @@ ________________________________________________________________________________
 * __ftp-fuzz	1337__	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
 * __ftp-scanner	0.2.5__	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 * __ftp-spider	1.0__	FTP investigation tool - Scans ftp server for the following: reveal entire directory tree structures, detect anonymous access, detect directories with write permissions, find user specified data within repository.	http://packetstormsecurity.com/files/35120/ftp-spider.pl.html
-* __ftpmap	0.4__	scans remote FTP servers to identify what software and what versions they are running.	http://wcoserver.googlecode.com/files/
 * __fusil	1.4__	Fusil the fuzzer is a Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files	http://bitbucket.org/haypo/fusil/wiki/Home
 * __fuzzap	14.f13932c__	A python script for obfuscating wireless networks.	https://github.com/lostincynicism/FuzzAP
 * __fuzzball2	0.7__	A little fuzzer for TCP and IP options. It sends a bunch of more or less bogus packets to the host of your choice.	http://nologin.org/
@@ -351,7 +342,6 @@ ________________________________________________________________________________
 * __goofile	1.5__	Command line filetype search	https://code.google.com/p/goofile/
 * __goog-mail	1.0__	Enumerate domain emails from google.	http://www.darkc0de.com/others/goog-mail.py
 * __googlesub	1.2__	A python script to find domains by using google dorks.	https://github.com/zombiesam/googlesub
-* __gooscan	1.0.9__	A tool that automates queries against Google search appliances, but with a twist.	http://johnny.ihackstuff.com/downloads/task,doc_details&Itemid=/gid,28/
 * __gqrx	2.3.1__	Interactive SDR receiver waterfall for many devices.	http://gqrx.dk/
 * __grabber	0.1__	A web application scanner. Basically it detects some kind of vulnerabilities in your website.	http://rgaucher.info/beta/grabber/
 * __grepforrfi	0.1__	Simple script for parsing web logs for RFIs and Webshells v1.2	http://www.irongeek.com/downloads/grepforrfi.txt
@@ -366,7 +356,6 @@ ________________________________________________________________________________
 * __halcyon	0.1__	A repository crawler that runs checksums for static files found within a given git repository.	http://www.blackhatlibrary.net/Halcyon
 * __hamster	2.0.0__	Tool for HTTP session sidejacking.	http://hamster.erratasec.com/
 * __handle	0.0__	An small application designed to analyze your system searching for global objects related to running proccess and display information for every found object, like tokens, semaphores, ports, files,..	http://www.tarasco.org/security/handle/index.html
-* __hasere	1.0__	Discover the vhosts using google and bing.	https://github.com/galkan/hasere
 * __hash-identifier	1.1__	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
 * __hashcat	0.47__	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
 * ___hashcat-utils	1.0__	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
@@ -396,7 +385,6 @@ ________________________________________________________________________________
 * __hping	3.0.0__	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
 * __hqlmap	35.081395e__	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
 * __htexploit	0.77__	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
-* __htrosbif	134.9dc3f86__	Active HTTP server fingerprinting and recon tool.	https://github.com/lkarsten/htrosbif
 * __htshells	760b5e9__	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
 * __http-enum	0.3__	A tool to enumerate the enabled HTTP methods supported on a webserver.	https://www.thexero.co.uk/tools/http-enum/
 * __http-fuzz	0.1__	A simple http fuzzer.	none
@@ -410,7 +398,6 @@ ________________________________________________________________________________
 * __httpry	0.1.8__	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
 * __httpsniff	0.4__ Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
 * __httpsscanner	1.2__	A tool to test the strength of a SSL web server.	https://code.google.com/p/libre-tools/
-* __httptunnel	3.3__	Creates a bidirectional virtual data connection tunnelled in HTTP requests	http://www.nocrew.org/software/httptunnel
 * __hulk	11.a9b9ad4__	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
 * __hwk	0.4__	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
 * __hydra	8.1__	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
@@ -435,8 +422,6 @@ ________________________________________________________________________________
 * __inguma	0.1.1__	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
 * __intercepter-ng	0.9.8__	A next generation sniffer including a lot of features: capturing passwords/hashes, sniffing chat messages, performing man-in-the-middle attacks, etc.	http://intercepter.nerf.ru/#down
 * __interrogate	0.0.4__	A proof-of-concept tool for identification of cryptographic keys in binary material (regardless of target operating system), first and foremost for memory dump analysis and forensic usage.	https://github.com/carmaa/interrogate
-* __intersect	2.5__	Post-exploitation framework	https://github.com/ohdae/Intersect.5
-* __intrace	1.5__	Traceroute-like application piggybacking on existing TCP connections	http://intrace.googlecode.com
 * __inundator	0.5__	An ids evasion tool, used to anonymously inundate intrusion detection logs with false positives in order to obfuscate a real attack.	http://inundator.sourceforge.net/
 * __inviteflood	2.0__	Flood a device with INVITE requests	https://launchpad.net/~wagungs/+archive/kali-linux/+build/4386635
 * __iodine	0.7.0__	Tunnel IPv4 data through a DNS server	http://code.kryo.se/iodine
@@ -445,7 +430,6 @@ ________________________________________________________________________________
 * __ipaudit	1.0BETA2__	IPAudit monitors network activity on a network.	http://ipaudit.sourceforge.net
 * __ipba2	032013__	IOS Backup Analyzer	http://www.ipbackupanalyzer.com/
 * __ipdecap	69.f3a08f6__	Can decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, and can also remove IEEE 802.1Q (virtual lan) header.	http://www.loicp.eu/ipdecap#dependances
-* __iphoneanalyzer	2.1.0__	Allows you to forensically examine or recover date from in iOS device.	http://www.crypticbit.com/zen/products/iphoneanalyzer
 * __ipscan	3.3.2__	Angry IP scanner is a very fast IP address and port scanner.	http://www.angryziber.com/
 * __iputils	20121221__	Network monitoring tools, including ping	http://www.skbuff.net/iputils/
 * __ipv6toolkit	2.0beta__	SI6 Networks' IPv6 Toolkit	http://www.si6networks.com/tools/ipv6toolkit/
@@ -459,7 +443,6 @@ ________________________________________________________________________________
 * __jbrute	0.99__	Open Source Security tool to audit hashed passwords.	http://sourceforge.net/projects/jbrute/
 * __jd-gui	0.3.5__	A standalone graphical utility that displays Java source codes of .class files	http://java.decompiler.free.fr/?q=jdgui
 * __jhead	2.97__	EXIF JPEG info parser and thumbnail remover	http://www.sentex.net/~mwandel/jhead/
-* __jigsaw	1.3__	A simple ruby script for enumerating information about a company's employees. It is useful for Social Engineering or Email Phishing.	https://github.com/pentestgeek/jigsaw
 * __jnetmap	0.5.3__	A network monitor of sorts	http://www.rakudave.ch/jnetmap/?file=introduction
 * __john	1.7.9__	John The Ripper - A fast password cracker (jumbo included)	http://www.openwall.com/john/
 * __johnny	20120424__	GUI for John the Ripper.	http://openwall.info/wiki/john/johnny
@@ -468,7 +451,6 @@ ________________________________________________________________________________
 * __joomscan	2012.03.10__	Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site.	http://joomscan.sourceforge.net/
 * __js-beautify	1.4.2__	This little beautifier will reformat and reindent bookmarklets, ugly JavaScript, unpack scripts packed by Dean Edward?s popular packer, as well as deobfuscate scripts processed by javascriptobfuscator.com.	https://github.com/einars/js-beautify
 * __jsql__	0.5	A lightweight application used to find database information from a distant server.	https://code.google.com/p/jsql-injection/
-* __junkie	1338.baa4524__	A modular packet sniffer and analyzer.	https://github.com/securactive/junkie
 * __jwscan	6.b0306f0__	Scanner for Jar to EXE wrapper like Launch4j, Exe4j, JSmooth, Jar2Exe.	https://github.com/katjahahn/JWScan
 * __jynx2	2.0__	An expansion of the original Jynx LD_PRELOAD rootkit	http://www.blackhatlibrary.net/Jynx2
 * __kalibrate-rtl	11.aae11c8__	Fork of http://thre.at/kalibrate/ for use with rtl-sdr devices.	https://github.com/steve-m/kalibrate-rtl
@@ -494,7 +476,6 @@ ________________________________________________________________________________
 * __ldapenum	0.1__	Enumerate domain controllers using LDAP.	https://gobag.googlecode.com/svn-history/r2/trunk/ldap/ldapenum/
 * __leo	4.11__	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
 * __leroy-jenkins	0.r3.bdc3965__	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
-* __levye	85.419e817__	A brute force tool which is support sshkey, vnckey, rdp, openvpn.	https://github.com/galkan/levye
 * __lfi-autopwn	3.0__	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
 * __lfi-exploiter	1.1__	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
 * __lfi-fuzzploit	1.1__	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
@@ -504,13 +485,11 @@ ________________________________________________________________________________
 * __lft	3.72__	A layer four traceroute implementing numerous other features.	http://pwhois.org/lft/
 * __libdisasm	0.23__	A disassembler library.	http://bastard.sourceforge.net/libdisasm.html
 * __libpst	0.6.63__	Outlook .pst file converter	http://www.five-ten-sg.com/libpst/
-* __liffy	63.238ce6d__	A Local File Inclusion Exploitation tool.	https://github.com/rotlogix/liffy
 * __linenum	18.b4c2541__	Scripted Local Linux Enumeration & Privilege Escalation Checks	https://github.com/rebootuser/LinEnum
 * __linux-exploit-suggester	32.9db2f5a__	A Perl script that tries to suggest exploits based OS version number.	https://github.com/PenturaLabs/Linux_Exploit_Suggester
 * __list-urls	0.1__	Extracts links from webpage	http://www.whoppix.net
 * __littleblackbox	0.1.3__	Penetration testing tool, search in a collection of thousands of private SSL keys extracted from various embedded devices.	http://code.google.com/p/littleblackbox/wiki/FAQ
 * __lodowep	1.2.1__	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
-* __logkeys	0.1.1a__	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
 * __loki	0.2.7___	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
 * __lorcon	2.0.0.20091101__	Generic library for injecting 802.11 frames	http://802.11ninja.net/
 * __lotophagi	0.1__	a relatively compact Perl script designed to scan remote hosts for default (or common) Lotus NSF and BOX databases.	http://packetstormsecurity.com/files/55250/lotophagi.rar.html
