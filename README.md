@@ -144,6 +144,7 @@ ________________________________________________________________________________
 * __cirt-fuzzer	1.0__	A simple TCP/UDP protocol fuzzer.	http://www.cirt.dk/
 * __cisco-auditing-tool	1__	Perl script which scans cisco routers for common vulnerabilities. Checks for default passwords, easily guessable community names, and the IOS history bug. Includes support for plugins and scanning multiple hosts.	http://www.scrypt.net
 * __cisco-global-exploiter	1.3__	A perl script that targets multiple vulnerabilities in the Cisco Internetwork Operating System (IOS) and Catalyst products.	http://www.blackangels.it
+* __cisco-ocs	0.2__	Cisco Router Default Password Scanner.	http://www.question-defense.com/2013/01/11/ocs-version-2-release-ocs-cisco-router-default-password-scanner
 * __cisco-router-config	1.1__	copy-router-config and merge-router-config to copy and merge Cisco Routers Configuration
 * __cisco-scanner	0.2__	Multithreaded Cisco HTTP vulnerability scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 * __cisco-torch	0.4b__	Cisco Torch mass scanning, fingerprinting, and exploitation tool.	http://www.arhont.com
